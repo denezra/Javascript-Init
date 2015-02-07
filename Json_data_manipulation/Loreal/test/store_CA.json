@@ -1,0 +1,7382 @@
+[
+  {
+    "storeNumber":"29393",
+    "addr":"1130 Arnold Dr.",
+    "city":"Martinez",
+    "state":"CA",
+    "zip":"94553",
+    "phone":"9259579410",
+    "lat":37.995489,
+    "lng":-122.108997
+  },
+  {
+    "storeNumber":"3009",
+    "addr":"2255 Telegraph Ave",
+    "city":"Oakland",
+    "state":"CA",
+    "zip":"94612",
+    "phone":"(510)844-0764",
+    "lat":37.812151,
+    "lng":-122.269131
+  },
+  {
+    "storeNumber":"3000",
+    "addr":"5919 Stockton Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95824",
+    "phone":"(916) 392-1168",
+    "lat":38.519428,
+    "lng":-121.439621
+  },
+  {
+    "storeNumber":"18675",
+    "addr":"6079 Horseshoe Bar Road",
+    "city":"Loomis",
+    "state":"CA",
+    "zip":"95650",
+    "phone":"(916)652-4676",
+    "lat":38.818299,
+    "lng":-121.189888
+  },
+  {
+    "storeNumber":"28823",
+    "addr":"40 San Pablo Dam Rd",
+    "city":"San Pablo",
+    "state":"CA",
+    "zip":"94806",
+    "phone":"(510)215-1971",
+    "lat":37.955075,
+    "lng":-122.330833
+  },
+  {
+    "storeNumber":"28821",
+    "addr":"1416 Farmers Ln",
+    "city":"Santa Rosa",
+    "state":"CA",
+    "zip":"95405",
+    "phone":"(707)576-8122",
+    "lat":38.43454,
+    "lng":-122.687263
+  },
+  {
+    "storeNumber":"28820",
+    "addr":"771 Stony Point Rd",
+    "city":"Santa Rosa",
+    "state":"CA",
+    "zip":"95407",
+    "phone":"(707)528-2907",
+    "lat":38.427513,
+    "lng":-122.741855
+  },
+  {
+    "storeNumber":"28819",
+    "addr":"155 Soscol Ave",
+    "city":"Napa",
+    "state":"CA",
+    "zip":"94559",
+    "phone":"(707)257-2700",
+    "lat":38.281433,
+    "lng":-122.274693
+  },
+  {
+    "storeNumber":"28831",
+    "addr":"4470 Century Blvd",
+    "city":"Pittsburg",
+    "state":"CA",
+    "zip":"94565",
+    "phone":"(925)778-4016",
+    "lat":38.005995,
+    "lng":-121.837582
+  },
+  {
+    "storeNumber":"28830",
+    "addr":"2000 Santa Rosa Ave",
+    "city":"Santa Rosa",
+    "state":"CA",
+    "zip":"95407",
+    "phone":"(707)569-0903",
+    "lat":38.418199,
+    "lng":-122.71315
+  },
+  {
+    "storeNumber":"28829",
+    "addr":"3445 Deer Valley Rd",
+    "city":"Antioch",
+    "state":"CA",
+    "zip":"94531",
+    "phone":"(925)754-6685",
+    "lat":37.988506,
+    "lng":-121.785163
+  },
+  {
+    "storeNumber":"28828",
+    "addr":"3177 Jefferson St",
+    "city":"Napa",
+    "state":"CA",
+    "zip":"94558",
+    "phone":"(707)254-0517",
+    "lat":38.31833,
+    "lng":-122.298682
+  },
+  {
+    "storeNumber":"28827",
+    "addr":"406 E Washington St",
+    "city":"Petaluma",
+    "state":"CA",
+    "zip":"94952",
+    "phone":"(707)763-6200",
+    "lat":38.238085,
+    "lng":-122.635533
+  },
+  {
+    "storeNumber":"28826",
+    "addr":"1700 E Cotati Ave",
+    "city":"Rohnert Park",
+    "state":"CA",
+    "zip":"94928",
+    "phone":"(707)664-1700",
+    "lat":38.335729,
+    "lng":-122.677475
+  },
+  {
+    "storeNumber":"28825",
+    "addr":"2111 Loveridge Rd",
+    "city":"Pittsburg",
+    "state":"CA",
+    "zip":"94565",
+    "phone":"(925)432-2873",
+    "lat":38.010361,
+    "lng":-121.869293
+  },
+  {
+    "storeNumber":"28824",
+    "addr":"5000 Redwood Dr",
+    "city":"Rohnert Park",
+    "state":"CA",
+    "zip":"94928",
+    "phone":"(707)585-9981",
+    "lat":38.364722,
+    "lng":-122.713613
+  },
+  {
+    "storeNumber":"28822",
+    "addr":"1835 Mendocino Ave",
+    "city":"Santa Rosa",
+    "state":"CA",
+    "zip":"95401",
+    "phone":"(707)571-8241",
+    "lat":38.457951,
+    "lng":-122.717799
+  },
+  {
+    "storeNumber":"22330",
+    "addr":"2400 N Main",
+    "city":"Walnut Creek",
+    "state":"CA",
+    "zip":"94596",
+    "phone":"(925)932-9321",
+    "lat":37.913272,
+    "lng":-122.065174
+  },
+  {
+    "storeNumber":"20994",
+    "addr":"930 Seventh St",
+    "city":"Novato",
+    "state":"CA",
+    "zip":"94945",
+    "phone":"(415)878-0230",
+    "lat":38.10693,
+    "lng":-122.577889
+  },
+  {
+    "storeNumber":"16086",
+    "addr":"1221 Concord Ave",
+    "city":"Concord",
+    "state":"CA",
+    "zip":"94520",
+    "phone":"(925)798-7088",
+    "lat":37.980801,
+    "lng":-122.055853
+  },
+  {
+    "storeNumber":"4694",
+    "addr":"6030 Johnson Dr",
+    "city":"Pleasanton",
+    "state":"CA",
+    "zip":"94588",
+    "phone":"(925)416-1414",
+    "lat":37.700658,
+    "lng":-121.908754
+  },
+  {
+    "storeNumber":"4282",
+    "addr":"500 Contra Costa Blvd",
+    "city":"Pleasant Hill",
+    "state":"CA",
+    "zip":"94523",
+    "phone":"(925)680-6030",
+    "lat":37.981213,
+    "lng":-122.067458
+  },
+  {
+    "storeNumber":"3003",
+    "addr":"1700 Contra Costa Blvd",
+    "city":"Pleasant Hill",
+    "state":"CA",
+    "zip":"94523",
+    "phone":"(925)680-0280",
+    "lat":37.953176,
+    "lng":-122.059734
+  },
+  {
+    "storeNumber":"1096",
+    "addr":"7123 Village Pkwy",
+    "city":"Dublin",
+    "state":"CA",
+    "zip":"94568",
+    "phone":"(925)833-0713",
+    "lat":37.709571,
+    "lng":-121.926149
+  },
+  {
+    "storeNumber":"19909",
+    "addr":"16978 Penn Valley Dr",
+    "city":"Penn Valley",
+    "state":"CA",
+    "zip":"95946",
+    "phone":"(530)432-7493",
+    "lat":39.20195,
+    "lng":-121.171216
+  },
+  {
+    "storeNumber":"29466",
+    "addr":"14019 W Whitesbridge Rd",
+    "city":"Kerman",
+    "state":"CA",
+    "zip":"93630",
+    "phone":"5598461432",
+    "lat":36.734879,
+    "lng":-120.042859
+  },
+  {
+    "storeNumber":"4684",
+    "addr":"2350 W Cleveland Ave",
+    "city":"Madera",
+    "state":"CA",
+    "zip":"93637",
+    "phone":"(559)674-1793",
+    "lat":36.974536,
+    "lng":-120.08503
+  },
+  {
+    "storeNumber":"4016",
+    "addr":"1420 Howard Rd",
+    "city":"Madera",
+    "state":"CA",
+    "zip":"93637",
+    "phone":"(559)661-8343",
+    "lat":36.952636,
+    "lng":-120.074903
+  },
+  {
+    "storeNumber":"3166",
+    "addr":"1059 N Lemoore Ave",
+    "city":"Lemoore",
+    "state":"CA",
+    "zip":"93245",
+    "phone":"(559)924-2057",
+    "lat":36.312551,
+    "lng":-119.781264
+  },
+  {
+    "storeNumber":"28771",
+    "addr":"2883 Highland Ave",
+    "city":"Selma",
+    "state":"CA",
+    "zip":"93662",
+    "phone":"(559)896-7011",
+    "lat":36.576064,
+    "lng":-119.630177
+  },
+  {
+    "storeNumber":"28770",
+    "addr":"4015 W Clinton Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93722",
+    "phone":"(559)276-1185",
+    "lat":36.77153,
+    "lng":-119.862759
+  },
+  {
+    "storeNumber":"28769",
+    "addr":"2040 W Shaw Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93711",
+    "phone":"(559)436-1278",
+    "lat":36.808644,
+    "lng":-119.827242
+  },
+  {
+    "storeNumber":"28768",
+    "addr":"4050 W Shaw Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93722",
+    "phone":"(559)277-2149",
+    "lat":36.808782,
+    "lng":-119.86396
+  },
+  {
+    "storeNumber":"28766",
+    "addr":"1365 W Olive Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93728",
+    "phone":"(559)237-9594",
+    "lat":36.757211,
+    "lng":-119.827382
+  },
+  {
+    "storeNumber":"22812",
+    "addr":"500 Sierra St",
+    "city":"Kingsburg",
+    "state":"CA",
+    "zip":"93631",
+    "phone":"(559)897-4596",
+    "lat":36.517644,
+    "lng":-119.563505
+  },
+  {
+    "storeNumber":"22272",
+    "addr":"1686 E Manning Ave",
+    "city":"Reedley",
+    "state":"CA",
+    "zip":"93654",
+    "phone":"(559)643-0190",
+    "lat":36.60439,
+    "lng":-119.4313
+  },
+  {
+    "storeNumber":"22271",
+    "addr":"725 N Alta",
+    "city":"Dinuba",
+    "state":"CA",
+    "zip":"93618",
+    "phone":"(559)591-5595",
+    "lat":36.551501,
+    "lng":-119.395472
+  },
+  {
+    "storeNumber":"24111",
+    "addr":"5210 Auburn Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95841",
+    "phone":"(916)348-8203",
+    "lat":38.663433,
+    "lng":-121.343264
+  },
+  {
+    "storeNumber":"24043",
+    "addr":"6975 Douglas Blvd",
+    "city":"Granite Bay",
+    "state":"CA",
+    "zip":"95746",
+    "phone":"9167910707",
+    "lat":38.743816,
+    "lng":-121.172431
+  },
+  {
+    "storeNumber":"22062",
+    "addr":"2921 Advantage Way",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95834",
+    "phone":"(916)285-9512",
+    "lat":38.654635,
+    "lng":-121.526975
+  },
+  {
+    "storeNumber":"20784",
+    "addr":"8433 Sierra College Blvd",
+    "city":"Granite Bay",
+    "state":"CA",
+    "zip":"95746",
+    "phone":"(916)791-9223",
+    "lat":38.745583,
+    "lng":-121.22632
+  },
+  {
+    "storeNumber":"17468",
+    "addr":"12220 Tributary Ln",
+    "city":"Rancho Cordova",
+    "state":"CA",
+    "zip":"95670",
+    "phone":"(916)353-1278",
+    "lat":38.631674,
+    "lng":-121.218747
+  },
+  {
+    "storeNumber":"4879",
+    "addr":"8823 Greenback Ln",
+    "city":"Orangevale",
+    "state":"CA",
+    "zip":"95662",
+    "phone":"(916)987-7076",
+    "lat":38.678888,
+    "lng":-121.229364
+  },
+  {
+    "storeNumber":"3821",
+    "addr":"9382 Madison Ave",
+    "city":"Orangevale",
+    "state":"CA",
+    "zip":"95662",
+    "phone":"(916)988-0469",
+    "lat":38.671359,
+    "lng":-121.203037
+  },
+  {
+    "storeNumber":"1521",
+    "addr":"5641 Freeport Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95822",
+    "phone":"(916)393-7807",
+    "lat":38.522953,
+    "lng":-121.49736
+  },
+  {
+    "storeNumber":"290",
+    "addr":"425 G St",
+    "city":"Davis",
+    "state":"CA",
+    "zip":"95616",
+    "phone":"(530)758-4172",
+    "lat":38.546849,
+    "lng":-121.740067
+  },
+  {
+    "storeNumber":"26783",
+    "addr":"2525 Marconi Ave",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95821",
+    "phone":"(916)486-0747",
+    "lat":38.61843,
+    "lng":-121.403228
+  },
+  {
+    "storeNumber":"1041",
+    "addr":"4318 Marconi Ave",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95821",
+    "phone":"(916)482-7608",
+    "lat":38.617237,
+    "lng":-121.3633
+  },
+  {
+    "storeNumber":"17223",
+    "addr":"25002 Blue Ravine Rd",
+    "city":"Folsom",
+    "state":"CA",
+    "zip":"95630",
+    "phone":"(916)351-5858",
+    "lat":38.690728,
+    "lng":-121.123944
+  },
+  {
+    "storeNumber":"28818",
+    "addr":"2779 Aborn Rd",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95121",
+    "phone":"4082702960",
+    "lat":37.314143,
+    "lng":-121.792949
+  },
+  {
+    "storeNumber":"28816",
+    "addr":"259 El Camino Real",
+    "city":"San Carlos",
+    "state":"CA",
+    "zip":"94070",
+    "phone":"(650)508-8226",
+    "lat":37.511385,
+    "lng":-122.26503
+  },
+  {
+    "storeNumber":"28814",
+    "addr":"535 W Capitol Expwy",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95136",
+    "phone":"(408)723-0728",
+    "lat":37.274953,
+    "lng":-121.852482
+  },
+  {
+    "storeNumber":"28813",
+    "addr":"720 Story Rd",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95122",
+    "phone":"(408)279-1963",
+    "lat":37.328777,
+    "lng":-121.858914
+  },
+  {
+    "storeNumber":"28811",
+    "addr":"1103 Veterans Blvd",
+    "city":"Redwood City",
+    "state":"CA",
+    "zip":"94063",
+    "phone":"(650)568-0226",
+    "lat":37.490153,
+    "lng":-122.223954
+  },
+  {
+    "storeNumber":"28809",
+    "addr":"5538 Monterey Hwy",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95138",
+    "phone":"(408)363-8428",
+    "lat":37.253557,
+    "lng":-121.798038
+  },
+  {
+    "storeNumber":"28807",
+    "addr":"2693 El Camino Real",
+    "city":"Redwood City",
+    "state":"CA",
+    "zip":"94061",
+    "phone":"(650) 366-5176",
+    "lat":37.472246,
+    "lng":-122.215447
+  },
+  {
+    "storeNumber":"28805",
+    "addr":"465 El Camino Real",
+    "city":"South San Francisco",
+    "state":"CA",
+    "zip":"94080",
+    "phone":"(650)583-3473",
+    "lat":37.646815,
+    "lng":-122.428705
+  },
+  {
+    "storeNumber":"27485",
+    "addr":"15501 Hesperian Blvd",
+    "city":"San Leandro",
+    "state":"CA",
+    "zip":"94579",
+    "phone":"(510)278-2721",
+    "lat":37.689446,
+    "lng":-122.130314
+  },
+  {
+    "storeNumber":"20577",
+    "addr":"5350 Great America Pkwy",
+    "city":"Santa Clara",
+    "state":"CA",
+    "zip":"95054",
+    "phone":"(408)213-1757",
+    "lat":37.409675,
+    "lng":-121.97804
+  },
+  {
+    "storeNumber":"19954",
+    "addr":"4346 Lone Tree Way",
+    "city":"Antioch",
+    "state":"CA",
+    "zip":"94531",
+    "phone":"(925)978-1132",
+    "lat":37.967098,
+    "lng":-121.78388
+  },
+  {
+    "storeNumber":"19831",
+    "addr":"1109 Tasman Dr",
+    "city":"Sunnyvale",
+    "state":"CA",
+    "zip":"94089",
+    "phone":"(408)744-0558",
+    "lat":37.404168,
+    "lng":-121.995071
+  },
+  {
+    "storeNumber":"19471",
+    "addr":"915 S Tracy Blvd",
+    "city":"Tracy",
+    "state":"CA",
+    "zip":"95376",
+    "phone":"(209)833-0193",
+    "lat":37.737115,
+    "lng":-121.436342
+  },
+  {
+    "storeNumber":"18626",
+    "addr":"5524 Springdale Ave",
+    "city":"Pleasanton",
+    "state":"CA",
+    "zip":"94588",
+    "phone":"(925)463-1231",
+    "lat":37.692201,
+    "lng":-121.926133
+  },
+  {
+    "storeNumber":"18544",
+    "addr":"7887 Soquel Dr",
+    "city":"Aptos",
+    "state":"CA",
+    "zip":"95003",
+    "phone":"(831)687-0903",
+    "lat":36.978166,
+    "lng":-121.9064
+  },
+  {
+    "storeNumber":"17985",
+    "addr":"3160 Danville Blvd Ste D",
+    "city":"Alamo",
+    "state":"CA",
+    "zip":"94507",
+    "phone":"(925)406-0185",
+    "lat":37.851577,
+    "lng":-122.032026
+  },
+  {
+    "storeNumber":"16916",
+    "addr":"27316 Hesperian Blvd",
+    "city":"Hayward",
+    "state":"CA",
+    "zip":"94545",
+    "phone":"(510)784-0416",
+    "lat":37.631907,
+    "lng":-122.096976
+  },
+  {
+    "storeNumber":"16304",
+    "addr":"420 Diablo Rd",
+    "city":"Danville",
+    "state":"CA",
+    "zip":"94526",
+    "phone":"(925)406-0184",
+    "lat":37.822998,
+    "lng":-121.992709
+  },
+  {
+    "storeNumber":"16155",
+    "addr":"3839 Emery St 700",
+    "city":"Emeryville",
+    "state":"CA",
+    "zip":"94608",
+    "phone":"(510)844-0531",
+    "lat":37.828837,
+    "lng":-122.282361
+  },
+  {
+    "storeNumber":"16118",
+    "addr":"4674 Clayton Rd",
+    "city":"Concord",
+    "state":"CA",
+    "zip":"94521",
+    "phone":"(925)687-4815",
+    "lat":37.960937,
+    "lng":-121.983494
+  },
+  {
+    "storeNumber":"16104",
+    "addr":"39080 Argonaut Way 1308",
+    "city":"Fremont",
+    "state":"CA",
+    "zip":"94538",
+    "phone":"(510)857-0158",
+    "lat":37.54567,
+    "lng":-121.989721
+  },
+  {
+    "storeNumber":"15463",
+    "addr":"797 Marina Blvd",
+    "city":"San Leandro",
+    "state":"CA",
+    "zip":"94577",
+    "phone":"(510)957-0439",
+    "lat":37.714009,
+    "lng":-122.157399
+  },
+  {
+    "storeNumber":"15259",
+    "addr":"4526 Las Positas Rd",
+    "city":"Livermore",
+    "state":"CA",
+    "zip":"94551",
+    "phone":"(925)373-0828",
+    "lat":37.700148,
+    "lng":-121.742896
+  },
+  {
+    "storeNumber":"9422",
+    "addr":"15099 A Hesperian Blvd",
+    "city":"San Leandro",
+    "state":"CA",
+    "zip":"94578",
+    "phone":"(510)856-0301",
+    "lat":37.702642,
+    "lng":-122.130639
+  },
+  {
+    "storeNumber":"5725",
+    "addr":"2849 Ygnacio Valley Rd",
+    "city":"Walnut Creek",
+    "state":"CA",
+    "zip":"94598",
+    "phone":"(925)407-0295",
+    "lat":37.927295,
+    "lng":-122.014838
+  },
+  {
+    "storeNumber":"5027",
+    "addr":"2730 41st Ave",
+    "city":"Soquel",
+    "state":"CA",
+    "zip":"95073",
+    "phone":"(831)475-1845",
+    "lat":36.986236,
+    "lng":-121.964597
+  },
+  {
+    "storeNumber":"4448",
+    "addr":"630 Hegenberger Rd",
+    "city":"Oakland",
+    "state":"CA",
+    "zip":"94621",
+    "phone":"(510)569-7854",
+    "lat":37.746863,
+    "lng":-122.195632
+  },
+  {
+    "storeNumber":"3820",
+    "addr":"5684 Thorton Ave",
+    "city":"Newark",
+    "state":"CA",
+    "zip":"94560",
+    "phone":"(510)574-0642",
+    "lat":37.540742,
+    "lng":-122.027
+  },
+  {
+    "storeNumber":"3437",
+    "addr":"7814 Brentwood Blvd",
+    "city":"Brentwood",
+    "state":"CA",
+    "zip":"94513",
+    "phone":"(925)516-6705",
+    "lat":37.942791,
+    "lng":-121.695682
+  },
+  {
+    "storeNumber":"3175",
+    "addr":"1404 Soquel Ave",
+    "city":"Santa Cruz",
+    "state":"CA",
+    "zip":"95062",
+    "phone":"(831)316-0031",
+    "lat":36.981158,
+    "lng":-122.006459
+  },
+  {
+    "storeNumber":"3050",
+    "addr":"802 Pacific Ave",
+    "city":"Santa Cruz",
+    "state":"CA",
+    "zip":"95060",
+    "phone":"(831)316-0029",
+    "lat":36.96943,
+    "lng":-122.024529
+  },
+  {
+    "storeNumber":"3039",
+    "addr":"21600 Foothill Blvd",
+    "city":"Hayward",
+    "state":"CA",
+    "zip":"94541",
+    "phone":"(510)728-5173",
+    "lat":37.682938,
+    "lng":-122.08874
+  },
+  {
+    "storeNumber":"2959",
+    "addr":"5L Serramonte Ctr",
+    "city":"Daly City",
+    "state":"CA",
+    "zip":"94015",
+    "phone":"(650)991-7431",
+    "lat":37.673074,
+    "lng":-122.46858
+  },
+  {
+    "storeNumber":"2948",
+    "addr":"39199 Cedar Blvd",
+    "city":"Newark",
+    "state":"CA",
+    "zip":"94560",
+    "phone":"(510)857-0150",
+    "lat":37.523024,
+    "lng":-122.00486
+  },
+  {
+    "storeNumber":"2877",
+    "addr":"5200 Coast Hwy",
+    "city":"Pacifica",
+    "state":"CA",
+    "zip":"94044",
+    "phone":"(650)355-4210",
+    "lat":37.597167,
+    "lng":-122.503709
+  },
+  {
+    "storeNumber":"2757",
+    "addr":"2713 Willow Pass Rd",
+    "city":"Bay Point",
+    "state":"CA",
+    "zip":"94565",
+    "phone":"(925)709-9023",
+    "lat":38.026571,
+    "lng":-121.941652
+  },
+  {
+    "storeNumber":"2411",
+    "addr":"700 Military W",
+    "city":"Benicia",
+    "state":"CA",
+    "zip":"94510",
+    "phone":"(707)751-0877",
+    "lat":38.059013,
+    "lng":-122.167143
+  },
+  {
+    "storeNumber":"2356",
+    "addr":"233 Mt Hermon Rd",
+    "city":"Scotts Valley",
+    "state":"CA",
+    "zip":"95066",
+    "phone":"(831)440-9455",
+    "lat":37.045541,
+    "lng":-122.028251
+  },
+  {
+    "storeNumber":"2194",
+    "addr":"32002 Alvarado Blvd",
+    "city":"Union City",
+    "state":"CA",
+    "zip":"94587",
+    "phone":"(510)489-8975",
+    "lat":37.589455,
+    "lng":-122.068385
+  },
+  {
+    "storeNumber":"1295",
+    "addr":"500 E 4th Ave",
+    "city":"San Mateo",
+    "state":"CA",
+    "zip":"94401",
+    "phone":"(650)403-0395",
+    "lat":37.565822,
+    "lng":-122.319552
+  },
+  {
+    "storeNumber":"1111",
+    "addr":"1900 Webster St",
+    "city":"Alameda",
+    "state":"CA",
+    "zip":"94501",
+    "phone":"(510)473-0112",
+    "lat":37.77855,
+    "lng":-122.276357
+  },
+  {
+    "storeNumber":"554",
+    "addr":"20925 Redwood Rd",
+    "city":"Castro Valley",
+    "state":"CA",
+    "zip":"94546",
+    "phone":"(510)856-0305",
+    "lat":37.694013,
+    "lng":-122.074183
+  },
+  {
+    "storeNumber":"529",
+    "addr":"1698 Monument Blvd",
+    "city":"Concord",
+    "state":"CA",
+    "zip":"94520",
+    "phone":"(925)687-0166",
+    "lat":37.954147,
+    "lng":-122.041634
+  },
+  {
+    "storeNumber":"410",
+    "addr":"6900 Bancroft Ave",
+    "city":"Oakland",
+    "state":"CA",
+    "zip":"94605",
+    "phone":"(510)568-5231",
+    "lat":37.767835,
+    "lng":-122.179097
+  },
+  {
+    "storeNumber":"245",
+    "addr":"3501 Mt Diablo Blvd",
+    "city":"Lafayette",
+    "state":"CA",
+    "zip":"94549",
+    "phone":"(925)283-6058",
+    "lat":37.892102,
+    "lng":-122.116582
+  },
+  {
+    "storeNumber":"156",
+    "addr":"1405 Mission St",
+    "city":"Santa Cruz",
+    "state":"CA",
+    "zip":"95060",
+    "phone":"(831)316-0032",
+    "lat":36.967349,
+    "lng":-122.038801
+  },
+  {
+    "storeNumber":"29363",
+    "addr":"146 San Mateo Rd",
+    "city":"Half Moon Bay",
+    "state":"CA",
+    "zip":"94019",
+    "phone":"6507121068",
+    "lat":37.469016,
+    "lng":-122.432454
+  },
+  {
+    "storeNumber":"29299",
+    "addr":"7255 Mission St.",
+    "city":"Daly City",
+    "state":"CA",
+    "zip":"94014",
+    "phone":"6507555085",
+    "lat":37.692416,
+    "lng":-122.464907
+  },
+  {
+    "storeNumber":"28817",
+    "addr":"1450 Camden Ave",
+    "city":"Campbell",
+    "state":"CA",
+    "zip":"95008",
+    "phone":"4088790904",
+    "lat":37.268352,
+    "lng":-121.943359
+  },
+  {
+    "storeNumber":"28815",
+    "addr":"215 W Jackson St",
+    "city":"Hayward",
+    "state":"CA",
+    "zip":"94544",
+    "phone":"(510)887-7785",
+    "lat":37.652716,
+    "lng":-122.090019
+  },
+  {
+    "storeNumber":"28812",
+    "addr":"37236 Fremont Blvd",
+    "city":"Fremont",
+    "state":"CA",
+    "zip":"94536",
+    "phone":"(510)797-8274",
+    "lat":37.55932,
+    "lng":-122.00856
+  },
+  {
+    "storeNumber":"28810",
+    "addr":"840 S Bascom",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95128",
+    "phone":"(408)297-8851",
+    "lat":37.311919,
+    "lng":-121.931331
+  },
+  {
+    "storeNumber":"28808",
+    "addr":"1131 Triton Blvd",
+    "city":"Foster City",
+    "state":"CA",
+    "zip":"94404",
+    "phone":"(650)572-8038",
+    "lat":37.563692,
+    "lng":-122.271296
+  },
+  {
+    "storeNumber":"28806",
+    "addr":"5431 Camden",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95124",
+    "phone":"(408)266-1533",
+    "lat":37.239866,
+    "lng":-121.90409
+  },
+  {
+    "storeNumber":"24355",
+    "addr":"2654 Blanding Ave",
+    "city":"Alameda",
+    "state":"CA",
+    "zip":"94501",
+    "phone":"5108652748",
+    "lat":37.76836,
+    "lng":-122.233378
+  },
+  {
+    "storeNumber":"20554",
+    "addr":"6005 Preston Ave",
+    "city":"Livermore",
+    "state":"CA",
+    "zip":"94551",
+    "phone":"(925)960-1423",
+    "lat":37.706146,
+    "lng":-121.722174
+  },
+  {
+    "storeNumber":"19414",
+    "addr":"2880 W Grant Line Road",
+    "city":"Tracy",
+    "state":"CA",
+    "zip":"95304",
+    "phone":"(209)835-9697",
+    "lat":37.75364,
+    "lng":-121.468925
+  },
+  {
+    "storeNumber":"16130",
+    "addr":"21001 San Ramon Valley Blvd",
+    "city":"San Ramon",
+    "state":"CA",
+    "zip":"94583",
+    "phone":"(925)404-0094",
+    "lat":37.723993,
+    "lng":-121.944545
+  },
+  {
+    "storeNumber":"15798",
+    "addr":"30075 Industrial Pkwy",
+    "city":"Union City",
+    "state":"CA",
+    "zip":"94587",
+    "phone":"(510)429-9428",
+    "lat":37.611274,
+    "lng":-122.067484
+  },
+  {
+    "storeNumber":"5227",
+    "addr":"2415 San Ramon Valley Blvd Ste 6",
+    "city":"San Ramon",
+    "state":"CA",
+    "zip":"94583",
+    "phone":"(925)406-0183",
+    "lat":37.774905,
+    "lng":-121.979085
+  },
+  {
+    "storeNumber":"4373",
+    "addr":"34525 Alvarado Niles Rd",
+    "city":"Union City",
+    "state":"CA",
+    "zip":"94587",
+    "phone":"(510)429-9448",
+    "lat":37.586865,
+    "lng":-122.021321
+  },
+  {
+    "storeNumber":"4330",
+    "addr":"2015 Main St",
+    "city":"Oakley",
+    "state":"CA",
+    "zip":"94561",
+    "phone":"(925)625-2330",
+    "lat":38.004414,
+    "lng":-121.733525
+  },
+  {
+    "storeNumber":"3908",
+    "addr":"985 E Stanley Blvd",
+    "city":"Livermore",
+    "state":"CA",
+    "zip":"94550",
+    "phone":"(925)373-1068",
+    "lat":37.678009,
+    "lng":-121.78477
+  },
+  {
+    "storeNumber":"3802",
+    "addr":"14 Green Valley Rd",
+    "city":"Freedom",
+    "state":"CA",
+    "zip":"95019",
+    "phone":"(831)761-3991",
+    "lat":36.935394,
+    "lng":-121.772407
+  },
+  {
+    "storeNumber":"3735",
+    "addr":"3535 35th Ave",
+    "city":"Oakland",
+    "state":"CA",
+    "zip":"94619",
+    "phone":"(510)842-0374",
+    "lat":37.793769,
+    "lng":-122.201132
+  },
+  {
+    "storeNumber":"3247",
+    "addr":"40660 Grimmer Blvd",
+    "city":"Fremont",
+    "state":"CA",
+    "zip":"94538",
+    "phone":"(510)824-0265",
+    "lat":37.53467,
+    "lng":-121.966497
+  },
+  {
+    "storeNumber":"3048",
+    "addr":"1975 S El Camino Real",
+    "city":"San Mateo",
+    "state":"CA",
+    "zip":"94403",
+    "phone":"(650)403-0387",
+    "lat":37.548663,
+    "lng":-122.309563
+  },
+  {
+    "storeNumber":"2078",
+    "addr":"2160 Marina Blvd",
+    "city":"San Leandro",
+    "state":"CA",
+    "zip":"94577",
+    "phone":"(510)352-3056",
+    "lat":37.704642,
+    "lng":-122.179694
+  },
+  {
+    "storeNumber":"1406",
+    "addr":"2320 Tracy Blvd",
+    "city":"Tracy",
+    "state":"CA",
+    "zip":"95376",
+    "phone":"(209)833-8177",
+    "lat":37.753361,
+    "lng":-121.434996
+  },
+  {
+    "storeNumber":"1405",
+    "addr":"2475 Olivera Rd",
+    "city":"Concord",
+    "state":"CA",
+    "zip":"94520",
+    "phone":"(925)405-0293",
+    "lat":37.995379,
+    "lng":-122.031852
+  },
+  {
+    "storeNumber":"26727",
+    "addr":"8170 Gerber Rd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95828",
+    "phone":"(916)681-3548",
+    "lat":38.481365,
+    "lng":-121.405486
+  },
+  {
+    "storeNumber":"21113",
+    "addr":"6704 Laguna Blvd",
+    "city":"Elk Grove",
+    "state":"CA",
+    "zip":"95758",
+    "phone":"(916)691-2566",
+    "lat":38.423044,
+    "lng":-121.425141
+  },
+  {
+    "storeNumber":"18916",
+    "addr":"8071 Elk Grove Florin Rd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95829",
+    "phone":"(916)681-4890",
+    "lat":38.464563,
+    "lng":-121.371192
+  },
+  {
+    "storeNumber":"4429",
+    "addr":"1069 C St",
+    "city":"Galt",
+    "state":"CA",
+    "zip":"95632",
+    "phone":"(209)745-9790",
+    "lat":38.253647,
+    "lng":-121.295758
+  },
+  {
+    "storeNumber":"3907",
+    "addr":"4651 Mack Rd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95823",
+    "phone":"(916)427-9292",
+    "lat":38.474857,
+    "lng":-121.447808
+  },
+  {
+    "storeNumber":"2751",
+    "addr":"8750 Elk Grove",
+    "city":"Elk Grove",
+    "state":"CA",
+    "zip":"95624",
+    "phone":"(916)685-1133",
+    "lat":38.41653,
+    "lng":-121.378236
+  },
+  {
+    "storeNumber":"29421",
+    "addr":"9146 Harbour Point Dr",
+    "city":"Elk Grove",
+    "state":"CA",
+    "zip":"95758",
+    "phone":"9166651021",
+    "lat":38.425926,
+    "lng":-121.481261
+  },
+  {
+    "storeNumber":"26015",
+    "addr":"8170 Sheldon Rd",
+    "city":"Elk Grove",
+    "state":"CA",
+    "zip":"95758",
+    "phone":"(916)684-2404",
+    "lat":38.437638,
+    "lng":-121.405946
+  },
+  {
+    "storeNumber":"17352",
+    "addr":"3967 Park Dr",
+    "city":"El Dorado Hills",
+    "state":"CA",
+    "zip":"95762",
+    "phone":"(916)939-3407",
+    "lat":38.65435,
+    "lng":-121.069519
+  },
+  {
+    "storeNumber":"2629",
+    "addr":"3380 Coach Ln",
+    "city":"Cameron Park",
+    "state":"CA",
+    "zip":"95682",
+    "phone":"(530)677-0414",
+    "lat":38.658128,
+    "lng":-120.969808
+  },
+  {
+    "storeNumber":"2416",
+    "addr":"1240 Broadway",
+    "city":"Placerville",
+    "state":"CA",
+    "zip":"95667",
+    "phone":"(530)622-3030",
+    "lat":38.730931,
+    "lng":-120.786158
+  },
+  {
+    "storeNumber":"4758",
+    "addr":"1440 Martin Luther King Jr Way",
+    "city":"Merced",
+    "state":"CA",
+    "zip":"95340",
+    "phone":"(209)383-3399",
+    "lat":37.297702,
+    "lng":-120.481372
+  },
+  {
+    "storeNumber":"3171",
+    "addr":"3140 G St",
+    "city":"Merced",
+    "state":"CA",
+    "zip":"95340",
+    "phone":"(209)383-3734",
+    "lat":37.319193,
+    "lng":-120.468833
+  },
+  {
+    "storeNumber":"19505",
+    "addr":"801 Bellevue Rd",
+    "city":"Atwater",
+    "state":"CA",
+    "zip":"95301",
+    "phone":"(209)358-3131",
+    "lat":37.360809,
+    "lng":-120.601828
+  },
+  {
+    "storeNumber":"27725",
+    "addr":"1220 Market St",
+    "city":"Redding",
+    "state":"CA",
+    "zip":"96001",
+    "phone":"(530)246-3826",
+    "lat":40.586863,
+    "lng":-122.392256
+  },
+  {
+    "storeNumber":"27724",
+    "addr":"2398 Esplanade",
+    "city":"Chico",
+    "state":"CA",
+    "zip":"95926",
+    "phone":"(530)893-0251",
+    "lat":39.755332,
+    "lng":-121.859492
+  },
+  {
+    "storeNumber":"19662",
+    "addr":"228 S Main St",
+    "city":"Red Bluff",
+    "state":"CA",
+    "zip":"96080",
+    "phone":"(530)527-2129",
+    "lat":40.169286,
+    "lng":-122.22838
+  },
+  {
+    "storeNumber":"17329",
+    "addr":"923 Hopper Ave",
+    "city":"Santa Rosa",
+    "state":"CA",
+    "zip":"95403",
+    "phone":"(707)578-9419",
+    "lat":38.480144,
+    "lng":-122.737181
+  },
+  {
+    "storeNumber":"16953",
+    "addr":"5859 Clark Rd",
+    "city":"Paradise",
+    "state":"CA",
+    "zip":"95969",
+    "phone":"(530)872-2844",
+    "lat":39.755508,
+    "lng":-121.608252
+  },
+  {
+    "storeNumber":"5182",
+    "addr":"8900 Brooks Rd",
+    "city":"Windsor",
+    "state":"CA",
+    "zip":"95492",
+    "phone":"(707)838-4018",
+    "lat":38.548314,
+    "lng":-122.80644
+  },
+  {
+    "storeNumber":"4410",
+    "addr":"2770 McMurry",
+    "city":"Anderson",
+    "state":"CA",
+    "zip":"96007",
+    "phone":"(530)365-4816",
+    "lat":40.453034,
+    "lng":-122.291386
+  },
+  {
+    "storeNumber":"4115",
+    "addr":"1201 N State St",
+    "city":"Ukiah",
+    "state":"CA",
+    "zip":"95482",
+    "phone":"(707)462-1722",
+    "lat":39.166016,
+    "lng":-123.21043
+  },
+  {
+    "storeNumber":"2463",
+    "addr":"1301 W Wood St",
+    "city":"Willows",
+    "state":"CA",
+    "zip":"95988",
+    "phone":"(530)934-5212",
+    "lat":39.524243,
+    "lng":-122.212154
+  },
+  {
+    "storeNumber":"27723",
+    "addr":"2610 Hilltop Dr",
+    "city":"Redding",
+    "state":"CA",
+    "zip":"96002",
+    "phone":"(530)221-7274",
+    "lat":40.569696,
+    "lng":-122.359248
+  },
+  {
+    "storeNumber":"20343",
+    "addr":"1183 Hoff Way",
+    "city":"Orland",
+    "state":"CA",
+    "zip":"95963",
+    "phone":"(530)529-1470",
+    "lat":39.752546,
+    "lng":-122.208661
+  },
+  {
+    "storeNumber":"19804",
+    "addr":"370 M St",
+    "city":"Crescent City",
+    "state":"CA",
+    "zip":"95531",
+    "phone":"(707)465-6512",
+    "lat":41.754897,
+    "lng":-124.194037
+  },
+  {
+    "storeNumber":"18568",
+    "addr":"3080 Broadway",
+    "city":"Eureka",
+    "state":"CA",
+    "zip":"95501",
+    "phone":"(707)268-0384",
+    "lat":40.780643,
+    "lng":-124.1857
+  },
+  {
+    "storeNumber":"17993",
+    "addr":"1811 Central Ave",
+    "city":"Mckinleyville",
+    "state":"CA",
+    "zip":"95519",
+    "phone":"(707)839-7734",
+    "lat":40.938353,
+    "lng":-124.100577
+  },
+  {
+    "storeNumber":"16929",
+    "addr":"15115 Lakeshore Blvd",
+    "city":"Clearlake",
+    "state":"CA",
+    "zip":"95422",
+    "phone":"(707)995-1171",
+    "lat":38.949533,
+    "lng":-122.630676
+  },
+  {
+    "storeNumber":"9488",
+    "addr":"2189 Solano St",
+    "city":"Corning",
+    "state":"CA",
+    "zip":"96021",
+    "phone":"(530)824-4141",
+    "lat":39.927823,
+    "lng":-122.197021
+  },
+  {
+    "storeNumber":"5029",
+    "addr":"1429 Fulton Rd",
+    "city":"Santa Rosa",
+    "state":"CA",
+    "zip":"95403",
+    "phone":"(707)542-2372",
+    "lat":38.454612,
+    "lng":-122.770051
+  },
+  {
+    "storeNumber":"20318",
+    "addr":"1364 Business Park Dr",
+    "city":"Lodi",
+    "state":"CA",
+    "zip":"95240",
+    "phone":"(209)369-8802",
+    "lat":38.117761,
+    "lng":-121.255731
+  },
+  {
+    "storeNumber":"5424",
+    "addr":"2380 W Kettleman Ln",
+    "city":"Lodi",
+    "state":"CA",
+    "zip":"95242",
+    "phone":"(209)369-3359",
+    "lat":38.115054,
+    "lng":-121.303914
+  },
+  {
+    "storeNumber":"3944",
+    "addr":"608 W Lodi Ave",
+    "city":"Lodi",
+    "state":"CA",
+    "zip":"95240",
+    "phone":"(209)369-6656",
+    "lat":38.1298,
+    "lng":-121.281615
+  },
+  {
+    "storeNumber":"5192",
+    "addr":"2365 Sunset Blvd",
+    "city":"Rocklin",
+    "state":"CA",
+    "zip":"95765",
+    "phone":"(916)632-1678",
+    "lat":38.796989,
+    "lng":-121.264472
+  },
+  {
+    "storeNumber":"23159",
+    "addr":"923 Pleasant Grove Blvd",
+    "city":"Roseville",
+    "state":"CA",
+    "zip":"95678",
+    "phone":"(916)788-1950",
+    "lat":38.782206,
+    "lng":-121.286334
+  },
+  {
+    "storeNumber":"2665",
+    "addr":"4340 Rocklin Rd",
+    "city":"Rocklin",
+    "state":"CA",
+    "zip":"95677",
+    "phone":"(916)624-5039",
+    "lat":38.788105,
+    "lng":-121.226551
+  },
+  {
+    "storeNumber":"28838",
+    "addr":"5389 Prospect Rd",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95129",
+    "phone":"4088738572",
+    "lat":37.293406,
+    "lng":-121.997001
+  },
+  {
+    "storeNumber":"28836",
+    "addr":"975 N Shoreline Blvd",
+    "city":"Mountain View",
+    "state":"CA",
+    "zip":"94043",
+    "phone":"(650)428-0570",
+    "lat":37.408306,
+    "lng":-122.077753
+  },
+  {
+    "storeNumber":"28835",
+    "addr":"2600 Homestead Rd",
+    "city":"Santa Clara",
+    "state":"CA",
+    "zip":"95051",
+    "phone":"(408)246-1658",
+    "lat":37.339383,
+    "lng":-121.972585
+  },
+  {
+    "storeNumber":"28834",
+    "addr":"991 W El Camino Real",
+    "city":"Sunnyvale",
+    "state":"CA",
+    "zip":"94087",
+    "phone":"(408)739-4645",
+    "lat":37.372088,
+    "lng":-122.047501
+  },
+  {
+    "storeNumber":"28833",
+    "addr":"910 E Charleston Rd",
+    "city":"Palo Alto",
+    "state":"CA",
+    "zip":"94303",
+    "phone":"(650)424-8052",
+    "lat":37.421534,
+    "lng":-122.100842
+  },
+  {
+    "storeNumber":"28832",
+    "addr":"811 Kifer Rd",
+    "city":"Sunnyvale",
+    "state":"CA",
+    "zip":"94086",
+    "phone":"(408)735-9828",
+    "lat":37.375636,
+    "lng":-122.013288
+  },
+  {
+    "storeNumber":"26849",
+    "addr":"180 Rowland Blvd",
+    "city":"Novato",
+    "state":"CA",
+    "zip":"94945",
+    "phone":"(415)898-4003",
+    "lat":38.09414,
+    "lng":-122.555202
+  },
+  {
+    "storeNumber":"26848",
+    "addr":"3610 El Camino Real",
+    "city":"Santa Clara",
+    "state":"CA",
+    "zip":"95051",
+    "phone":"(408)249-8226",
+    "lat":37.351775,
+    "lng":-121.997347
+  },
+  {
+    "storeNumber":"24790",
+    "addr":"1680 El Camino Real",
+    "city":"Santa Clara",
+    "state":"CA",
+    "zip":"95050",
+    "phone":"(408)241-8025",
+    "lat":37.35204,
+    "lng":-121.955432
+  },
+  {
+    "storeNumber":"24789",
+    "addr":"3690 Stevens Creek Blvd",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95117",
+    "phone":"(408)246-9349",
+    "lat":37.322953,
+    "lng":-121.965883
+  },
+  {
+    "storeNumber":"28837",
+    "addr":"1701 E Bayshore Dr",
+    "city":"Palo Alto",
+    "state":"CA",
+    "zip":"94303",
+    "phone":"(650)325-8226",
+    "lat":37.459086,
+    "lng":-122.137306
+  },
+  {
+    "storeNumber":"26850",
+    "addr":"210 El Camino Real",
+    "city":"Millbrae",
+    "state":"CA",
+    "zip":"94030",
+    "phone":"(650)692-1542",
+    "lat":37.601195,
+    "lng":-122.389899
+  },
+  {
+    "storeNumber":"24783",
+    "addr":"2555 The Alameda",
+    "city":"Santa Clara",
+    "state":"CA",
+    "zip":"95050",
+    "phone":"(408)246-3645",
+    "lat":37.345127,
+    "lng":-121.935723
+  },
+  {
+    "storeNumber":"28754",
+    "addr":"2246 Lake Washington Blvd",
+    "city":"West Sacramento",
+    "state":"CA",
+    "zip":"95691",
+    "phone":"9163722372",
+    "lat":38.55714,
+    "lng":-121.540305
+  },
+  {
+    "storeNumber":"28752",
+    "addr":"4244 Florin Rd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95823",
+    "phone":"(916)395-1750",
+    "lat":38.495672,
+    "lng":-121.455938
+  },
+  {
+    "storeNumber":"28749",
+    "addr":"5625 Folsom Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95819",
+    "phone":"(916)455-6473",
+    "lat":38.558338,
+    "lng":-121.437283
+  },
+  {
+    "storeNumber":"28110",
+    "addr":"6440 Antelope Rd",
+    "city":"Citrus Heights",
+    "state":"CA",
+    "zip":"95621",
+    "phone":"(916)722-1173",
+    "lat":38.707068,
+    "lng":-121.313448
+  },
+  {
+    "storeNumber":"28109",
+    "addr":"3820 Northgate Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95834",
+    "phone":"(916)649-1790",
+    "lat":38.636653,
+    "lng":-121.475761
+  },
+  {
+    "storeNumber":"28108",
+    "addr":"2434 Del Paso Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95815",
+    "phone":"(916)929-3961",
+    "lat":38.612065,
+    "lng":-121.44686
+  },
+  {
+    "storeNumber":"28753",
+    "addr":"776 Ikea Ct",
+    "city":"West Sacramento",
+    "state":"CA",
+    "zip":"95605",
+    "phone":"9163742711",
+    "lat":38.590857,
+    "lng":-121.550948
+  },
+  {
+    "storeNumber":"28751",
+    "addr":"850 Harbor Blvd",
+    "city":"West Sacramento",
+    "state":"CA",
+    "zip":"95691",
+    "phone":"(916)372-5429",
+    "lat":38.577593,
+    "lng":-121.549052
+  },
+  {
+    "storeNumber":"28750",
+    "addr":"1300 Howe Ave",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95825",
+    "phone":"(916)922-9647",
+    "lat":38.589291,
+    "lng":-121.414977
+  },
+  {
+    "storeNumber":"28748",
+    "addr":"2431 Broadway",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95818",
+    "phone":"(916)455-5738",
+    "lat":38.558724,
+    "lng":-121.480646
+  },
+  {
+    "storeNumber":"28112",
+    "addr":"342 N Sunrise Blvd",
+    "city":"Roseville",
+    "state":"CA",
+    "zip":"95661",
+    "phone":"(916)774-9766",
+    "lat":38.753363,
+    "lng":-121.260375
+  },
+  {
+    "storeNumber":"21367",
+    "addr":"2590 Feather River Blvd",
+    "city":"Oroville",
+    "state":"CA",
+    "zip":"95965",
+    "phone":"(530)533-1066",
+    "lat":39.49448,
+    "lng":-121.572971
+  },
+  {
+    "storeNumber":"4077",
+    "addr":"2660 Olive Hwy",
+    "city":"Oroville",
+    "state":"CA",
+    "zip":"95966",
+    "phone":"(530)534-1020",
+    "lat":39.504882,
+    "lng":-121.543168
+  },
+  {
+    "storeNumber":"22781",
+    "addr":"288 Vann St",
+    "city":"Williams",
+    "state":"CA",
+    "zip":"95987",
+    "phone":"(530)473-5009",
+    "lat":39.158455,
+    "lng":-122.141143
+  },
+  {
+    "storeNumber":"20019",
+    "addr":"1483 Bridge St",
+    "city":"Yuba City",
+    "state":"CA",
+    "zip":"95993",
+    "phone":"(530)673-1403",
+    "lat":39.132743,
+    "lng":-121.639069
+  },
+  {
+    "storeNumber":"17116",
+    "addr":"1503 Hwy 99",
+    "city":"Gridley",
+    "state":"CA",
+    "zip":"95948",
+    "phone":"(530)846-2380",
+    "lat":39.359786,
+    "lng":-121.687917
+  },
+  {
+    "storeNumber":"2471",
+    "addr":"109 Olympic Park Rd",
+    "city":"Grass Valley",
+    "state":"CA",
+    "zip":"95945",
+    "phone":"(530)477-8163",
+    "lat":39.235465,
+    "lng":-121.037897
+  },
+  {
+    "storeNumber":"15670",
+    "addr":"1044 N Beale Rd",
+    "city":"Marysville",
+    "state":"CA",
+    "zip":"95901",
+    "phone":"(530)749-2853",
+    "lat":39.125578,
+    "lng":-121.577617
+  },
+  {
+    "storeNumber":"3026",
+    "addr":"619 Colusa Ave",
+    "city":"Yuba City",
+    "state":"CA",
+    "zip":"95991",
+    "phone":"(530)674-7468",
+    "lat":39.141922,
+    "lng":-121.622274
+  },
+  {
+    "storeNumber":"236",
+    "addr":"631 10th St",
+    "city":"Marysville",
+    "state":"CA",
+    "zip":"95901",
+    "phone":"(530)742-4670",
+    "lat":39.146044,
+    "lng":-121.594161
+  },
+  {
+    "storeNumber":"26056",
+    "addr":"1500 S Main St",
+    "city":"Willits",
+    "state":"CA",
+    "zip":"95490",
+    "phone":"(707)459-3292",
+    "lat":39.39417,
+    "lng":-123.349069
+  },
+  {
+    "storeNumber":"23836",
+    "addr":"1285 Parallel",
+    "city":"Lakeport",
+    "state":"CA",
+    "zip":"95453",
+    "phone":"(707)263-4507",
+    "lat":39.032442,
+    "lng":-122.925842
+  },
+  {
+    "storeNumber":"29617",
+    "addr":"2421 Patterson Road",
+    "city":"Riverbank",
+    "state":"CA",
+    "zip":"95367",
+    "phone":"2098638514",
+    "lat":37.732713,
+    "lng":-120.953659
+  },
+  {
+    "storeNumber":"28745",
+    "addr":"1097 N Willow Ave",
+    "city":"Clovis",
+    "state":"CA",
+    "zip":"93611",
+    "phone":"(559)322-7216",
+    "lat":36.849765,
+    "lng":-119.729682
+  },
+  {
+    "storeNumber":"28744",
+    "addr":"1085 E Champlain Dr",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93720",
+    "phone":"(559)433-9188",
+    "lat":36.871438,
+    "lng":-119.764077
+  },
+  {
+    "storeNumber":"28740",
+    "addr":"290 W Ashlan Ave",
+    "city":"Clovis",
+    "state":"CA",
+    "zip":"93612",
+    "phone":"(559)294-9070",
+    "lat":36.793613,
+    "lng":-119.716941
+  },
+  {
+    "storeNumber":"28013",
+    "addr":"3601 Yosemite Avenue",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95357",
+    "phone":"(209)578-4139",
+    "lat":37.638304,
+    "lng":-120.937907
+  },
+  {
+    "storeNumber":"27693",
+    "addr":"46365 W. Panoche Rd",
+    "city":"Firebaugh",
+    "state":"CA",
+    "zip":"93622",
+    "phone":"(559)659-1848",
+    "lat":36.637074,
+    "lng":-120.626287
+  },
+  {
+    "storeNumber":"24112",
+    "addr":"1060 Sperry Ave",
+    "city":"Patterson",
+    "state":"CA",
+    "zip":"95363",
+    "phone":"2098921820",
+    "lat":37.464052,
+    "lng":-121.14301
+  },
+  {
+    "storeNumber":"24061",
+    "addr":"5610 N Blackstone",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93710",
+    "phone":"5594351937",
+    "lat":36.81966,
+    "lng":-119.789868
+  },
+  {
+    "storeNumber":"23203",
+    "addr":"1421 W Colony Rd",
+    "city":"Ripon",
+    "state":"CA",
+    "zip":"95366",
+    "phone":"(209)599-0673",
+    "lat":37.754624,
+    "lng":-121.139581
+  },
+  {
+    "storeNumber":"22805",
+    "addr":"4857 E McKinley Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93703",
+    "phone":"(559)255-9496",
+    "lat":36.765597,
+    "lng":-119.734272
+  },
+  {
+    "storeNumber":"22389",
+    "addr":"1236 E Pacheco Blvd",
+    "city":"Los Banos",
+    "state":"CA",
+    "zip":"93635",
+    "phone":"(209)827-9951",
+    "lat":37.057397,
+    "lng":-120.837212
+  },
+  {
+    "storeNumber":"22226",
+    "addr":"524 Academy",
+    "city":"Sanger",
+    "state":"CA",
+    "zip":"93657",
+    "phone":"(559)876-3536",
+    "lat":36.708613,
+    "lng":-119.556065
+  },
+  {
+    "storeNumber":"22225",
+    "addr":"4972 E Kings Canyon Rd",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93727",
+    "phone":"(559)255-8551",
+    "lat":36.735608,
+    "lng":-119.728996
+  },
+  {
+    "storeNumber":"22224",
+    "addr":"1438 Coffee Rd",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95355",
+    "phone":"(209)341-0545",
+    "lat":37.664932,
+    "lng":-120.975192
+  },
+  {
+    "storeNumber":"22223",
+    "addr":"6745 N Golden State Blvd",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93722",
+    "phone":"(559)277-3589",
+    "lat":36.833523,
+    "lng":-119.915284
+  },
+  {
+    "storeNumber":"22222",
+    "addr":"4911 McHenry Ave",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95356",
+    "phone":"(209)572-0314",
+    "lat":37.710273,
+    "lng":-120.995491
+  },
+  {
+    "storeNumber":"22221",
+    "addr":"12170 Yosemite Blvd",
+    "city":"Waterford",
+    "state":"CA",
+    "zip":"95386",
+    "phone":"(209)874-3939",
+    "lat":37.637889,
+    "lng":-120.767475
+  },
+  {
+    "storeNumber":"22220",
+    "addr":"1100 Yosemite Ave",
+    "city":"Escalon",
+    "state":"CA",
+    "zip":"95320",
+    "phone":"(209)838-1124",
+    "lat":37.798931,
+    "lng":-120.999002
+  },
+  {
+    "storeNumber":"22219",
+    "addr":"7085 N Marks Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93711",
+    "phone":"(559)438-8505",
+    "lat":36.838713,
+    "lng":-119.847858
+  },
+  {
+    "storeNumber":"22218",
+    "addr":"2225 Plaza Pkwy",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95350",
+    "phone":"(209)579-5441",
+    "lat":37.673461,
+    "lng":-121.03599
+  },
+  {
+    "storeNumber":"22217",
+    "addr":"1571 W Pacheco Blvd",
+    "city":"Los Banos",
+    "state":"CA",
+    "zip":"93635",
+    "phone":"(209)827-4525",
+    "lat":37.056406,
+    "lng":-120.880292
+  },
+  {
+    "storeNumber":"22216",
+    "addr":"40020 Hwy 49",
+    "city":"Oakhurst",
+    "state":"CA",
+    "zip":"93644",
+    "phone":"(559)683-8226",
+    "lat":37.33175,
+    "lng":-119.657273
+  },
+  {
+    "storeNumber":"22215",
+    "addr":"3714 E Hammer Ln",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95212",
+    "phone":"(209)477-0608",
+    "lat":38.02067,
+    "lng":-121.268221
+  },
+  {
+    "storeNumber":"22214",
+    "addr":"1416 Kansas Ave",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95351",
+    "phone":"(209)522-7938",
+    "lat":37.645657,
+    "lng":-121.028949
+  },
+  {
+    "storeNumber":"22213",
+    "addr":"16905 Harlen Rd",
+    "city":"Lathrop",
+    "state":"CA",
+    "zip":"95330",
+    "phone":"(209)858-1972",
+    "lat":37.81038,
+    "lng":-121.293703
+  },
+  {
+    "storeNumber":"22212",
+    "addr":"5145 N Cedar Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93710",
+    "phone":"(559)228-1016",
+    "lat":36.810849,
+    "lng":-119.754744
+  },
+  {
+    "storeNumber":"22209",
+    "addr":"6776 N Blackstone Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93710",
+    "phone":"(559)431-0161",
+    "lat":36.836642,
+    "lng":-119.789977
+  },
+  {
+    "storeNumber":"22207",
+    "addr":"5115 West Ln",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95210",
+    "phone":"(209)478-7336",
+    "lat":38.002849,
+    "lng":-121.29145
+  },
+  {
+    "storeNumber":"22206",
+    "addr":"3900 Pelendale Ave",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95356",
+    "phone":"(209)545-3915",
+    "lat":37.738325,
+    "lng":-121.015916
+  },
+  {
+    "storeNumber":"22205",
+    "addr":"825 9th St",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95354",
+    "phone":"(209)526-6914",
+    "lat":37.638492,
+    "lng":-121.000129
+  },
+  {
+    "storeNumber":"22204",
+    "addr":"2517 Oakdale Rd",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95355",
+    "phone":"(209)551-8612",
+    "lat":37.677779,
+    "lng":-120.958256
+  },
+  {
+    "storeNumber":"22203",
+    "addr":"12780 S Hwy 33",
+    "city":"Santa Nella",
+    "state":"CA",
+    "zip":"95322",
+    "phone":"(209)826-6017",
+    "lat":37.103719,
+    "lng":-121.01531
+  },
+  {
+    "storeNumber":"22202",
+    "addr":"1493 Herndon Rd",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95351",
+    "phone":"(209)521-2814",
+    "lat":37.609538,
+    "lng":-120.974247
+  },
+  {
+    "storeNumber":"22201",
+    "addr":"4327 E Hwy 88",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95215",
+    "phone":"(209)931-5815",
+    "lat":37.987192,
+    "lng":-121.246844
+  },
+  {
+    "storeNumber":"22195",
+    "addr":"2050 W Main St",
+    "city":"Turlock",
+    "state":"CA",
+    "zip":"95380",
+    "phone":"(209)668-3169",
+    "lat":37.492402,
+    "lng":-120.872496
+  },
+  {
+    "storeNumber":"22194",
+    "addr":"2918 Whitmore",
+    "city":"Ceres",
+    "state":"CA",
+    "zip":"95307",
+    "phone":"(209)538-8611",
+    "lat":37.59443,
+    "lng":-120.939976
+  },
+  {
+    "storeNumber":"22192",
+    "addr":"901 E F St",
+    "city":"Oakdale",
+    "state":"CA",
+    "zip":"95361",
+    "phone":"(209)847-2351",
+    "lat":37.76867,
+    "lng":-120.841451
+  },
+  {
+    "storeNumber":"22191",
+    "addr":"1241 Standiford",
+    "city":"Modesto",
+    "state":"CA",
+    "zip":"95350",
+    "phone":"(209)523-3556",
+    "lat":37.68975,
+    "lng":-121.012229
+  },
+  {
+    "storeNumber":"22190",
+    "addr":"2700 Geer Rd",
+    "city":"Turlock",
+    "state":"CA",
+    "zip":"95382",
+    "phone":"(209)667-8341",
+    "lat":37.51775,
+    "lng":-120.848613
+  },
+  {
+    "storeNumber":"28746",
+    "addr":"5651 E Kings Canyon Rd",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93727",
+    "phone":"(559)251-0541",
+    "lat":36.737512,
+    "lng":-119.699602
+  },
+  {
+    "storeNumber":"28743",
+    "addr":"830 Herndon Ave",
+    "city":"Clovis",
+    "state":"CA",
+    "zip":"93612",
+    "phone":"(559)323-1413",
+    "lat":36.835976,
+    "lng":-119.69957
+  },
+  {
+    "storeNumber":"28742",
+    "addr":"434 W Shaw Ave",
+    "city":"Clovis",
+    "state":"CA",
+    "zip":"93612",
+    "phone":"(559)323-6795",
+    "lat":36.808135,
+    "lng":-119.718997
+  },
+  {
+    "storeNumber":"28741",
+    "addr":"2131 E Shaw",
+    "city":"Clovis",
+    "state":"CA",
+    "zip":"93611",
+    "phone":"(559)323-5124",
+    "lat":36.808958,
+    "lng":-119.675325
+  },
+  {
+    "storeNumber":"28739",
+    "addr":"7785 N First",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93720",
+    "phone":"(559)432-4541",
+    "lat":36.851617,
+    "lng":-119.775036
+  },
+  {
+    "storeNumber":"28296",
+    "addr":"339 Gallo Drive",
+    "city":"Livingston",
+    "state":"CA",
+    "zip":"95334",
+    "phone":"2093947746",
+    "lat":37.388233,
+    "lng":-120.736802
+  },
+  {
+    "storeNumber":"27946",
+    "addr":"757 East Ave",
+    "city":"Chico",
+    "state":"CA",
+    "zip":"95926",
+    "phone":"(530)892-1476",
+    "lat":39.760635,
+    "lng":-121.848923
+  },
+  {
+    "storeNumber":"27945",
+    "addr":"1020 Old Alturas Rd",
+    "city":"Redding",
+    "state":"CA",
+    "zip":"96003",
+    "phone":"(530)222-6240",
+    "lat":40.587848,
+    "lng":-122.346345
+  },
+  {
+    "storeNumber":"27944",
+    "addr":"1930 E 20th St",
+    "city":"Chico",
+    "state":"CA",
+    "zip":"95928",
+    "phone":"(530)342-8238",
+    "lat":39.727515,
+    "lng":-121.806609
+  },
+  {
+    "storeNumber":"22199",
+    "addr":"3095 E Shields Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93726",
+    "phone":"(559)229-4443",
+    "lat":36.779884,
+    "lng":-119.773033
+  },
+  {
+    "storeNumber":"22198",
+    "addr":"2639 S Second St",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93706",
+    "phone":"(559)233-2857",
+    "lat":36.705664,
+    "lng":-119.770234
+  },
+  {
+    "storeNumber":"25783",
+    "addr":"2033 Solano Ave",
+    "city":"Vallejo",
+    "state":"CA",
+    "zip":"94590",
+    "phone":"7075521711",
+    "lat":38.104949,
+    "lng":-122.232008
+  },
+  {
+    "storeNumber":"20245",
+    "addr":"7590 La Riviera Dr",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95826",
+    "phone":"(916)381-7771",
+    "lat":38.5564,
+    "lng":-121.410057
+  },
+  {
+    "storeNumber":"17155",
+    "addr":"201 Northgate Dr",
+    "city":"Manteca",
+    "state":"CA",
+    "zip":"95336",
+    "phone":"(209)239-2102",
+    "lat":37.818876,
+    "lng":-121.218662
+  },
+  {
+    "storeNumber":"15724",
+    "addr":"19025 Sonoma Hwy",
+    "city":"Sonoma",
+    "state":"CA",
+    "zip":"95476",
+    "phone":"(707)939-1706",
+    "lat":38.302683,
+    "lng":-122.476073
+  },
+  {
+    "storeNumber":"5510",
+    "addr":"5025 Kingsley Rd",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95215",
+    "phone":"(209)946-4713",
+    "lat":37.902148,
+    "lng":-121.220616
+  },
+  {
+    "storeNumber":"4979",
+    "addr":"6745 Madison Ave",
+    "city":"Fair Oaks",
+    "state":"CA",
+    "zip":"95628",
+    "phone":"(916)863-3229",
+    "lat":38.663857,
+    "lng":-121.306602
+  },
+  {
+    "storeNumber":"4439",
+    "addr":"11230 Sun Center Dr",
+    "city":"Rancho Cordova",
+    "state":"CA",
+    "zip":"95670",
+    "phone":"(916)852-0121",
+    "lat":38.59778,
+    "lng":-121.266219
+  },
+  {
+    "storeNumber":"4119",
+    "addr":"2010 Nut Tree Rd",
+    "city":"Vacaville",
+    "state":"CA",
+    "zip":"95687",
+    "phone":"(707)451-9064",
+    "lat":38.3515,
+    "lng":-121.953076
+  },
+  {
+    "storeNumber":"3759",
+    "addr":"1801 Watt Ave",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95825",
+    "phone":"(916)482-3332",
+    "lat":38.597642,
+    "lng":-121.383611
+  },
+  {
+    "storeNumber":"3686",
+    "addr":"5550 Martin Luther King Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95820",
+    "phone":"(916)451-9081",
+    "lat":38.525335,
+    "lng":-121.465149
+  },
+  {
+    "storeNumber":"3560",
+    "addr":"532 W Hammer Ln",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95210",
+    "phone":"(209)477-9566",
+    "lat":38.020561,
+    "lng":-121.319004
+  },
+  {
+    "storeNumber":"3205",
+    "addr":"4811 Chiles Rd",
+    "city":"Davis",
+    "state":"CA",
+    "zip":"95618",
+    "phone":"(530)753-9423",
+    "lat":38.550937,
+    "lng":-121.693918
+  },
+  {
+    "storeNumber":"2832",
+    "addr":"3507 W Hammer Ln",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95219",
+    "phone":"(209)477-9582",
+    "lat":38.021596,
+    "lng":-121.360791
+  },
+  {
+    "storeNumber":"2760",
+    "addr":"974 Admiral Callaghan Ln",
+    "city":"Vallejo",
+    "state":"CA",
+    "zip":"94591",
+    "phone":"(707)648-2402",
+    "lat":38.13399,
+    "lng":-122.222412
+  },
+  {
+    "storeNumber":"2754",
+    "addr":"6741 Watt Ave",
+    "city":"North Highlands",
+    "state":"CA",
+    "zip":"95660",
+    "phone":"(916)331-4135",
+    "lat":38.689584,
+    "lng":-121.383304
+  },
+  {
+    "storeNumber":"19527",
+    "addr":"411 Pioneer Ave",
+    "city":"Woodland",
+    "state":"CA",
+    "zip":"95776",
+    "phone":"(530)669-7198",
+    "lat":38.675912,
+    "lng":-121.746466
+  },
+  {
+    "storeNumber":"19206",
+    "addr":"45 E Harding Way",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95204",
+    "phone":"(209)943-2782",
+    "lat":37.967666,
+    "lng":-121.294212
+  },
+  {
+    "storeNumber":"18799",
+    "addr":"864 W Charter Way",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95206",
+    "phone":"(209)946-0970",
+    "lat":37.935727,
+    "lng":-121.299605
+  },
+  {
+    "storeNumber":"16146",
+    "addr":"1541 Sycamore Ave",
+    "city":"Hercules",
+    "state":"CA",
+    "zip":"94547",
+    "phone":"(510)245-2528",
+    "lat":38.010251,
+    "lng":-122.271313
+  },
+  {
+    "storeNumber":"15842",
+    "addr":"2407 W March Ln",
+    "city":"Stockton",
+    "state":"CA",
+    "zip":"95207",
+    "phone":"(209)952-0421",
+    "lat":37.985573,
+    "lng":-121.337365
+  },
+  {
+    "storeNumber":"4629",
+    "addr":"4915 Watt Ave",
+    "city":"North Highlands",
+    "state":"CA",
+    "zip":"95660",
+    "phone":"(916)338-1730",
+    "lat":38.654402,
+    "lng":-121.383419
+  },
+  {
+    "storeNumber":"3673",
+    "addr":"2300 Barrett Ave",
+    "city":"Richmond",
+    "state":"CA",
+    "zip":"94804",
+    "phone":"(510)237-2292",
+    "lat":37.938207,
+    "lng":-122.347359
+  },
+  {
+    "storeNumber":"3239",
+    "addr":"1420 Ary Ln",
+    "city":"Dixon",
+    "state":"CA",
+    "zip":"95620",
+    "phone":"(707)678-9790",
+    "lat":38.45765,
+    "lng":-121.841969
+  },
+  {
+    "storeNumber":"2479",
+    "addr":"3600 Sonoma Blvd",
+    "city":"Vallejo",
+    "state":"CA",
+    "zip":"94590",
+    "phone":"(707)553-1111",
+    "lat":38.12332,
+    "lng":-122.254739
+  },
+  {
+    "storeNumber":"2453",
+    "addr":"3411 Bradshaw Rd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip":"95827",
+    "phone":"(916)368-7101",
+    "lat":38.561522,
+    "lng":-121.335681
+  },
+  {
+    "storeNumber":"2374",
+    "addr":"1561 Fitzgerald Dr",
+    "city":"Pinole",
+    "state":"CA",
+    "zip":"94564",
+    "phone":"(510)222-9598",
+    "lat":37.991992,
+    "lng":-122.302878
+  },
+  {
+    "storeNumber":"2182",
+    "addr":"4401 Central Pl",
+    "city":"Suisun City",
+    "state":"CA",
+    "zip":"94534",
+    "phone":"(707)864-8734",
+    "lat":38.267263,
+    "lng":-122.106467
+  },
+  {
+    "storeNumber":"896",
+    "addr":"635 San Pablo Ave",
+    "city":"Albany",
+    "state":"CA",
+    "zip":"94706",
+    "phone":"(510) 527-5090",
+    "lat":37.894064,
+    "lng":-122.299916
+  },
+  {
+    "storeNumber":"378",
+    "addr":"421 E Yosemite Ave",
+    "city":"Manteca",
+    "state":"CA",
+    "zip":"95336",
+    "phone":"(209)239-1329",
+    "lat":37.797686,
+    "lng":-121.211986
+  },
+  {
+    "storeNumber":"28846",
+    "addr":"2334 N Texas St",
+    "city":"Fairfield",
+    "state":"CA",
+    "zip":"94533",
+    "phone":"(707)429-0210",
+    "lat":38.27119,
+    "lng":-122.033836
+  },
+  {
+    "storeNumber":"28843",
+    "addr":"107 Sunset Ave",
+    "city":"Suisun City",
+    "state":"CA",
+    "zip":"94585",
+    "phone":"(707)426-5490",
+    "lat":38.244563,
+    "lng":-122.019925
+  },
+  {
+    "storeNumber":"29423",
+    "addr":"703 Matsumoto Lane",
+    "city":"Winters",
+    "state":"CA",
+    "zip":"95694",
+    "phone":"5307952841",
+    "lat":38.531604,
+    "lng":-121.95612
+  },
+  {
+    "storeNumber":"28845",
+    "addr":"2000 Alamo Dr",
+    "city":"Vacaville",
+    "state":"CA",
+    "zip":"95687",
+    "phone":"(707)448-8226",
+    "lat":38.33496,
+    "lng":-121.970006
+  },
+  {
+    "storeNumber":"28844",
+    "addr":"208 W Main St",
+    "city":"Woodland",
+    "state":"CA",
+    "zip":"95695",
+    "phone":"(530)661-1642",
+    "lat":38.677674,
+    "lng":-121.793722
+  },
+  {
+    "storeNumber":"28842",
+    "addr":"3070 Travis Blvd",
+    "city":"Fairfield",
+    "state":"CA",
+    "zip":"94534",
+    "phone":"(707)426-2144",
+    "lat":38.25878,
+    "lng":-122.067096
+  },
+  {
+    "storeNumber":"28841",
+    "addr":"1481 E Monte Vista Ave",
+    "city":"Vacaville",
+    "state":"CA",
+    "zip":"95688",
+    "phone":"(707)449-8852",
+    "lat":38.363664,
+    "lng":-121.968171
+  },
+  {
+    "storeNumber":"28762",
+    "addr":"4041 Manzanita Ave",
+    "city":"Carmichael",
+    "state":"CA",
+    "zip":"95608",
+    "phone":"(916)481-3370",
+    "lat":38.638553,
+    "lng":-121.328516
+  },
+  {
+    "storeNumber":"22939",
+    "addr":"200 S Main",
+    "city":"Angels Camp",
+    "state":"CA",
+    "zip":"95222",
+    "phone":"(209)736-4455",
+    "lat":38.079932,
+    "lng":-120.555796
+  },
+  {
+    "storeNumber":"4212",
+    "addr":"13770 Mono Way",
+    "city":"Sonora",
+    "state":"CA",
+    "zip":"95370",
+    "phone":"(209)532-4244",
+    "lat":37.976262,
+    "lng":-120.343905
+  },
+  {
+    "storeNumber":"28765",
+    "addr":"4343 Sunrise Blvd",
+    "city":"Fair Oaks",
+    "state":"CA",
+    "zip":"95628",
+    "phone":"(916)965-8953",
+    "lat":38.644486,
+    "lng":-121.272685
+  },
+  {
+    "storeNumber":"28764",
+    "addr":"6031 Greenback Ln",
+    "city":"Citrus Heights",
+    "state":"CA",
+    "zip":"95621",
+    "phone":"(916)723-5774",
+    "lat":38.680624,
+    "lng":-121.320562
+  },
+  {
+    "storeNumber":"28763",
+    "addr":"5002 Foothill Blvd",
+    "city":"Roseville",
+    "state":"CA",
+    "zip":"95747",
+    "phone":"(916)784-7996",
+    "lat":38.760074,
+    "lng":-121.310488
+  },
+  {
+    "storeNumber":"28761",
+    "addr":"8045 Watt Ave",
+    "city":"Antelope",
+    "state":"CA",
+    "zip":"95843",
+    "phone":"(916)338-1179",
+    "lat":38.715354,
+    "lng":-121.392803
+  },
+  {
+    "storeNumber":"28760",
+    "addr":"2891 Zinfandel Dr",
+    "city":"Rancho Cordova",
+    "state":"CA",
+    "zip":"95670",
+    "phone":"(916)631-8619",
+    "lat":38.594161,
+    "lng":-121.287471
+  },
+  {
+    "storeNumber":"28759",
+    "addr":"7730 Sunrise",
+    "city":"Citrus Heights",
+    "state":"CA",
+    "zip":"95610",
+    "phone":"(916)725-3248",
+    "lat":38.706601,
+    "lng":-121.271251
+  },
+  {
+    "storeNumber":"24461",
+    "addr":"202 E Hwy 12",
+    "city":"Valley Springs",
+    "state":"CA",
+    "zip":"95252",
+    "phone":"2097723288",
+    "lat":38.19217,
+    "lng":-120.825624
+  },
+  {
+    "storeNumber":"3452",
+    "addr":"541 S Hwy 49",
+    "city":"Jackson",
+    "state":"CA",
+    "zip":"95642",
+    "phone":"(209)223-2975",
+    "lat":38.34284,
+    "lng":-120.768024
+  },
+  {
+    "storeNumber":"15851",
+    "addr":"200 E Vista Dr",
+    "city":"Weed",
+    "state":"CA",
+    "zip":"96094",
+    "phone":"(530)938-3830",
+    "lat":41.396619,
+    "lng":-122.37976
+  },
+  {
+    "storeNumber":"3991",
+    "addr":"2990 Main St",
+    "city":"Susanville",
+    "state":"CA",
+    "zip":"96130",
+    "phone":"(530)257-8188",
+    "lat":40.406409,
+    "lng":-120.634309
+  },
+  {
+    "storeNumber":"21286",
+    "addr":"301 E Lake St",
+    "city":"Mount Shasta",
+    "state":"CA",
+    "zip":"96067",
+    "phone":"(530)926-6525",
+    "lat":41.314415,
+    "lng":-122.31021
+  },
+  {
+    "storeNumber":"2299",
+    "addr":"1804 Fort Jones Rd",
+    "city":"Yreka",
+    "state":"CA",
+    "zip":"96097",
+    "phone":"(530)842-3686",
+    "lat":41.702904,
+    "lng":-122.644349
+  },
+  {
+    "storeNumber":"27304",
+    "addr":"1185 Front St",
+    "city":"Soledad",
+    "state":"CA",
+    "zip":"93960",
+    "phone":"(831) 678-9692",
+    "lat":36.418565,
+    "lng":-121.321687
+  },
+  {
+    "storeNumber":"27302",
+    "addr":"6 Maple St",
+    "city":"Salinas",
+    "state":"CA",
+    "zip":"93901",
+    "phone":"(831) 753-9511",
+    "lat":36.668262,
+    "lng":-121.65527
+  },
+  {
+    "storeNumber":"26831",
+    "addr":"1597 N Sanborn Rd",
+    "city":"Salinas",
+    "state":"CA",
+    "zip":"93905",
+    "phone":"(831)751-3972",
+    "lat":36.694946,
+    "lng":-121.596866
+  },
+  {
+    "storeNumber":"26126",
+    "addr":"6 Broadway Cir",
+    "city":"King City",
+    "state":"CA",
+    "zip":"93930",
+    "phone":"(831) 385-8151",
+    "lat":36.202682,
+    "lng":-121.135444
+  },
+  {
+    "storeNumber":"26043",
+    "addr":"1830 Fremont Blvd",
+    "city":"Seaside",
+    "state":"CA",
+    "zip":"93955",
+    "phone":"(831) 899-3002",
+    "lat":36.615451,
+    "lng":-121.842066
+  },
+  {
+    "storeNumber":"25510",
+    "addr":"664 E Alisal",
+    "city":"Salinas",
+    "state":"CA",
+    "zip":"93905",
+    "phone":"(831) 753-9070",
+    "lat":36.673158,
+    "lng":-121.632471
+  },
+  {
+    "storeNumber":"24207",
+    "addr":"1345 N Main St",
+    "city":"Salinas",
+    "state":"CA",
+    "zip":"93906",
+    "phone":"(831)449-5908",
+    "lat":36.703975,
+    "lng":-121.653396
+  },
+  {
+    "storeNumber":"27303",
+    "addr":"244 Reservation Rd",
+    "city":"Marina",
+    "state":"CA",
+    "zip":"93933",
+    "phone":"(831) 384-3667",
+    "lat":36.6859,
+    "lng":-121.796719
+  },
+  {
+    "storeNumber":"16736",
+    "addr":"81 Ranch Dr",
+    "city":"Milpitas",
+    "state":"CA",
+    "zip":"95035",
+    "phone":"(408)946-2206",
+    "lat":37.427704,
+    "lng":-121.921268
+  },
+  {
+    "storeNumber":"4445",
+    "addr":"774 S Main St",
+    "city":"Milpitas",
+    "state":"CA",
+    "zip":"95035",
+    "phone":"(408)263-3274",
+    "lat":37.420011,
+    "lng":-121.903782
+  },
+  {
+    "storeNumber":"3021",
+    "addr":"2102 Mckee Rd",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95116",
+    "phone":"(408)258-7361",
+    "lat":37.362563,
+    "lng":-121.853397
+  },
+  {
+    "storeNumber":"992",
+    "addr":"1365 S Park Victoria",
+    "city":"Milpitas",
+    "state":"CA",
+    "zip":"95035",
+    "phone":"(408)263-7833",
+    "lat":37.432334,
+    "lng":-121.899574
+  },
+  {
+    "storeNumber":"26040",
+    "addr":"1895 Auburn Ravine Rd",
+    "city":"Auburn",
+    "state":"CA",
+    "zip":"95603",
+    "phone":"(530)885-3318",
+    "lat":38.923901,
+    "lng":-121.059533
+  },
+  {
+    "storeNumber":"409",
+    "addr":"2681 Lake Tahoe Blvd",
+    "city":"South Lake Tahoe",
+    "state":"CA",
+    "zip":"96150",
+    "phone":"(530)544-0409",
+    "lat":38.928478,
+    "lng":-119.982244
+  },
+  {
+    "storeNumber":"15898",
+    "addr":"555 S Auburn St",
+    "city":"Colfax",
+    "state":"CA",
+    "zip":"95713",
+    "phone":"(530)346-7528",
+    "lat":39.093586,
+    "lng":-120.951383
+  },
+  {
+    "storeNumber":"2359",
+    "addr":"1717 Grass Valley Hwy",
+    "city":"Auburn",
+    "state":"CA",
+    "zip":"95603",
+    "phone":"(530)823-2445",
+    "lat":38.927026,
+    "lng":-121.087415
+  },
+  {
+    "storeNumber":"24489",
+    "addr":"1060 Emerald Bay Rd",
+    "city":"South Lake Tahoe",
+    "state":"CA",
+    "zip":"96150",
+    "phone":"(530)544-5114",
+    "lat":38.913181,
+    "lng":-120.004449
+  },
+  {
+    "storeNumber":"27523",
+    "addr":"2481 Berryessa Rd",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95133",
+    "phone":"(408)251-3432",
+    "lat":37.386352,
+    "lng":-121.861605
+  },
+  {
+    "storeNumber":"26329",
+    "addr":"170 Bernal Rd",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95119",
+    "phone":"(408)281-4570",
+    "lat":37.227504,
+    "lng":-121.775592
+  },
+  {
+    "storeNumber":"26235",
+    "addr":"380 E 10th St",
+    "city":"Gilroy",
+    "state":"CA",
+    "zip":"95020",
+    "phone":"(408)847-4565",
+    "lat":37.001341,
+    "lng":-121.560782
+  },
+  {
+    "storeNumber":"26048",
+    "addr":"16900 Monterey Rd",
+    "city":"Morgan Hill",
+    "state":"CA",
+    "zip":"95037",
+    "phone":"(408)779-2500",
+    "lat":37.124572,
+    "lng":-121.649318
+  },
+  {
+    "storeNumber":"24525",
+    "addr":"2770 Alum Rock Ave",
+    "city":"San Jose",
+    "state":"CA",
+    "zip":"95127",
+    "phone":"(408)259-3974",
+    "lat":37.362602,
+    "lng":-121.834048
+  },
+  {
+    "storeNumber":"24362",
+    "addr":"431 Tres Pinos Rd",
+    "city":"Hollister",
+    "state":"CA",
+    "zip":"95023",
+    "phone":"(831)636-0435",
+    "lat":36.839072,
+    "lng":-121.394838
+  },
+  {
+    "storeNumber":"19615",
+    "addr":"17000 Condit Rd",
+    "city":"Morgan Hill",
+    "state":"CA",
+    "zip":"95037",
+    "phone":"(408)782-1006",
+    "lat":37.133234,
+    "lng":-121.630065
+  },
+  {
+    "storeNumber":"19338",
+    "addr":"995 First St",
+    "city":"Gilroy",
+    "state":"CA",
+    "zip":"95020",
+    "phone":"(408)846-1188",
+    "lat":37.014014,
+    "lng":-121.59137
+  },
+  {
+    "storeNumber":"2420",
+    "addr":"46690 Mission Blvd",
+    "city":"Fremont",
+    "state":"CA",
+    "zip":"94539",
+    "phone":"(510)623-7383",
+    "lat":37.491106,
+    "lng":-121.927115
+  },
+  {
+    "storeNumber":"22210",
+    "addr":"1612 N Blackstone Ave",
+    "city":"Fresno",
+    "state":"CA",
+    "zip":"93703",
+    "phone":null,
+    "lat":36.765119,
+    "lng":-119.790426
+  },
+  {
+    "storeNumber":"3147",
+    "addr":"333 S Rosemead",
+    "city":"Pasadena",
+    "state":"CA",
+    "zip":"91107",
+    "phone":"(626)449-4031",
+    "lat":34.16424,
+    "lng":-118.083005
+  },
+  {
+    "storeNumber":"3275",
+    "addr":"1131 S Mission Rd",
+    "city":"Fallbrook",
+    "state":"CA",
+    "zip":"92028",
+    "phone":"(760)723-2270",
+    "lat":33.384678,
+    "lng":-117.248881
+  },
+  {
+    "storeNumber":"2623",
+    "addr":"31712 Mission Trl",
+    "city":"Lake Elsinore",
+    "state":"CA",
+    "zip":"92530",
+    "phone":"(951)674-7991",
+    "lat":33.659752,
+    "lng":-117.299349
+  },
+  {
+    "storeNumber":"28526",
+    "addr":"2430 Carson St",
+    "city":"Lakewood",
+    "state":"CA",
+    "zip":"90712",
+    "phone":"(562)429-8362",
+    "lat":33.832278,
+    "lng":-118.162602
+  },
+  {
+    "storeNumber":"28517",
+    "addr":"5125 Pacific Coast Hwy",
+    "city":"Torrance",
+    "state":"CA",
+    "zip":"90505",
+    "phone":"(310)373-2788",
+    "lat":33.813387,
+    "lng":-118.368846
+  },
+  {
+    "storeNumber":"28516",
+    "addr":"1031 S Gaffey St",
+    "city":"San Pedro",
+    "state":"CA",
+    "zip":"90731",
+    "phone":"(310)831-9210",
+    "lat":33.734453,
+    "lng":-118.292623
+  },
+  {
+    "storeNumber":"28514",
+    "addr":"204 N Gaffey",
+    "city":"San Pedro",
+    "state":"CA",
+    "zip":"90731",
+    "phone":"(310)833-3498",
+    "lat":33.736062,
+    "lng":-118.292246
+  },
+  {
+    "storeNumber":"28513",
+    "addr":"6407 Stearns Ave",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90815",
+    "phone":"(562)431-1285",
+    "lat":33.795645,
+    "lng":-118.107362
+  },
+  {
+    "storeNumber":"28525",
+    "addr":"11005 Imperial Hwy",
+    "city":"Norwalk",
+    "state":"CA",
+    "zip":"90650",
+    "phone":"(562)863-8829",
+    "lat":33.917452,
+    "lng":-118.098759
+  },
+  {
+    "storeNumber":"28524",
+    "addr":"6730 Cherry Ave",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90805",
+    "phone":"(562)630-0944",
+    "lat":33.876997,
+    "lng":-118.168387
+  },
+  {
+    "storeNumber":"28523",
+    "addr":"921 W Sepulveda Blvd",
+    "city":"Torrance",
+    "state":"CA",
+    "zip":"90502",
+    "phone":"(310)539-4665",
+    "lat":33.810718,
+    "lng":-118.290821
+  },
+  {
+    "storeNumber":"28522",
+    "addr":"14625 Lakewood Blvd",
+    "city":"Paramount",
+    "state":"CA",
+    "zip":"90723",
+    "phone":"(562)531-4780",
+    "lat":33.900475,
+    "lng":-118.143182
+  },
+  {
+    "storeNumber":"28521",
+    "addr":"2054 Lomita Blvd",
+    "city":"Lomita",
+    "state":"CA",
+    "zip":"90717",
+    "phone":"(310)539-0789",
+    "lat":33.800488,
+    "lng":-118.316203
+  },
+  {
+    "storeNumber":"28520",
+    "addr":"17900 Bellflower Blvd",
+    "city":"Bellflower",
+    "state":"CA",
+    "zip":"90706",
+    "phone":"(562)867-4466",
+    "lat":33.869478,
+    "lng":-118.124823
+  },
+  {
+    "storeNumber":"28519",
+    "addr":"11905 Paramount Blvd",
+    "city":"Downey",
+    "state":"CA",
+    "zip":"90242",
+    "phone":"(562)923-1294",
+    "lat":33.934731,
+    "lng":-118.144297
+  },
+  {
+    "storeNumber":"28518",
+    "addr":"22235 S Main St",
+    "city":"Carson",
+    "state":"CA",
+    "zip":"90745",
+    "phone":"(310)830-7638",
+    "lat":33.824704,
+    "lng":-118.276484
+  },
+  {
+    "storeNumber":"28515",
+    "addr":"5850 Del Amo Blvd",
+    "city":"Lakewood",
+    "state":"CA",
+    "zip":"90713",
+    "phone":"(562)421-8043",
+    "lat":33.846619,
+    "lng":-118.117556
+  },
+  {
+    "storeNumber":"28512",
+    "addr":"10300 Alondra Blvd",
+    "city":"Bellflower",
+    "state":"CA",
+    "zip":"90706",
+    "phone":"(562)920-8150",
+    "lat":33.888783,
+    "lng":-118.1151
+  },
+  {
+    "storeNumber":"28733",
+    "addr":"241 S Harbor",
+    "city":"La Habra",
+    "state":"CA",
+    "zip":"90631",
+    "phone":"(562)694-6153",
+    "lat":33.931958,
+    "lng":-117.946173
+  },
+  {
+    "storeNumber":"28726",
+    "addr":"10010 Valley View St",
+    "city":"Buena Park",
+    "state":"CA",
+    "zip":"90620",
+    "phone":"(714)816-1703",
+    "lat":33.816767,
+    "lng":-118.027687
+  },
+  {
+    "storeNumber":"28725",
+    "addr":"3398 Norwalk Blvd",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90808",
+    "phone":"(562)493-5851",
+    "lat":33.817545,
+    "lng":-118.071804
+  },
+  {
+    "storeNumber":"28721",
+    "addr":"1600 West Katella",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92802",
+    "phone":"(714)491-6682",
+    "lat":33.812409,
+    "lng":-117.919268
+  },
+  {
+    "storeNumber":"28715",
+    "addr":"30022 Crown Valley Pkwy",
+    "city":"Laguna Niguel",
+    "state":"CA",
+    "zip":"92677",
+    "phone":"(949)495-9136",
+    "lat":33.526351,
+    "lng":-117.710814
+  },
+  {
+    "storeNumber":"28713",
+    "addr":"990 N Western Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90029",
+    "phone":"(323)460-4917",
+    "lat":34.088257,
+    "lng":-118.309126
+  },
+  {
+    "storeNumber":"28711",
+    "addr":"12105 W Pico Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90064",
+    "phone":"(310)826-1462",
+    "lat":34.029456,
+    "lng":-118.450678
+  },
+  {
+    "storeNumber":"28710",
+    "addr":"1624 Santa Monica",
+    "city":"Santa Monica",
+    "state":"CA",
+    "zip":"90404",
+    "phone":"(310)453-3308",
+    "lat":34.02875,
+    "lng":-118.471797
+  },
+  {
+    "storeNumber":"28706",
+    "addr":"8440 Beverly Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90048",
+    "phone":"(323)651-2061",
+    "lat":34.075792,
+    "lng":-118.374597
+  },
+  {
+    "storeNumber":"28705",
+    "addr":"17182 Beach Blvd",
+    "city":"Huntington Beach",
+    "state":"CA",
+    "zip":"92647",
+    "phone":"(714)842-8261",
+    "lat":33.712887,
+    "lng":-117.988566
+  },
+  {
+    "storeNumber":"28732",
+    "addr":"705 W Arrow Hwy",
+    "city":"San Dimas",
+    "state":"CA",
+    "zip":"91773",
+    "phone":"(909)599-6378",
+    "lat":34.10679,
+    "lng":-117.819185
+  },
+  {
+    "storeNumber":"28731",
+    "addr":"1604 S La Brea",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90019",
+    "phone":"(323)931-7234",
+    "lat":34.048928,
+    "lng":-118.340351
+  },
+  {
+    "storeNumber":"28730",
+    "addr":"19051 Magnolia Ave",
+    "city":"Huntington Beach",
+    "state":"CA",
+    "zip":"92646",
+    "phone":"(714)965-1590",
+    "lat":33.685781,
+    "lng":-117.971716
+  },
+  {
+    "storeNumber":"28729",
+    "addr":"768  W Arrow Hwy",
+    "city":"Covina",
+    "state":"CA",
+    "zip":"91722",
+    "phone":"(626)967-1091",
+    "lat":34.106442,
+    "lng":-117.90511
+  },
+  {
+    "storeNumber":"28728",
+    "addr":"3120 Baldwin Park Blvd",
+    "city":"Baldwin Park",
+    "state":"CA",
+    "zip":"91706",
+    "phone":"(626)337-4713",
+    "lat":34.06926,
+    "lng":-117.979641
+  },
+  {
+    "storeNumber":"28727",
+    "addr":"2910 S Bristol",
+    "city":"Santa Ana",
+    "state":"CA",
+    "zip":"92704",
+    "phone":"(714)754-7565",
+    "lat":33.724633,
+    "lng":-117.907324
+  },
+  {
+    "storeNumber":"28724",
+    "addr":"2588 W Commonwealth Ave",
+    "city":"Alhambra",
+    "state":"CA",
+    "zip":"91803",
+    "phone":"(626)458-7714",
+    "lat":34.087495,
+    "lng":-118.151641
+  },
+  {
+    "storeNumber":"28723",
+    "addr":"140 W Huntington Dr",
+    "city":"Monrovia",
+    "state":"CA",
+    "zip":"91016",
+    "phone":"(626)359-8226",
+    "lat":34.140055,
+    "lng":-118.002357
+  },
+  {
+    "storeNumber":"28722",
+    "addr":"6254 Lexington Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90038",
+    "phone":"(323)465-5776",
+    "lat":34.09235,
+    "lng":-118.326219
+  },
+  {
+    "storeNumber":"28720",
+    "addr":"1214 Avenida Cesar Chavez",
+    "city":"Monterey Park",
+    "state":"CA",
+    "zip":"91754",
+    "phone":"(323)980-0741",
+    "lat":34.037875,
+    "lng":-118.147277
+  },
+  {
+    "storeNumber":"28719",
+    "addr":"26171 La Paz Rd",
+    "city":"Mission Viejo",
+    "state":"CA",
+    "zip":"92691",
+    "phone":"(949)587-1074",
+    "lat":33.600844,
+    "lng":-117.672591
+  },
+  {
+    "storeNumber":"28718",
+    "addr":"2750 W Orangethorpe",
+    "city":"Fullerton",
+    "state":"CA",
+    "zip":"92833",
+    "phone":"(714)441-0964",
+    "lat":33.874959,
+    "lng":-117.965904
+  },
+  {
+    "storeNumber":"28717",
+    "addr":"105 W Arrow Hwy",
+    "city":"Glendora",
+    "state":"CA",
+    "zip":"91740",
+    "phone":"(626)335-1188",
+    "lat":34.107055,
+    "lng":-117.864281
+  },
+  {
+    "storeNumber":"28716",
+    "addr":"16431 Bolsa Chica",
+    "city":"Huntington Beach",
+    "state":"CA",
+    "zip":"92649",
+    "phone":"(714)846-1583",
+    "lat":33.724858,
+    "lng":-118.037637
+  },
+  {
+    "storeNumber":"28714",
+    "addr":"1174 Yorba Linda Blvd",
+    "city":"Placentia",
+    "state":"CA",
+    "zip":"92870",
+    "phone":"(714)528-3122",
+    "lat":33.888055,
+    "lng":-117.842547
+  },
+  {
+    "storeNumber":"28712",
+    "addr":"13008 Whittier Blvd",
+    "city":"Whittier",
+    "state":"CA",
+    "zip":"90602",
+    "phone":"(562)696-7124",
+    "lat":33.965254,
+    "lng":-118.037013
+  },
+  {
+    "storeNumber":"28709",
+    "addr":"2259 Harbor Blvd",
+    "city":"Costa Mesa",
+    "state":"CA",
+    "zip":"92626",
+    "phone":"(949)722-1920",
+    "lat":33.656464,
+    "lng":-117.919745
+  },
+  {
+    "storeNumber":"28708",
+    "addr":"19002 Beach Blvd",
+    "city":"Huntington Beach",
+    "state":"CA",
+    "zip":"92648",
+    "phone":"(714)593-9211",
+    "lat":33.686445,
+    "lng":-117.98825
+  },
+  {
+    "storeNumber":"28707",
+    "addr":"2718 S Figeroa St",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90007",
+    "phone":"(213)746-6248",
+    "lat":34.029511,
+    "lng":-118.28482
+  },
+  {
+    "storeNumber":"25854",
+    "addr":"37910 47th St E",
+    "city":"Palmdale",
+    "state":"CA",
+    "zip":"93552",
+    "phone":"6612852022",
+    "lat":34.571381,
+    "lng":-118.044524
+  },
+  {
+    "storeNumber":"24100",
+    "addr":"859 N Mountain Ave",
+    "city":"Ontario",
+    "state":"CA",
+    "zip":"91762",
+    "phone":"(909) 986-8735",
+    "lat":34.073804,
+    "lng":-117.670491
+  },
+  {
+    "storeNumber":"22820",
+    "addr":"102 W Palmdale Blvd",
+    "city":"Palmdale",
+    "state":"CA",
+    "zip":"93551",
+    "phone":"(661)273-5154",
+    "lat":34.579461,
+    "lng":-118.129928
+  },
+  {
+    "storeNumber":"22819",
+    "addr":"1004 West Ave I",
+    "city":"Lancaster",
+    "state":"CA",
+    "zip":"93534",
+    "phone":"(661)726-4943",
+    "lat":34.694628,
+    "lng":-118.147377
+  },
+  {
+    "storeNumber":"22818",
+    "addr":"739 W Ave P",
+    "city":"Palmdale",
+    "state":"CA",
+    "zip":"93551",
+    "phone":"(661)272-9731",
+    "lat":34.594158,
+    "lng":-118.182479
+  },
+  {
+    "storeNumber":"22817",
+    "addr":"43720 15th St W",
+    "city":"Lancaster",
+    "state":"CA",
+    "zip":"93534",
+    "phone":"(661)723-1488",
+    "lat":34.67727,
+    "lng":-118.155984
+  },
+  {
+    "storeNumber":"22816",
+    "addr":"2561 E Ave S",
+    "city":"Palmdale",
+    "state":"CA",
+    "zip":"93550",
+    "phone":"(661)267-1624",
+    "lat":34.558345,
+    "lng":-118.08282
+  },
+  {
+    "storeNumber":"22815",
+    "addr":"1740 E Ave J",
+    "city":"Lancaster",
+    "state":"CA",
+    "zip":"93535",
+    "phone":"(661)940-1994",
+    "lat":34.685938,
+    "lng":-118.098535
+  },
+  {
+    "storeNumber":"22814",
+    "addr":"2729 W Ave L",
+    "city":"Lancaster",
+    "state":"CA",
+    "zip":"93536",
+    "phone":"(661)943-7722",
+    "lat":34.686785,
+    "lng":-118.154163
+  },
+  {
+    "storeNumber":"22015",
+    "addr":"1810 N Bristol",
+    "city":"Santa Ana",
+    "state":"CA",
+    "zip":"92706",
+    "phone":"(714)953-7344",
+    "lat":33.76456,
+    "lng":-117.880957
+  },
+  {
+    "storeNumber":"21157",
+    "addr":"2233 N Tustin",
+    "city":"Orange",
+    "state":"CA",
+    "zip":"92865",
+    "phone":"(714)532-1062",
+    "lat":33.831647,
+    "lng":-117.848726
+  },
+  {
+    "storeNumber":"19989",
+    "addr":"6060 N Figueroa St",
+    "city":"Highland Park",
+    "state":"CA",
+    "zip":"90042",
+    "phone":"(323)258-9353",
+    "lat":34.111913,
+    "lng":-118.188147
+  },
+  {
+    "storeNumber":"19903",
+    "addr":"2136 Hacienda Blvd",
+    "city":"Hacienda Heights",
+    "state":"CA",
+    "zip":"91745",
+    "phone":"(626)333-7827",
+    "lat":33.994863,
+    "lng":-117.968112
+  },
+  {
+    "storeNumber":"17451",
+    "addr":"1953 E. Colorado Blvd",
+    "city":"Pasadena",
+    "state":"CA",
+    "zip":"91107",
+    "phone":"(626)432-1870",
+    "lat":34.146269,
+    "lng":-118.110072
+  },
+  {
+    "storeNumber":"17251",
+    "addr":"14511 Chatsworth Dr",
+    "city":"San Fernando",
+    "state":"CA",
+    "zip":"91340",
+    "phone":"(818)361-8502",
+    "lat":34.27401,
+    "lng":-118.448857
+  },
+  {
+    "storeNumber":"16421",
+    "addr":"2151 Foothill Blvd",
+    "city":"La Canada Flintridge",
+    "state":"CA",
+    "zip":"91011",
+    "phone":"(818)957-1559",
+    "lat":34.21638,
+    "lng":-118.224729
+  },
+  {
+    "storeNumber":"15569",
+    "addr":"2360 Tapo St",
+    "city":"Simi Valley",
+    "state":"CA",
+    "zip":"93063",
+    "phone":"(805)526-5450",
+    "lat":34.277118,
+    "lng":-118.708869
+  },
+  {
+    "storeNumber":"9581",
+    "addr":"2560 A Perris Blvd",
+    "city":"Perris",
+    "state":"CA",
+    "zip":"92571",
+    "phone":"(951)657-4420",
+    "lat":33.816735,
+    "lng":-117.228063
+  },
+  {
+    "storeNumber":"5685",
+    "addr":"24712 W Pico Canyon Rd",
+    "city":"Newhall",
+    "state":"CA",
+    "zip":"91321",
+    "phone":"(661)254-0651",
+    "lat":34.379428,
+    "lng":-118.568166
+  },
+  {
+    "storeNumber":"4819",
+    "addr":"23146 Valencia Blvd",
+    "city":"Santa Clarita",
+    "state":"CA",
+    "zip":"91355",
+    "phone":"(661)287-1673",
+    "lat":34.422711,
+    "lng":-118.541669
+  },
+  {
+    "storeNumber":"4599",
+    "addr":"43466 St Hwy 74",
+    "city":"Hemet",
+    "state":"CA",
+    "zip":"92544",
+    "phone":"(951)927-0166",
+    "lat":33.74752,
+    "lng":-116.971968
+  },
+  {
+    "storeNumber":"4433",
+    "addr":"324 S Brookhurst",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92804",
+    "phone":"(714)778-0730",
+    "lat":33.82353,
+    "lng":-117.965904
+  },
+  {
+    "storeNumber":"4406",
+    "addr":"1968 Glen Oaks Blvd",
+    "city":"San Fernando",
+    "state":"CA",
+    "zip":"91340",
+    "phone":"(818)898-1968",
+    "lat":34.295074,
+    "lng":-118.417114
+  },
+  {
+    "storeNumber":"4130",
+    "addr":"12910 Foothill Blvd",
+    "city":"Sylmar",
+    "state":"CA",
+    "zip":"91342",
+    "phone":"(818)898-0875",
+    "lat":34.305828,
+    "lng":-118.457197
+  },
+  {
+    "storeNumber":"3069",
+    "addr":"490 N Tustin Ave",
+    "city":"Orange",
+    "state":"CA",
+    "zip":"92867",
+    "phone":"(714)633-6666",
+    "lat":33.794719,
+    "lng":-117.836091
+  },
+  {
+    "storeNumber":"2321",
+    "addr":"1438 Los Angeles Ave",
+    "city":"Simi Valley",
+    "state":"CA",
+    "zip":"93065",
+    "phone":"(805)526-1222",
+    "lat":34.27136,
+    "lng":-118.771185
+  },
+  {
+    "storeNumber":"1070",
+    "addr":"989 W Foothill",
+    "city":"Upland",
+    "state":"CA",
+    "zip":"91786",
+    "phone":"(909)981-1494",
+    "lat":34.1037,
+    "lng":-117.661085
+  },
+  {
+    "storeNumber":"286",
+    "addr":"21120 Devonshire St",
+    "city":"Chatsworth",
+    "state":"CA",
+    "zip":"91311",
+    "phone":"(818)341-2688",
+    "lat":34.256949,
+    "lng":-118.593989
+  },
+  {
+    "storeNumber":"212",
+    "addr":"8250 Laurel Canyon Blvd",
+    "city":"North Hollywood",
+    "state":"CA",
+    "zip":"91605",
+    "phone":"(818)768-6349",
+    "lat":34.22103,
+    "lng":-118.396191
+  },
+  {
+    "storeNumber":"20639",
+    "addr":"468 S Main St",
+    "city":"Orange",
+    "state":"CA",
+    "zip":"92868",
+    "phone":"(714)939-6193",
+    "lat":33.781257,
+    "lng":-117.867772
+  },
+  {
+    "storeNumber":"19898",
+    "addr":"15651 Sherman Way",
+    "city":"Van Nuys",
+    "state":"CA",
+    "zip":"91406",
+    "phone":"(818)780-8492",
+    "lat":34.201471,
+    "lng":-118.474618
+  },
+  {
+    "storeNumber":"932",
+    "addr":"18941 Soledad Canyon Rd",
+    "city":"Canyon Country",
+    "state":"CA",
+    "zip":"91351",
+    "phone":"(661)251-0330",
+    "lat":34.415984,
+    "lng":-118.466102
+  },
+  {
+    "storeNumber":"17420",
+    "addr":"797 2nd St",
+    "city":"San Bernardino",
+    "state":"CA",
+    "zip":"92410",
+    "phone":"(909)885-8938",
+    "lat":34.102417,
+    "lng":-117.300435
+  },
+  {
+    "storeNumber":"16437",
+    "addr":"2525 E Highland Ave",
+    "city":"Highland",
+    "state":"CA",
+    "zip":"92346",
+    "phone":"(909)862-0856",
+    "lat":34.135814,
+    "lng":-117.233081
+  },
+  {
+    "storeNumber":"3866",
+    "addr":"258 E Redlands Blvd",
+    "city":"San Bernardino",
+    "state":"CA",
+    "zip":"92408",
+    "phone":"(909)825-7220",
+    "lat":34.063378,
+    "lng":-117.280371
+  },
+  {
+    "storeNumber":"3150",
+    "addr":"295 W Highland",
+    "city":"San Bernardino",
+    "state":"CA",
+    "zip":"92405",
+    "phone":"(909)881-2719",
+    "lat":34.140204,
+    "lng":-117.297003
+  },
+  {
+    "storeNumber":"9558",
+    "addr":"41170 Big Bear Blvd",
+    "city":"Big Bear Lake",
+    "state":"CA",
+    "zip":"92315",
+    "phone":"(909)866-7778",
+    "lat":34.243828,
+    "lng":-116.904
+  },
+  {
+    "storeNumber":"28547",
+    "addr":"16414 Crenshaw Blvd",
+    "city":"Torrance",
+    "state":"CA",
+    "zip":"90504",
+    "phone":"(310)327-3614",
+    "lat":33.881431,
+    "lng":-118.326141
+  },
+  {
+    "storeNumber":"28544",
+    "addr":"2201 Artesia Blvd",
+    "city":"Redondo Beach",
+    "state":"CA",
+    "zip":"90278",
+    "phone":"(310)371-0353",
+    "lat":33.873149,
+    "lng":-118.372539
+  },
+  {
+    "storeNumber":"27781",
+    "addr":"31-705 Date Palm Dr",
+    "city":"Cathedral City",
+    "state":"CA",
+    "zip":"92234",
+    "phone":"(760)324-0495",
+    "lat":33.816371,
+    "lng":-116.458089
+  },
+  {
+    "storeNumber":"28546",
+    "addr":"1352 190th St",
+    "city":"Torrance",
+    "state":"CA",
+    "zip":"90501",
+    "phone":"(310)618-1628",
+    "lat":33.858315,
+    "lng":-118.30082
+  },
+  {
+    "storeNumber":"28545",
+    "addr":"1301 W Artesia Blvd",
+    "city":"Gardena",
+    "state":"CA",
+    "zip":"90248",
+    "phone":"(310)538-0801",
+    "lat":33.873207,
+    "lng":-118.295777
+  },
+  {
+    "storeNumber":"28543",
+    "addr":"14308 S Western Ave",
+    "city":"Gardena",
+    "state":"CA",
+    "zip":"90249",
+    "phone":"(310)538-4915",
+    "lat":33.901903,
+    "lng":-118.309073
+  },
+  {
+    "storeNumber":"28542",
+    "addr":"301 N Sepulveda Blvd",
+    "city":"Manhattan Beach",
+    "state":"CA",
+    "zip":"90266",
+    "phone":"(310)374-3620",
+    "lat":33.881601,
+    "lng":-118.396286
+  },
+  {
+    "storeNumber":"27784",
+    "addr":"83-154 Ave 48",
+    "city":"Coachella",
+    "state":"CA",
+    "zip":"92236",
+    "phone":"(760)347-5348",
+    "lat":33.6803,
+    "lng":-116.173894
+  },
+  {
+    "storeNumber":"27783",
+    "addr":"42750 B Jackson St",
+    "city":"Indio",
+    "state":"CA",
+    "zip":"92203",
+    "phone":"(760)347-8974",
+    "lat":33.738225,
+    "lng":-116.214701
+  },
+  {
+    "storeNumber":"27782",
+    "addr":"78932 Hwy 111",
+    "city":"La Quinta",
+    "state":"CA",
+    "zip":"92253",
+    "phone":"(760)771-0966",
+    "lat":33.663357,
+    "lng":-116.310009
+  },
+  {
+    "storeNumber":"27780",
+    "addr":"1717 E Vista Chino St",
+    "city":"Palm Springs",
+    "state":"CA",
+    "zip":"92262",
+    "phone":"(760)318-4197",
+    "lat":33.845292,
+    "lng":-116.527553
+  },
+  {
+    "storeNumber":"29959",
+    "addr":"452 W Noble Ave.",
+    "city":"Farmersville",
+    "state":"CA",
+    "zip":"93223",
+    "phone":null,
+    "lat":36.325975,
+    "lng":-119.210874
+  },
+  {
+    "storeNumber":"16535",
+    "addr":"1377 E Noble Ave",
+    "city":"Visalia",
+    "state":"CA",
+    "zip":"93292",
+    "phone":"(559)739-7558",
+    "lat":36.325477,
+    "lng":-119.277289
+  },
+  {
+    "storeNumber":"4230",
+    "addr":"2415 Hwy 46",
+    "city":"Wasco",
+    "state":"CA",
+    "zip":"93280",
+    "phone":"(661)758-2642",
+    "lat":35.594124,
+    "lng":-119.340946
+  },
+  {
+    "storeNumber":"3744",
+    "addr":"1018 S Mooney Blvd",
+    "city":"Visalia",
+    "state":"CA",
+    "zip":"93277",
+    "phone":"(559)732-6711",
+    "lat":36.321538,
+    "lng":-119.313451
+  },
+  {
+    "storeNumber":"28772",
+    "addr":"1718 N 11th Ave",
+    "city":"Hanford",
+    "state":"CA",
+    "zip":"93230",
+    "phone":"(559)584-4247",
+    "lat":36.343768,
+    "lng":-119.655325
+  },
+  {
+    "storeNumber":"28767",
+    "addr":"1796 W Lacey Blvd",
+    "city":"Hanford",
+    "state":"CA",
+    "zip":"93230",
+    "phone":"(559)582-3391",
+    "lat":36.328434,
+    "lng":-119.675194
+  },
+  {
+    "storeNumber":"27673",
+    "addr":"2413 N Dinuba Blvd",
+    "city":"Visalia",
+    "state":"CA",
+    "zip":"93291",
+    "phone":"5596274600",
+    "lat":36.353655,
+    "lng":-119.296977
+  },
+  {
+    "storeNumber":"27241",
+    "addr":"1940 Cecil Ave",
+    "city":"Delano",
+    "state":"CA",
+    "zip":"93215",
+    "phone":"6617255552",
+    "lat":35.775854,
+    "lng":-119.230071
+  },
+  {
+    "storeNumber":"22639",
+    "addr":"3727 S Mooney Blvd",
+    "city":"Visalia",
+    "state":"CA",
+    "zip":"93277",
+    "phone":"(559)733-0813",
+    "lat":36.29665,
+    "lng":-119.314095
+  },
+  {
+    "storeNumber":"9484",
+    "addr":"1107 Visalia Rd",
+    "city":"Exeter",
+    "state":"CA",
+    "zip":"93221",
+    "phone":"(559)592-1894",
+    "lat":36.297598,
+    "lng":-119.155595
+  },
+  {
+    "storeNumber":"27949",
+    "addr":"3115 Harbor Blvd.",
+    "city":"Costa Mesa",
+    "state":"CA",
+    "zip":"92626",
+    "phone":"(714)432-7745",
+    "lat":33.682735,
+    "lng":-117.919948
+  },
+  {
+    "storeNumber":"27889",
+    "addr":"116 E Rte 66",
+    "city":"Glendora",
+    "state":"CA",
+    "zip":"91740",
+    "phone":"(626)963-2616",
+    "lat":34.119476,
+    "lng":-117.848726
+  },
+  {
+    "storeNumber":"27568",
+    "addr":"5891 Chapman Ave",
+    "city":"Garden Grove",
+    "state":"CA",
+    "zip":"92845",
+    "phone":"(714)893-5573",
+    "lat":33.788789,
+    "lng":-118.030078
+  },
+  {
+    "storeNumber":"26843",
+    "addr":"12800 Figueroa",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90061",
+    "phone":"(310)327-8387",
+    "lat":33.919644,
+    "lng":-118.273127
+  },
+  {
+    "storeNumber":"26842",
+    "addr":"4305 W El Segundo Blvd",
+    "city":"Hawthorne",
+    "state":"CA",
+    "zip":"90250",
+    "phone":"(310)676-5991",
+    "lat":33.916431,
+    "lng":-118.350536
+  },
+  {
+    "storeNumber":"26841",
+    "addr":"5307 W Century Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90045",
+    "phone":"(310)649-5506",
+    "lat":33.945609,
+    "lng":-118.373338
+  },
+  {
+    "storeNumber":"26840",
+    "addr":"12011 Venice Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90066",
+    "phone":"(310)398-7717",
+    "lat":34.006262,
+    "lng":-118.429455
+  },
+  {
+    "storeNumber":"26839",
+    "addr":"3029 W 8th St",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90005",
+    "phone":"(213)380-2012",
+    "lat":34.057945,
+    "lng":-118.292552
+  },
+  {
+    "storeNumber":"26420",
+    "addr":"1807 N Broadway",
+    "city":"Santa Maria",
+    "state":"CA",
+    "zip":"93454",
+    "phone":"(805)922-2509",
+    "lat":34.972455,
+    "lng":-120.436187
+  },
+  {
+    "storeNumber":"26046",
+    "addr":"12156 South St",
+    "city":"Artesia",
+    "state":"CA",
+    "zip":"90701",
+    "phone":"(562)924-1650",
+    "lat":33.858258,
+    "lng":-118.072609
+  },
+  {
+    "storeNumber":"24286",
+    "addr":"3810 Broad St Ste 1",
+    "city":"San Luis Obispo",
+    "state":"CA",
+    "zip":"93401",
+    "phone":"(805)593-0205",
+    "lat":35.250923,
+    "lng":-120.644482
+  },
+  {
+    "storeNumber":"24283",
+    "addr":"397 Santa Rosa St",
+    "city":"San Luis Obispo",
+    "state":"CA",
+    "zip":"93405",
+    "phone":"(805)544-1700",
+    "lat":35.287563,
+    "lng":-120.664718
+  },
+  {
+    "storeNumber":"24214",
+    "addr":"12218 Apple Valley Rd 100 Bldg 3A",
+    "city":"Apple Valley",
+    "state":"CA",
+    "zip":"92308",
+    "phone":"(760)247-3105",
+    "lat":34.492216,
+    "lng":-117.242566
+  },
+  {
+    "storeNumber":"24148",
+    "addr":"26521 Aliso Creek Rd",
+    "city":"Aliso Viejo",
+    "state":"CA",
+    "zip":"92656",
+    "phone":"(949)831-4122",
+    "lat":33.578074,
+    "lng":-117.723309
+  },
+  {
+    "storeNumber":"23898",
+    "addr":"14071 Main St",
+    "city":"Hesperia",
+    "state":"CA",
+    "zip":"92345",
+    "phone":"(760)956-4728",
+    "lat":34.42628,
+    "lng":-117.357537
+  },
+  {
+    "storeNumber":"23218",
+    "addr":"100 N College State Blvd",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92806",
+    "phone":"(714)774-4314",
+    "lat":33.821706,
+    "lng":-117.993787
+  },
+  {
+    "storeNumber":"23178",
+    "addr":"1075 N Tustin Ave",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92807",
+    "phone":"(714)632-5616",
+    "lat":33.854234,
+    "lng":-117.837852
+  },
+  {
+    "storeNumber":"23177",
+    "addr":"7878 Valleyview Dr",
+    "city":"Buena Park",
+    "state":"CA",
+    "zip":"90620",
+    "phone":"(714)994-5331",
+    "lat":33.854977,
+    "lng":-118.028266
+  },
+  {
+    "storeNumber":"23176",
+    "addr":"301 E Commonwealth",
+    "city":"Fullerton",
+    "state":"CA",
+    "zip":"92832",
+    "phone":"(714)871-1605",
+    "lat":33.873304,
+    "lng":-117.930758
+  },
+  {
+    "storeNumber":"23091",
+    "addr":"13291 Harbor Blvd",
+    "city":"Garden Grove",
+    "state":"CA",
+    "zip":"92843",
+    "phone":"(714)530-4727",
+    "lat":33.769858,
+    "lng":-117.920868
+  },
+  {
+    "storeNumber":"22452",
+    "addr":"240 W Baseline Rd",
+    "city":"Rialto",
+    "state":"CA",
+    "zip":"92376",
+    "phone":"(909)875-4370",
+    "lat":34.12138,
+    "lng":-117.367059
+  },
+  {
+    "storeNumber":"21177",
+    "addr":"535 W Tefft St",
+    "city":"Nipomo",
+    "state":"CA",
+    "zip":"93444",
+    "phone":"(805)929-0360",
+    "lat":35.036021,
+    "lng":-120.485406
+  },
+  {
+    "storeNumber":"20852",
+    "addr":"1106 E Clark Ave",
+    "city":"Orcutt",
+    "state":"CA",
+    "zip":"93455",
+    "phone":"(805)938-5187",
+    "lat":34.864831,
+    "lng":-120.417999
+  },
+  {
+    "storeNumber":"20598",
+    "addr":"1212 S Harbor Blvd",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92805",
+    "phone":"(714)563-2477",
+    "lat":33.817191,
+    "lng":-117.914919
+  },
+  {
+    "storeNumber":"19899",
+    "addr":"201 W Channel Island Blvd",
+    "city":"Oxnard",
+    "state":"CA",
+    "zip":"93033",
+    "phone":"(805)487-7696",
+    "lat":34.176436,
+    "lng":-119.161003
+  },
+  {
+    "storeNumber":"19895",
+    "addr":"28532 Oso Pkwy",
+    "city":"Rancho Santa Margarita",
+    "state":"CA",
+    "zip":"92688",
+    "phone":"(949)888-8155",
+    "lat":33.583474,
+    "lng":-117.632859
+  },
+  {
+    "storeNumber":"19697",
+    "addr":"31771 Del Obispo",
+    "city":"San Juan Capistrano",
+    "state":"CA",
+    "zip":"92675",
+    "phone":"(949)661-7118",
+    "lat":33.501693,
+    "lng":-117.662551
+  },
+  {
+    "storeNumber":"19685",
+    "addr":"7880 Telegraph Rd F",
+    "city":"Ventura",
+    "state":"CA",
+    "zip":"93004",
+    "phone":"(805)659-5192",
+    "lat":34.276578,
+    "lng":-119.168137
+  },
+  {
+    "storeNumber":"19209",
+    "addr":"2800 Johnson Dr",
+    "city":"Ventura",
+    "state":"CA",
+    "zip":"93003",
+    "phone":"(805)676-1285",
+    "lat":34.249173,
+    "lng":-119.195835
+  },
+  {
+    "storeNumber":"18365",
+    "addr":"2250 E Main St",
+    "city":"Ventura",
+    "state":"CA",
+    "zip":"93001",
+    "phone":"(805)648-2076",
+    "lat":34.276619,
+    "lng":-119.266516
+  },
+  {
+    "storeNumber":"16781",
+    "addr":"5626 E Santa Ana Canyon Rd",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92807",
+    "phone":"(714)998-3077",
+    "lat":33.851262,
+    "lng":-117.791559
+  },
+  {
+    "storeNumber":"5360",
+    "addr":"1515 S Bradley Rd",
+    "city":"Santa Maria",
+    "state":"CA",
+    "zip":"93454",
+    "phone":"(805)928-1377",
+    "lat":34.934062,
+    "lng":-120.418775
+  },
+  {
+    "storeNumber":"5007",
+    "addr":"790 N Ventura Rd",
+    "city":"Port Hueneme",
+    "state":"CA",
+    "zip":"93041",
+    "phone":"(805)488-3144",
+    "lat":34.154501,
+    "lng":-119.19479
+  },
+  {
+    "storeNumber":"4660",
+    "addr":"17250 Bear Valley Rd",
+    "city":"Victorville",
+    "state":"CA",
+    "zip":"92395",
+    "phone":"(760)951-0177",
+    "lat":34.471326,
+    "lng":-117.286307
+  },
+  {
+    "storeNumber":"4290",
+    "addr":"27371 La Paz Rd",
+    "city":"Laguna Niguel",
+    "state":"CA",
+    "zip":"92677",
+    "phone":"(949)831-3334",
+    "lat":33.565568,
+    "lng":-117.708223
+  },
+  {
+    "storeNumber":"4249",
+    "addr":"1505 Flynn Rd",
+    "city":"Camarillo",
+    "state":"CA",
+    "zip":"93012",
+    "phone":"(805)383-3355",
+    "lat":34.229675,
+    "lng":-119.016713
+  },
+  {
+    "storeNumber":"4181",
+    "addr":"31491 Santa Margarita Pky",
+    "city":"Rancho Santa Margarita",
+    "state":"CA",
+    "zip":"92688",
+    "phone":"(949)589-7317",
+    "lat":33.649107,
+    "lng":-117.58198
+  },
+  {
+    "storeNumber":"3544",
+    "addr":"95 Daily Dr",
+    "city":"Camarillo",
+    "state":"CA",
+    "zip":"93010",
+    "phone":"(805)389-3283",
+    "lat":34.221817,
+    "lng":-119.067626
+  },
+  {
+    "storeNumber":"3499",
+    "addr":"1700 Main St",
+    "city":"Morro Bay",
+    "state":"CA",
+    "zip":"93442",
+    "phone":"(805)772-6883",
+    "lat":35.379392,
+    "lng":-120.854427
+  },
+  {
+    "storeNumber":"3212",
+    "addr":"6001 Beach Blvd",
+    "city":"Buena Park",
+    "state":"CA",
+    "zip":"90621",
+    "phone":"(714)994-1867",
+    "lat":33.873239,
+    "lng":-117.998611
+  },
+  {
+    "storeNumber":"3144",
+    "addr":"4416 Sepulveda Blvd",
+    "city":"Culver City",
+    "state":"CA",
+    "zip":"90230",
+    "phone":"(310)397-9548",
+    "lat":34.003254,
+    "lng":-118.406888
+  },
+  {
+    "storeNumber":"3135",
+    "addr":"5395 Atlantic Blvd",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90805",
+    "phone":"(562)428-1329",
+    "lat":33.854264,
+    "lng":-118.185021
+  },
+  {
+    "storeNumber":"2531",
+    "addr":"15357 Palmdale Rd",
+    "city":"Victorville",
+    "state":"CA",
+    "zip":"92392",
+    "phone":"(760)241-8599",
+    "lat":34.506742,
+    "lng":-117.327765
+  },
+  {
+    "storeNumber":"2474",
+    "addr":"1919 S Broadway",
+    "city":"Santa Maria",
+    "state":"CA",
+    "zip":"93454",
+    "phone":"(805)922-5126",
+    "lat":34.926048,
+    "lng":-120.43649
+  },
+  {
+    "storeNumber":"215",
+    "addr":"6800 Eastern Ave",
+    "city":"Bell Gardens",
+    "state":"CA",
+    "zip":"90201",
+    "phone":"(323)771-3893",
+    "lat":33.971353,
+    "lng":-118.163795
+  },
+  {
+    "storeNumber":"24",
+    "addr":"2204 N Garey Ave",
+    "city":"Pomona",
+    "state":"CA",
+    "zip":"91767",
+    "phone":"(909)392-9474",
+    "lat":34.088481,
+    "lng":-117.749615
+  },
+  {
+    "storeNumber":"26098",
+    "addr":"450 W Olive Ave",
+    "city":"Porterville",
+    "state":"CA",
+    "zip":"93257",
+    "phone":"(559) 784-5510",
+    "lat":36.066316,
+    "lng":-119.027338
+  },
+  {
+    "storeNumber":"24287",
+    "addr":"202 N Hwy 65",
+    "city":"Lindsay",
+    "state":"CA",
+    "zip":"93247",
+    "phone":"(559)562-4334",
+    "lat":36.203006,
+    "lng":-119.08816
+  },
+  {
+    "storeNumber":"24285",
+    "addr":"1520 N Hillman St",
+    "city":"Tulare",
+    "state":"CA",
+    "zip":"93274",
+    "phone":"(559)684-9481",
+    "lat":36.229523,
+    "lng":-119.330781
+  },
+  {
+    "storeNumber":"24284",
+    "addr":"1220 W Henderson",
+    "city":"Porterville",
+    "state":"CA",
+    "zip":"93257",
+    "phone":"(559)783-2389",
+    "lat":36.06523,
+    "lng":-119.016768
+  },
+  {
+    "storeNumber":"24280",
+    "addr":"510 E Tulare Ave",
+    "city":"Tulare",
+    "state":"CA",
+    "zip":"93274",
+    "phone":"(559)688-8033",
+    "lat":36.209035,
+    "lng":-119.341673
+  },
+  {
+    "storeNumber":"19545",
+    "addr":"218 S Diamond Bar Blvd",
+    "city":"Diamond Bar",
+    "state":"CA",
+    "zip":"91765",
+    "phone":"(909)860-1671",
+    "lat":34.022183,
+    "lng":-117.809692
+  },
+  {
+    "storeNumber":"134",
+    "addr":"1113 E Colorado",
+    "city":"Glendale",
+    "state":"CA",
+    "zip":"91205",
+    "phone":"(818)956-6167",
+    "lat":34.133737,
+    "lng":-118.246815
+  },
+  {
+    "storeNumber":"3068",
+    "addr":"14950 Leffingwell Rd",
+    "city":"La Mirada",
+    "state":"CA",
+    "zip":"90638",
+    "phone":"(562)941-9266",
+    "lat":33.926392,
+    "lng":-118.012314
+  },
+  {
+    "storeNumber":"4517",
+    "addr":"1150 W Foothill",
+    "city":"Azusa",
+    "state":"CA",
+    "zip":"91702",
+    "phone":"(626)334-0889",
+    "lat":34.133619,
+    "lng":-117.907563
+  },
+  {
+    "storeNumber":"48",
+    "addr":"2500 E Pacific Coast Hwy",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90804",
+    "phone":"(562)498-7283",
+    "lat":33.789614,
+    "lng":-118.162069
+  },
+  {
+    "storeNumber":"4802",
+    "addr":"1485 N Montebello Blvd",
+    "city":"Montebello",
+    "state":"CA",
+    "zip":"90640",
+    "phone":"(323)721-3666",
+    "lat":34.033652,
+    "lng":-118.091981
+  },
+  {
+    "storeNumber":"2",
+    "addr":"1822 Santa Fe",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90810",
+    "phone":"(562)983-1520",
+    "lat":33.81137,
+    "lng":-118.223423
+  },
+  {
+    "storeNumber":"27776",
+    "addr":"140 N Fairview",
+    "city":"Goleta",
+    "state":"CA",
+    "zip":"93117",
+    "phone":"(805)964-2485",
+    "lat":34.435829,
+    "lng":-119.827639
+  },
+  {
+    "storeNumber":"27775",
+    "addr":"1548 N H St",
+    "city":"Lompoc",
+    "state":"CA",
+    "zip":"93436",
+    "phone":"(805)735-8890",
+    "lat":34.63915,
+    "lng":-120.457941
+  },
+  {
+    "storeNumber":"27773",
+    "addr":"5980 Hollister Ave",
+    "city":"Goleta",
+    "state":"CA",
+    "zip":"93117",
+    "phone":"(805)964-5330",
+    "lat":34.436331,
+    "lng":-119.830441
+  },
+  {
+    "storeNumber":"27772",
+    "addr":"821 N Milpas St",
+    "city":"Santa Barbara",
+    "state":"CA",
+    "zip":"93103",
+    "phone":"(805)962-1114",
+    "lat":34.429535,
+    "lng":-119.690061
+  },
+  {
+    "storeNumber":"23053",
+    "addr":"867 Oak Park Blvd",
+    "city":"Pismo Beach",
+    "state":"CA",
+    "zip":"93449",
+    "phone":"(805)474-4141",
+    "lat":35.133116,
+    "lng":-120.606138
+  },
+  {
+    "storeNumber":"23052",
+    "addr":"191 Niblick Rd",
+    "city":"Paso Robles",
+    "state":"CA",
+    "zip":"93446",
+    "phone":"(805)238-6528",
+    "lat":35.615396,
+    "lng":-120.68145
+  },
+  {
+    "storeNumber":"23051",
+    "addr":"1500 Grand Ave",
+    "city":"Grover Beach",
+    "state":"CA",
+    "zip":"93433",
+    "phone":"(805)481-3852",
+    "lat":35.120916,
+    "lng":-120.613215
+  },
+  {
+    "storeNumber":"23050",
+    "addr":"1107 24th St",
+    "city":"Paso Robles",
+    "state":"CA",
+    "zip":"93446",
+    "phone":"(805)238-1801",
+    "lat":35.640284,
+    "lng":-120.687972
+  },
+  {
+    "storeNumber":"23049",
+    "addr":"7385 El Camino Real",
+    "city":"Atascadero",
+    "state":"CA",
+    "zip":"93422",
+    "phone":"(805)466-7647",
+    "lat":35.483048,
+    "lng":-120.65993
+  },
+  {
+    "storeNumber":"2458",
+    "addr":"125 W Los Angeles Ave",
+    "city":"Moorpark",
+    "state":"CA",
+    "zip":"93021",
+    "phone":"(805)529-7480",
+    "lat":34.279065,
+    "lng":-118.883558
+  },
+  {
+    "storeNumber":"2106",
+    "addr":"4955 Las Virgines",
+    "city":"Calabasas",
+    "state":"CA",
+    "zip":"91302",
+    "phone":"(818)880-5845",
+    "lat":34.138333,
+    "lng":-118.660833
+  },
+  {
+    "storeNumber":"27774",
+    "addr":"191 E Hwy 246",
+    "city":"Buellton",
+    "state":"CA",
+    "zip":"93427",
+    "phone":"(805)688-6683",
+    "lat":34.613597,
+    "lng":-120.192651
+  },
+  {
+    "storeNumber":"24248",
+    "addr":"791 N Wendy Dr",
+    "city":"Newbury Park",
+    "state":"CA",
+    "zip":"91320",
+    "phone":"(805)499-1316",
+    "lat":34.188489,
+    "lng":-118.940919
+  },
+  {
+    "storeNumber":"16144",
+    "addr":"2900 Townsgate Rd 113",
+    "city":"Westlake Village",
+    "state":"CA",
+    "zip":"91361",
+    "phone":"(805)496-2666",
+    "lat":34.146647,
+    "lng":-118.807373
+  },
+  {
+    "storeNumber":"3782",
+    "addr":"25 Rancho Rd",
+    "city":"Thousand Oaks",
+    "state":"CA",
+    "zip":"91362",
+    "phone":"(805)495-1709",
+    "lat":34.178183,
+    "lng":-118.858228
+  },
+  {
+    "storeNumber":"3543",
+    "addr":"1928 E Avenida De Los Arboles",
+    "city":"Thousand Oaks",
+    "state":"CA",
+    "zip":"91362",
+    "phone":"(805)492-9572",
+    "lat":34.21081,
+    "lng":-118.842863
+  },
+  {
+    "storeNumber":"1524",
+    "addr":"5589 Kanan Rd",
+    "city":"Agoura Hills",
+    "state":"CA",
+    "zip":"91301",
+    "phone":"(818)991-8268",
+    "lat":34.151693,
+    "lng":-118.758695
+  },
+  {
+    "storeNumber":"27357",
+    "addr":"22585 Alessandro Blvd",
+    "city":"Moreno Valley",
+    "state":"CA",
+    "zip":"92553",
+    "phone":"(951)413-1050",
+    "lat":33.916955,
+    "lng":-117.26855
+  },
+  {
+    "storeNumber":"20466",
+    "addr":"18772 Valley Blvd",
+    "city":"Bloomington",
+    "state":"CA",
+    "zip":"92316",
+    "phone":"(909)421-2510",
+    "lat":34.070926,
+    "lng":-117.394958
+  },
+  {
+    "storeNumber":"16208",
+    "addr":"5587 Arlington Ave",
+    "city":"Riverside",
+    "state":"CA",
+    "zip":"92504",
+    "phone":"(951)352-0931",
+    "lat":33.946322,
+    "lng":-117.424792
+  },
+  {
+    "storeNumber":"3788",
+    "addr":"10995 Magnolia Ave",
+    "city":"Riverside",
+    "state":"CA",
+    "zip":"92505",
+    "phone":"(951)688-3788",
+    "lat":33.904981,
+    "lng":-117.47479
+  },
+  {
+    "storeNumber":"3391",
+    "addr":"23010 Sunnymead Blvd",
+    "city":"Moreno Valley",
+    "state":"CA",
+    "zip":"92553",
+    "phone":"(951)247-2355",
+    "lat":33.940012,
+    "lng":-117.261053
+  },
+  {
+    "storeNumber":"1335",
+    "addr":"1420 University",
+    "city":"Riverside",
+    "state":"CA",
+    "zip":"92507",
+    "phone":"(951)684-0728",
+    "lat":33.973455,
+    "lng":-117.326389
+  },
+  {
+    "storeNumber":"21082",
+    "addr":"785 N Ramona",
+    "city":"San Jacinto",
+    "state":"CA",
+    "zip":"92583",
+    "phone":"(951)654-1696",
+    "lat":33.783908,
+    "lng":-116.958635
+  },
+  {
+    "storeNumber":"5527",
+    "addr":"181 E Alessandro Blvd",
+    "city":"Riverside",
+    "state":"CA",
+    "zip":"92508",
+    "phone":"(951)780-2493",
+    "lat":33.915875,
+    "lng":-117.329401
+  },
+  {
+    "storeNumber":"2748",
+    "addr":"7940 Limonite",
+    "city":"Riverside",
+    "state":"CA",
+    "zip":"92509",
+    "phone":"(951)681-2600",
+    "lat":33.999605,
+    "lng":-117.432145
+  },
+  {
+    "storeNumber":"1136",
+    "addr":"12382 Central Ave",
+    "city":"Chino",
+    "state":"CA",
+    "zip":"91710",
+    "phone":"(909)465-9585",
+    "lat":34.028427,
+    "lng":-117.689926
+  },
+  {
+    "storeNumber":"22010",
+    "addr":"4301 Magnolia Blvd",
+    "city":"Burbank",
+    "state":"CA",
+    "zip":"91505",
+    "phone":"(818)846-7451",
+    "lat":34.165846,
+    "lng":-118.353096
+  },
+  {
+    "storeNumber":"E791064",
+    "addr":"792 W Valley Blvd",
+    "city":"Colton",
+    "state":"CA",
+    "zip":"92324",
+    "phone":"(909)307-0222",
+    "lat":34.068213,
+    "lng":-117.335118
+  },
+  {
+    "storeNumber":"E791059",
+    "addr":"2941 W Imperial Hwy",
+    "city":"Inglewood",
+    "state":"CA",
+    "zip":"90303",
+    "phone":"(323)779-2712",
+    "lat":33.931025,
+    "lng":-118.325938
+  },
+  {
+    "storeNumber":"E791055",
+    "addr":"1300 E Ontario Ave",
+    "city":"Corona",
+    "state":"CA",
+    "zip":"92881",
+    "phone":"(951)279-5321",
+    "lat":33.845868,
+    "lng":-117.538782
+  },
+  {
+    "storeNumber":"E791053",
+    "addr":"4371 Ontario Mills Pkwy",
+    "city":"Ontario",
+    "state":"CA",
+    "zip":"91764",
+    "phone":"(909)987-7569",
+    "lat":34.069568,
+    "lng":-117.556811
+  },
+  {
+    "storeNumber":"E791042",
+    "addr":"15463 Culver Dr",
+    "city":"Irvine",
+    "state":"CA",
+    "zip":"92604",
+    "phone":"(949)559-4240",
+    "lat":33.694472,
+    "lng":-117.799152
+  },
+  {
+    "storeNumber":"E791040",
+    "addr":"26715 S Western Ave",
+    "city":"Lomita",
+    "state":"CA",
+    "zip":"90717",
+    "phone":"(310)547-3383",
+    "lat":33.778778,
+    "lng":-118.309565
+  },
+  {
+    "storeNumber":"E791036",
+    "addr":"7347 Boulder Ave",
+    "city":"Highland",
+    "state":"CA",
+    "zip":"92346",
+    "phone":"(909)862-1372",
+    "lat":34.120289,
+    "lng":-117.19476
+  },
+  {
+    "storeNumber":"E791018",
+    "addr":"11523 Hawthorne Blvd",
+    "city":"Hawthorne",
+    "state":"CA",
+    "zip":"90250",
+    "phone":"(310)676-5085",
+    "lat":33.929544,
+    "lng":-118.353041
+  },
+  {
+    "storeNumber":"E791013",
+    "addr":"8515 S Central Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90001",
+    "phone":"(323)585-1284",
+    "lat":33.960531,
+    "lng":-118.256705
+  },
+  {
+    "storeNumber":"E791008",
+    "addr":"8500 Lincoln Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90045",
+    "phone":"(310)670-4050",
+    "lat":33.960449,
+    "lng":-118.419302
+  },
+  {
+    "storeNumber":"E791001",
+    "addr":"5220 W Centinela Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90045",
+    "phone":"(310)670-7947",
+    "lat":33.977044,
+    "lng":-118.371203
+  },
+  {
+    "storeNumber":"23892",
+    "addr":"72083 Baker Blvd",
+    "city":"Baker",
+    "state":"CA",
+    "zip":"92309",
+    "phone":"(760)733-4334",
+    "lat":35.264173,
+    "lng":-116.076206
+  },
+  {
+    "storeNumber":"26031",
+    "addr":"1990 N Imperial Ave",
+    "city":"El Centro",
+    "state":"CA",
+    "zip":"92243",
+    "phone":"(760)482-5697",
+    "lat":32.810777,
+    "lng":-115.570411
+  },
+  {
+    "storeNumber":"22229",
+    "addr":"1250 N China Lake Blvd",
+    "city":"Ridgecrest",
+    "state":"CA",
+    "zip":"93555",
+    "phone":"7604464513",
+    "lat":35.643757,
+    "lng":-117.669787
+  },
+  {
+    "storeNumber":"D016002",
+    "addr":"320 N Soto St",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90033",
+    "phone":"(323)268-1133",
+    "lat":34.047238,
+    "lng":-118.207075
+  },
+  {
+    "storeNumber":"28448",
+    "addr":"9709 Baseline Rd",
+    "city":"Rancho Cucamonga",
+    "state":"CA",
+    "zip":"91730",
+    "phone":"(909)944-0535",
+    "lat":34.121199,
+    "lng":-117.593051
+  },
+  {
+    "storeNumber":"28447",
+    "addr":"12485 Limonite Ave",
+    "city":"Mira Loma",
+    "state":"CA",
+    "zip":"91752",
+    "phone":"(951)549-9312",
+    "lat":33.984542,
+    "lng":-117.515945
+  },
+  {
+    "storeNumber":"28446",
+    "addr":"220 W Ontario Ave",
+    "city":"Corona",
+    "state":"CA",
+    "zip":"92882",
+    "phone":"(951)898-8857",
+    "lat":33.856251,
+    "lng":-117.571962
+  },
+  {
+    "storeNumber":"28445",
+    "addr":"15140 Summit Ave",
+    "city":"Fontana",
+    "state":"CA",
+    "zip":"92336",
+    "phone":"(909)899-6440",
+    "lat":34.148926,
+    "lng":-117.474389
+  },
+  {
+    "storeNumber":"28442",
+    "addr":"1134 W 6th St",
+    "city":"Corona",
+    "state":"CA",
+    "zip":"92882",
+    "phone":"(951)278-1281",
+    "lat":33.877102,
+    "lng":-117.585183
+  },
+  {
+    "storeNumber":"28440",
+    "addr":"2544 S Archibald Ave",
+    "city":"Ontario",
+    "state":"CA",
+    "zip":"91761",
+    "phone":"(909)947-1431",
+    "lat":34.028039,
+    "lng":-117.593809
+  },
+  {
+    "storeNumber":"26796",
+    "addr":"2193 Sampson Ave",
+    "city":"Corona",
+    "state":"CA",
+    "zip":"92879",
+    "phone":"(951)279-9220",
+    "lat":33.884742,
+    "lng":-117.517804
+  },
+  {
+    "storeNumber":"26726",
+    "addr":"9383 Foothill Blvd",
+    "city":"Rancho Cucamonga",
+    "state":"CA",
+    "zip":"91730",
+    "phone":"(909)948-9398",
+    "lat":34.10622,
+    "lng":-117.600271
+  },
+  {
+    "storeNumber":"5226",
+    "addr":"17111 Foothill Blvd",
+    "city":"Fontana",
+    "state":"CA",
+    "zip":"92335",
+    "phone":"(909)428-0874",
+    "lat":34.106202,
+    "lng":-117.431129
+  },
+  {
+    "storeNumber":"28444",
+    "addr":"1140 Hamner Ave",
+    "city":"Norco",
+    "state":"CA",
+    "zip":"92860",
+    "phone":"(951)278-8109",
+    "lat":33.899363,
+    "lng":-117.563196
+  },
+  {
+    "storeNumber":"28443",
+    "addr":"12789 Foothill Blvd",
+    "city":"Rancho Cucamonga",
+    "state":"CA",
+    "zip":"91739",
+    "phone":"(909)899-3319",
+    "lat":34.105771,
+    "lng":-117.526182
+  },
+  {
+    "storeNumber":"28441",
+    "addr":"16863 Valley Blvd",
+    "city":"Fontana",
+    "state":"CA",
+    "zip":"92335",
+    "phone":"(909)355-4221",
+    "lat":34.069915,
+    "lng":-117.436379
+  },
+  {
+    "storeNumber":"28439",
+    "addr":"1885 E 4th St",
+    "city":"Ontario",
+    "state":"CA",
+    "zip":"91764",
+    "phone":"(909)391-6174",
+    "lat":34.077934,
+    "lng":-117.611341
+  },
+  {
+    "storeNumber":"28438",
+    "addr":"2201 S Mountain",
+    "city":"Ontario",
+    "state":"CA",
+    "zip":"91762",
+    "phone":"(909)391-6685",
+    "lat":34.042015,
+    "lng":-117.661085
+  },
+  {
+    "storeNumber":"26903",
+    "addr":"16025 Sierra Lakes Pkwy",
+    "city":"Fontana",
+    "state":"CA",
+    "zip":"92336",
+    "phone":"9093579555",
+    "lat":34.138992,
+    "lng":-117.455059
+  },
+  {
+    "storeNumber":"26795",
+    "addr":"24936 Elder St",
+    "city":"Moreno Valley",
+    "state":"CA",
+    "zip":"92557",
+    "phone":"(951)242-9943",
+    "lat":33.9415,
+    "lng":-117.227982
+  },
+  {
+    "storeNumber":"23831",
+    "addr":"57622 29 Palms Hwy",
+    "city":"Yucca Valley",
+    "state":"CA",
+    "zip":"92284",
+    "phone":"(760)365-6535",
+    "lat":34.126282,
+    "lng":-116.406239
+  },
+  {
+    "storeNumber":"17288",
+    "addr":"8720 Central Ave",
+    "city":"Montclair",
+    "state":"CA",
+    "zip":"91763",
+    "phone":"(909)931-0558",
+    "lat":34.095515,
+    "lng":-117.689932
+  },
+  {
+    "storeNumber":"5616",
+    "addr":"6579 Milliken",
+    "city":"Rancho Cucamonga",
+    "state":"CA",
+    "zip":"91701",
+    "phone":"(909)948-1859",
+    "lat":34.135667,
+    "lng":-117.614146
+  },
+  {
+    "storeNumber":"4898",
+    "addr":"6970 Mission Blvd",
+    "city":"Rubidoux",
+    "state":"CA",
+    "zip":"92509",
+    "phone":"(951)681-0123",
+    "lat":34.011584,
+    "lng":-117.436405
+  },
+  {
+    "storeNumber":"3073",
+    "addr":"26631 Trabuco Rd",
+    "city":"Mission Viejo",
+    "state":"CA",
+    "zip":"92691",
+    "phone":"(949)586-9170",
+    "lat":33.629385,
+    "lng":-117.665647
+  },
+  {
+    "storeNumber":"3123",
+    "addr":"241 E Valley Blvd",
+    "city":"Alhambra",
+    "state":"CA",
+    "zip":"91801",
+    "phone":"(626)284-1304",
+    "lat":34.079067,
+    "lng":-118.119986
+  },
+  {
+    "storeNumber":"3082",
+    "addr":"9403 E Valley Blvd",
+    "city":"Rosemead",
+    "state":"CA",
+    "zip":"91770",
+    "phone":"(626)350-0614",
+    "lat":34.080844,
+    "lng":-118.073271
+  },
+  {
+    "storeNumber":"2389",
+    "addr":"800 E Alosta",
+    "city":"Azusa",
+    "state":"CA",
+    "zip":"91702",
+    "phone":"(626)334-9595",
+    "lat":34.133619,
+    "lng":-117.907563
+  },
+  {
+    "storeNumber":"17",
+    "addr":"1518 S San Gabriel",
+    "city":"San Gabriel",
+    "state":"CA",
+    "zip":"91776",
+    "phone":"(626)280-3720",
+    "lat":34.089599,
+    "lng":-118.094711
+  },
+  {
+    "storeNumber":"3056",
+    "addr":"10722 E Whittier Blvd",
+    "city":"Whittier",
+    "state":"CA",
+    "zip":"90606",
+    "phone":"(562)692-5488",
+    "lat":33.989867,
+    "lng":-118.064463
+  },
+  {
+    "storeNumber":"2951",
+    "addr":"11900 E Carson St",
+    "city":"Hawaiian Gardens",
+    "state":"CA",
+    "zip":"90716",
+    "phone":"(562)420-7727",
+    "lat":33.831136,
+    "lng":-118.078667
+  },
+  {
+    "storeNumber":"29373",
+    "addr":"12786 Van Nuys Blvd",
+    "city":"Pacoima",
+    "state":"CA",
+    "zip":"91331",
+    "phone":"(818)890-4711",
+    "lat":34.273621,
+    "lng":-118.411191
+  },
+  {
+    "storeNumber":"28473",
+    "addr":"8220 De Soto Ave",
+    "city":"Canoga Park",
+    "state":"CA",
+    "zip":"91304",
+    "phone":"(818)341-9505",
+    "lat":34.218778,
+    "lng":-118.588009
+  },
+  {
+    "storeNumber":"28472",
+    "addr":"6733 Reseda Blvd",
+    "city":"Reseda",
+    "state":"CA",
+    "zip":"91335",
+    "phone":"(818)705-0030",
+    "lat":34.193137,
+    "lng":-118.536416
+  },
+  {
+    "storeNumber":"28471",
+    "addr":"2425 W Magnolia",
+    "city":"Burbank",
+    "state":"CA",
+    "zip":"91506",
+    "phone":"(818)841-4316",
+    "lat":34.172846,
+    "lng":-118.325739
+  },
+  {
+    "storeNumber":"28470",
+    "addr":"18450 Ventura Blvd",
+    "city":"Tarzana",
+    "state":"CA",
+    "zip":"91356",
+    "phone":"(818)343-9164",
+    "lat":34.168169,
+    "lng":-118.535266
+  },
+  {
+    "storeNumber":"28469",
+    "addr":"6921 Topanga Cyn",
+    "city":"Canoga Park",
+    "state":"CA",
+    "zip":"91303",
+    "phone":"(818)340-0097",
+    "lat":34.198945,
+    "lng":-118.597305
+  },
+  {
+    "storeNumber":"28468",
+    "addr":"11694 Magnolia Ave",
+    "city":"North Hollywood",
+    "state":"CA",
+    "zip":"91601",
+    "phone":"(818)766-0384",
+    "lat":34.164664,
+    "lng":-118.387544
+  },
+  {
+    "storeNumber":"27948",
+    "addr":"1604 2nd Street Marketplace",
+    "city":"Beaumont",
+    "state":"CA",
+    "zip":"92223",
+    "phone":"9517690302",
+    "lat":33.923394,
+    "lng":-116.94896
+  },
+  {
+    "storeNumber":"26240",
+    "addr":"3152 Midway Dr",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92110",
+    "phone":"(619)223-1658",
+    "lat":32.75053,
+    "lng":-117.208279
+  },
+  {
+    "storeNumber":"25503",
+    "addr":"5230 Balboa Ave",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92117",
+    "phone":"(858)571-4714",
+    "lat":32.818732,
+    "lng":-117.183762
+  },
+  {
+    "storeNumber":"25502",
+    "addr":"2011 Camino Del Estes",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92108",
+    "phone":"(619)295-5939",
+    "lat":32.774249,
+    "lng":-117.141182
+  },
+  {
+    "storeNumber":"25498",
+    "addr":"2626 El Cajon Blvd",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92104",
+    "phone":"(619)296-5277",
+    "lat":32.755691,
+    "lng":-117.136064
+  },
+  {
+    "storeNumber":"25497",
+    "addr":"1502 Encinitas Blvd",
+    "city":"Encinitas",
+    "state":"CA",
+    "zip":"92024",
+    "phone":"(760)436-8033",
+    "lat":33.04613,
+    "lng":-117.256481
+  },
+  {
+    "storeNumber":"25496",
+    "addr":"5335 Overland Ave",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92123",
+    "phone":"(858)576-0865",
+    "lat":32.831912,
+    "lng":-117.130505
+  },
+  {
+    "storeNumber":"24303",
+    "addr":"2547 Rosamond Blvd",
+    "city":"Rosamond",
+    "state":"CA",
+    "zip":"93560",
+    "phone":"(661)256-6877",
+    "lat":34.864428,
+    "lng":-118.177886
+  },
+  {
+    "storeNumber":"24302",
+    "addr":"1098 Valley Blvd",
+    "city":"Tehachapi",
+    "state":"CA",
+    "zip":"93561",
+    "phone":"(661)823-7033",
+    "lat":35.123978,
+    "lng":-118.467488
+  },
+  {
+    "storeNumber":"28467",
+    "addr":"9825 Balboa Blvd",
+    "city":"Northridge",
+    "state":"CA",
+    "zip":"91325",
+    "phone":"(818)349-0745",
+    "lat":34.249605,
+    "lng":-118.503073
+  },
+  {
+    "storeNumber":"28466",
+    "addr":"932 S Central",
+    "city":"Glendale",
+    "state":"CA",
+    "zip":"91204",
+    "phone":"(818)242-9502",
+    "lat":34.137766,
+    "lng":-118.261433
+  },
+  {
+    "storeNumber":"25501",
+    "addr":"9821 Aero Dr",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92123",
+    "phone":"(858)467-0041",
+    "lat":32.809398,
+    "lng":-117.117401
+  },
+  {
+    "storeNumber":"25500",
+    "addr":"3144 Carmel Valley Rd",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92130",
+    "phone":"(858)792-0499",
+    "lat":32.934368,
+    "lng":-117.238481
+  },
+  {
+    "storeNumber":"20693",
+    "addr":"959 Avenida Pico",
+    "city":"San Clemente",
+    "state":"CA",
+    "zip":"92672",
+    "phone":"(949)366-1768",
+    "lat":33.439096,
+    "lng":-117.622039
+  },
+  {
+    "storeNumber":"20603",
+    "addr":"2144 South Harbor Blvd",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92802",
+    "phone":"(714)638-3429",
+    "lat":33.79456,
+    "lng":-117.914511
+  },
+  {
+    "storeNumber":"20413",
+    "addr":"3271 Business Park Dr",
+    "city":"Vista",
+    "state":"CA",
+    "zip":"92083",
+    "phone":"(760)727-5912",
+    "lat":33.132313,
+    "lng":-117.228749
+  },
+  {
+    "storeNumber":"2772",
+    "addr":"2720 W Edinger",
+    "city":"Santa Ana",
+    "state":"CA",
+    "zip":"92704",
+    "phone":"(714)957-3103",
+    "lat":33.724633,
+    "lng":-117.907324
+  },
+  {
+    "storeNumber":"20412",
+    "addr":"1229 E 17Th St",
+    "city":"Santa Ana",
+    "state":"CA",
+    "zip":"92701",
+    "phone":"(714)547-8721",
+    "lat":33.76028,
+    "lng":-117.85233
+  },
+  {
+    "storeNumber":"18785",
+    "addr":"1400 W Coast Hwy",
+    "city":"Newport Beach",
+    "state":"CA",
+    "zip":"92663",
+    "phone":"(949)646-8656",
+    "lat":33.616655,
+    "lng":-117.915322
+  },
+  {
+    "storeNumber":"17922",
+    "addr":"6017 Paseo Del Norte",
+    "city":"Carlsbad",
+    "state":"CA",
+    "zip":"92009",
+    "phone":"(760)931-7880",
+    "lat":33.121282,
+    "lng":-117.320014
+  },
+  {
+    "storeNumber":"4345",
+    "addr":"918 S El Camino Real",
+    "city":"San Clemente",
+    "state":"CA",
+    "zip":"92672",
+    "phone":"(949)492-0087",
+    "lat":33.421747,
+    "lng":-117.608818
+  },
+  {
+    "storeNumber":"2964",
+    "addr":"17502 E 17th",
+    "city":"Tustin",
+    "state":"CA",
+    "zip":"92780",
+    "phone":"(714)730-6030",
+    "lat":33.737218,
+    "lng":-117.813558
+  },
+  {
+    "storeNumber":"26779",
+    "addr":"1737 Sweetwater Rd",
+    "city":"National City",
+    "state":"CA",
+    "zip":"91950",
+    "phone":"(619)336-1917",
+    "lat":32.661803,
+    "lng":-117.081187
+  },
+  {
+    "storeNumber":"26392",
+    "addr":"704 Center Dr",
+    "city":"San Marcos",
+    "state":"CA",
+    "zip":"92069",
+    "phone":"7607964149",
+    "lat":33.136492,
+    "lng":-117.124158
+  },
+  {
+    "storeNumber":"26081",
+    "addr":"4401 Mission Blvd",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92109",
+    "phone":"8582725366",
+    "lat":32.795423,
+    "lng":-117.254862
+  },
+  {
+    "storeNumber":"24394",
+    "addr":"120 Rancho Santa Fe Rd",
+    "city":"San Marcos",
+    "state":"CA",
+    "zip":"92069",
+    "phone":"(760)599-9736",
+    "lat":33.151766,
+    "lng":-117.197902
+  },
+  {
+    "storeNumber":"17285",
+    "addr":"695 College Blvd",
+    "city":"Oceanside",
+    "state":"CA",
+    "zip":"92057",
+    "phone":"(760)631-7860",
+    "lat":33.243062,
+    "lng":-117.291458
+  },
+  {
+    "storeNumber":"3837",
+    "addr":"3895 Mission Ave",
+    "city":"Oceanside",
+    "state":"CA",
+    "zip":"92058",
+    "phone":"(760)967-7533",
+    "lat":33.227171,
+    "lng":-117.326944
+  },
+  {
+    "storeNumber":"2842",
+    "addr":"1940 Oceanside Blvd",
+    "city":"Oceanside",
+    "state":"CA",
+    "zip":"92054",
+    "phone":"(760)722-0925",
+    "lat":33.194345,
+    "lng":-117.355389
+  },
+  {
+    "storeNumber":"3976",
+    "addr":"7500 Atlantic Blvd",
+    "city":"Cudahy",
+    "state":"CA",
+    "zip":"90201",
+    "phone":"(323)560-2423",
+    "lat":33.96772,
+    "lng":-118.187055
+  },
+  {
+    "storeNumber":"4811",
+    "addr":"1410 S Azusa Ave",
+    "city":"West Covina",
+    "state":"CA",
+    "zip":"91791",
+    "phone":"(626)918-6650",
+    "lat":34.048987,
+    "lng":-117.907654
+  },
+  {
+    "storeNumber":"20515",
+    "addr":"1737 N Hacienda Blvd",
+    "city":"La Puente",
+    "state":"CA",
+    "zip":"91744",
+    "phone":"(626)918-5347",
+    "lat":34.050644,
+    "lng":-117.944386
+  },
+  {
+    "storeNumber":"3486",
+    "addr":"864 Nogales",
+    "city":"Walnut",
+    "state":"CA",
+    "zip":"91789",
+    "phone":"(909)912-9305",
+    "lat":34.020289,
+    "lng":-117.865339
+  },
+  {
+    "storeNumber":"27260",
+    "addr":"1190 Calimesa Blvd",
+    "city":"Calimesa",
+    "state":"CA",
+    "zip":"92320",
+    "phone":"(909)795-3444",
+    "lat":33.994207,
+    "lng":-117.058165
+  },
+  {
+    "storeNumber":"24774",
+    "addr":"34077 Yucaipa Blvd",
+    "city":"Yucaipa",
+    "state":"CA",
+    "zip":"92399",
+    "phone":"(909)790-3653",
+    "lat":34.033635,
+    "lng":-117.060879
+  },
+  {
+    "storeNumber":"23164",
+    "addr":"17184 Colima Rd",
+    "city":"Hacienda Heights",
+    "state":"CA",
+    "zip":"91745",
+    "phone":"(626)965-8179",
+    "lat":33.990397,
+    "lng":-117.933005
+  },
+  {
+    "storeNumber":"3149",
+    "addr":"690 N Indian Hill Blvd",
+    "city":"Pomona",
+    "state":"CA",
+    "zip":"91767",
+    "phone":"(909)621-3678",
+    "lat":34.06552,
+    "lng":-117.718806
+  },
+  {
+    "storeNumber":"367",
+    "addr":"301 N Citrus",
+    "city":"Covina",
+    "state":"CA",
+    "zip":"91723",
+    "phone":"(626)966-3213",
+    "lat":34.08703,
+    "lng":-117.886817
+  },
+  {
+    "storeNumber":"28232",
+    "addr":"926 N Main St",
+    "city":"Bishop",
+    "state":"CA",
+    "zip":"93514",
+    "phone":"(760)873-6752",
+    "lat":37.370573,
+    "lng":-118.39533
+  },
+  {
+    "storeNumber":"26725",
+    "addr":"1065 Brea Mall",
+    "city":"Brea",
+    "state":"CA",
+    "zip":"92821",
+    "phone":"7146711800",
+    "lat":33.915384,
+    "lng":-117.887517
+  },
+  {
+    "storeNumber":"D851002",
+    "addr":"9619 Sheep Creek Rd",
+    "city":"Phelan",
+    "state":"CA",
+    "zip":"92371",
+    "phone":"(760)868-6624",
+    "lat":34.425102,
+    "lng":-117.572025
+  },
+  {
+    "storeNumber":"3570",
+    "addr":"11101 Woodley Ave",
+    "city":"Granada Hills",
+    "state":"CA",
+    "zip":"91344",
+    "phone":"(818)368-4450",
+    "lat":34.279358,
+    "lng":-118.502153
+  },
+  {
+    "storeNumber":"21122",
+    "addr":"17299 Pacific Coast Hwy",
+    "city":"Pacific Palisades",
+    "state":"CA",
+    "zip":"90272",
+    "phone":"(310)459-7645",
+    "lat":33.854284,
+    "lng":-118.390159
+  },
+  {
+    "storeNumber":"5598",
+    "addr":"241 E Compton Blvd",
+    "city":"Compton",
+    "state":"CA",
+    "zip":"90220",
+    "phone":"(310)898-2178",
+    "lat":33.896571,
+    "lng":-118.220798
+  },
+  {
+    "storeNumber":"4554",
+    "addr":"11758 S Wilmington",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90059",
+    "phone":"(323)563-8132",
+    "lat":33.928759,
+    "lng":-118.246815
+  },
+  {
+    "storeNumber":"3141",
+    "addr":"1408 W Century Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90047",
+    "phone":"(323)777-7379",
+    "lat":33.945475,
+    "lng":-118.30047
+  },
+  {
+    "storeNumber":"3108",
+    "addr":"103 S Rampart Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90057",
+    "phone":"(213)386-9012",
+    "lat":34.069472,
+    "lng":-118.277296
+  },
+  {
+    "storeNumber":"2828",
+    "addr":"2545 Long Beach Blvd",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90806",
+    "phone":"(562)427-1441",
+    "lat":33.803663,
+    "lng":-118.189806
+  },
+  {
+    "storeNumber":"5291",
+    "addr":"11255 Long Beach Blvd",
+    "city":"Lynwood",
+    "state":"CA",
+    "zip":"90262",
+    "phone":"(310)635-8654",
+    "lat":33.928583,
+    "lng":-118.211332
+  },
+  {
+    "storeNumber":"4636",
+    "addr":"228 E Seventh",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90813",
+    "phone":"(562)432-3660",
+    "lat":33.7845,
+    "lng":-118.197103
+  },
+  {
+    "storeNumber":"4576",
+    "addr":"1914 W Rosecrans Blvd",
+    "city":"Compton",
+    "state":"CA",
+    "zip":"90220",
+    "phone":"(310)632-0969",
+    "lat":33.902761,
+    "lng":-118.252716
+  },
+  {
+    "storeNumber":"3133",
+    "addr":"11001 Atlantic Ave",
+    "city":"Lynwood",
+    "state":"CA",
+    "zip":"90262",
+    "phone":"(310)635-7321",
+    "lat":33.930444,
+    "lng":-118.183992
+  },
+  {
+    "storeNumber":"3052",
+    "addr":"5406 E Whittier Blvd",
+    "city":"East Los Angeles",
+    "state":"CA",
+    "zip":"90022",
+    "phone":"(323)726-3891",
+    "lat":34.019536,
+    "lng":-118.154085
+  },
+  {
+    "storeNumber":"2669",
+    "addr":"640 Pacific Coast Hwy",
+    "city":"Seal Beach",
+    "state":"CA",
+    "zip":"90740",
+    "phone":"(562)430-5412",
+    "lat":33.745333,
+    "lng":-118.104912
+  },
+  {
+    "storeNumber":"1178",
+    "addr":"6000 Crenshaw Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90043",
+    "phone":"(323)758-5900",
+    "lat":33.98516,
+    "lng":-118.330553
+  },
+  {
+    "storeNumber":"833",
+    "addr":"2046 W Manchester Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90047",
+    "phone":"(323)758-9181",
+    "lat":33.959703,
+    "lng":-118.314608
+  },
+  {
+    "storeNumber":"146",
+    "addr":"3125 E Broadway",
+    "city":"Long Beach",
+    "state":"CA",
+    "zip":"90803",
+    "phone":"(562)438-7635",
+    "lat":33.764896,
+    "lng":-118.155286
+  },
+  {
+    "storeNumber":"16375",
+    "addr":"1045 Casitas Pass Rd",
+    "city":"Carpinteria",
+    "state":"CA",
+    "zip":"93013",
+    "phone":"(805)566-1803",
+    "lat":34.396184,
+    "lng":-119.512979
+  },
+  {
+    "storeNumber":"3919",
+    "addr":"1840 Cliff Dr",
+    "city":"Santa Barbara",
+    "state":"CA",
+    "zip":"93109",
+    "phone":"(805)965-7611",
+    "lat":34.401854,
+    "lng":-119.721831
+  },
+  {
+    "storeNumber":"17972",
+    "addr":"3771 State St",
+    "city":"Santa Barbara",
+    "state":"CA",
+    "zip":"93105",
+    "phone":"(805)569-1447",
+    "lat":34.440164,
+    "lng":-119.745806
+  },
+  {
+    "storeNumber":"111",
+    "addr":"1300 W Whittier Blvd",
+    "city":"La Habra",
+    "state":"CA",
+    "zip":"90631",
+    "phone":"(562)691-7331",
+    "lat":33.938959,
+    "lng":-117.960685
+  },
+  {
+    "storeNumber":"20694",
+    "addr":"1181 S Beach Blvd",
+    "city":"La Habra",
+    "state":"CA",
+    "zip":"90631",
+    "phone":"(562)690-6650",
+    "lat":33.918182,
+    "lng":-117.96826
+  },
+  {
+    "storeNumber":"20498",
+    "addr":"2840 Sepulveda Blvd",
+    "city":"Torrance",
+    "state":"CA",
+    "zip":"90505",
+    "phone":"(310)325-3919",
+    "lat":33.823043,
+    "lng":-118.336257
+  },
+  {
+    "storeNumber":"18840",
+    "addr":"5 Peninsula Ctr",
+    "city":"Rolling Hills Estates",
+    "state":"CA",
+    "zip":"90274",
+    "phone":"(310)265-0770",
+    "lat":33.787794,
+    "lng":-118.358128
+  },
+  {
+    "storeNumber":"19715",
+    "addr":"13641 Sherman Way",
+    "city":"Van Nuys",
+    "state":"CA",
+    "zip":"91405",
+    "phone":"(818)997-8495",
+    "lat":34.201562,
+    "lng":-118.430471
+  },
+  {
+    "storeNumber":"17931",
+    "addr":"1401 Martin Luther King Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90062",
+    "phone":"(323)296-5505",
+    "lat":34.010761,
+    "lng":-118.313985
+  },
+  {
+    "storeNumber":"17925",
+    "addr":"3629 S Vermont Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90007",
+    "phone":"(323)737-4717",
+    "lat":34.022321,
+    "lng":-118.291816
+  },
+  {
+    "storeNumber":"17712",
+    "addr":"4000 W Century Blvd",
+    "city":"Inglewood",
+    "state":"CA",
+    "zip":"90304",
+    "phone":"(310)677-1202",
+    "lat":33.945181,
+    "lng":-118.344315
+  },
+  {
+    "storeNumber":"9561",
+    "addr":"2543 Slauson Ave",
+    "city":"Huntington Park",
+    "state":"CA",
+    "zip":"90255",
+    "phone":"(323)581-9324",
+    "lat":33.98932,
+    "lng":-118.226203
+  },
+  {
+    "storeNumber":"3140",
+    "addr":"100 W Pacific Coast Hwy",
+    "city":"Wilmington",
+    "state":"CA",
+    "zip":"90744",
+    "phone":"(310)549-2599",
+    "lat":33.790874,
+    "lng":-118.263686
+  },
+  {
+    "storeNumber":"16374",
+    "addr":"2800 Crenshaw Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90016",
+    "phone":"(323)737-5700",
+    "lat":34.030843,
+    "lng":-118.334784
+  },
+  {
+    "storeNumber":"15349",
+    "addr":"5801 S Vermont Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90044",
+    "phone":"(323)759-1891",
+    "lat":33.989389,
+    "lng":-118.292617
+  },
+  {
+    "storeNumber":"4485",
+    "addr":"810 N Euclid",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92801",
+    "phone":"(714)563-9579",
+    "lat":33.846981,
+    "lng":-117.954189
+  },
+  {
+    "storeNumber":"3434",
+    "addr":"411 E 1st St",
+    "city":"Santa Ana",
+    "state":"CA",
+    "zip":"92701",
+    "phone":"(714)547-4590",
+    "lat":33.745798,
+    "lng":-117.863831
+  },
+  {
+    "storeNumber":"3138",
+    "addr":"14301 Pioneer",
+    "city":"Norwalk",
+    "state":"CA",
+    "zip":"90650",
+    "phone":"(562)868-4454",
+    "lat":33.902237,
+    "lng":-118.081733
+  },
+  {
+    "storeNumber":"3120",
+    "addr":"8972 Katella Ave",
+    "city":"Anaheim",
+    "state":"CA",
+    "zip":"92804",
+    "phone":"(714)995-4754",
+    "lat":33.802756,
+    "lng":-117.976038
+  },
+  {
+    "storeNumber":"3075",
+    "addr":"12503 E Alondra Blvd",
+    "city":"Norwalk",
+    "state":"CA",
+    "zip":"90650",
+    "phone":"(562)921-8274",
+    "lat":33.888,
+    "lng":-118.066091
+  },
+  {
+    "storeNumber":"2763",
+    "addr":"10360 Beach Blvd",
+    "city":"Stanton",
+    "state":"CA",
+    "zip":"90680",
+    "phone":"(714)828-5125",
+    "lat":33.812074,
+    "lng":-117.992749
+  },
+  {
+    "storeNumber":"2529",
+    "addr":"7480 Edinger Ave",
+    "city":"Huntington Beach",
+    "state":"CA",
+    "zip":"92647",
+    "phone":"(714)847-7463",
+    "lat":33.729393,
+    "lng":-117.99863
+  },
+  {
+    "storeNumber":"25494",
+    "addr":"335 N 2nd St",
+    "city":"El Cajon",
+    "state":"CA",
+    "zip":"92021",
+    "phone":"6195885107",
+    "lat":32.798506,
+    "lng":-116.935105
+  },
+  {
+    "storeNumber":"25491",
+    "addr":"13418 Camino Canada",
+    "city":"El Cajon",
+    "state":"CA",
+    "zip":"92021",
+    "phone":"(619)390-6385",
+    "lat":32.794773,
+    "lng":-116.962527
+  },
+  {
+    "storeNumber":"25488",
+    "addr":"2506 Jamacha Blvd",
+    "city":"El Cajon",
+    "state":"CA",
+    "zip":"92019",
+    "phone":"(619)670-9436",
+    "lat":32.744944,
+    "lng":-116.930432
+  },
+  {
+    "storeNumber":"25486",
+    "addr":"1561 N Magnolia",
+    "city":"El Cajon",
+    "state":"CA",
+    "zip":"92020",
+    "phone":"(619) 448-7581",
+    "lat":32.796322,
+    "lng":-116.967581
+  },
+  {
+    "storeNumber":"25483",
+    "addr":"340 E H St",
+    "city":"Chula Vista",
+    "state":"CA",
+    "zip":"91910",
+    "phone":"(619)476-0701",
+    "lat":32.638513,
+    "lng":-117.061755
+  },
+  {
+    "storeNumber":"25482",
+    "addr":"12265 Woodside Ave",
+    "city":"Lakeside",
+    "state":"CA",
+    "zip":"92040",
+    "phone":"(619)561-7313",
+    "lat":32.856438,
+    "lng":-116.926454
+  },
+  {
+    "storeNumber":"20470",
+    "addr":"1090 Outer Rd",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92154",
+    "phone":"(619)423-7996",
+    "lat":32.576772,
+    "lng":-117.081116
+  },
+  {
+    "storeNumber":"20067",
+    "addr":"10565 Scripps Poway Pkwy",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92131",
+    "phone":"(858)689-9780",
+    "lat":32.936791,
+    "lng":-117.099591
+  },
+  {
+    "storeNumber":"17788",
+    "addr":"910 E Vista Way",
+    "city":"Vista",
+    "state":"CA",
+    "zip":"92084",
+    "phone":"(760)631-3655",
+    "lat":33.214372,
+    "lng":-117.208817
+  },
+  {
+    "storeNumber":"17692",
+    "addr":"11601 Duenda St",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92127",
+    "phone":"(858)675-1537",
+    "lat":33.03314,
+    "lng":-117.08061
+  },
+  {
+    "storeNumber":"16065",
+    "addr":"3521 Cannon Rd",
+    "city":"Oceanside",
+    "state":"CA",
+    "zip":"92056",
+    "phone":"(760)945-3591",
+    "lat":33.17302,
+    "lng":-117.253269
+  },
+  {
+    "storeNumber":"2788",
+    "addr":"1944 E Valley Pkwy",
+    "city":"Escondido",
+    "state":"CA",
+    "zip":"92027",
+    "phone":"(760)747-9497",
+    "lat":33.137525,
+    "lng":-117.052732
+  },
+  {
+    "storeNumber":"2484",
+    "addr":"8389 Mira Mesa Blvd",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92126",
+    "phone":"(858)566-3366",
+    "lat":32.912417,
+    "lng":-117.142531
+  },
+  {
+    "storeNumber":"25493",
+    "addr":"7232 Broadway",
+    "city":"Lemon Grove",
+    "state":"CA",
+    "zip":"91945",
+    "phone":"(619)460-4916",
+    "lat":32.742867,
+    "lng":-117.042058
+  },
+  {
+    "storeNumber":"25492",
+    "addr":"632 Dennery Rd",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92154",
+    "phone":"(619)428-8081",
+    "lat":32.58234,
+    "lng":-117.033035
+  },
+  {
+    "storeNumber":"25490",
+    "addr":"2827 Navajo Rd",
+    "city":"El Cajon",
+    "state":"CA",
+    "zip":"92020",
+    "phone":"(619)463-6577",
+    "lat":32.802094,
+    "lng":-117.004409
+  },
+  {
+    "storeNumber":"25489",
+    "addr":"1548 E H St",
+    "city":"Chula Vista",
+    "state":"CA",
+    "zip":"91913",
+    "phone":"(619)482-4729",
+    "lat":32.616876,
+    "lng":-116.997015
+  },
+  {
+    "storeNumber":"25487",
+    "addr":"9825 Mission Gorge Rd",
+    "city":"Santee",
+    "state":"CA",
+    "zip":"92071",
+    "phone":"(619)448-0484",
+    "lat":32.838237,
+    "lng":-116.982754
+  },
+  {
+    "storeNumber":"25485",
+    "addr":"696 E St",
+    "city":"Chula Vista",
+    "state":"CA",
+    "zip":"91910",
+    "phone":"(619)422-5288",
+    "lat":32.638513,
+    "lng":-117.061755
+  },
+  {
+    "storeNumber":"22019",
+    "addr":"13112 Poway Rd",
+    "city":"Poway",
+    "state":"CA",
+    "zip":"92064",
+    "phone":"(858)748-0706",
+    "lat":32.956967,
+    "lng":-117.046507
+  },
+  {
+    "storeNumber":"5583",
+    "addr":"11688 Carmel Mtn Rd",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92128",
+    "phone":"(858)674-5872",
+    "lat":33.001394,
+    "lng":-117.073524
+  },
+  {
+    "storeNumber":"3909",
+    "addr":"3845 Plaza Dr",
+    "city":"Oceanside",
+    "state":"CA",
+    "zip":"92056",
+    "phone":"(760)941-7307",
+    "lat":33.182211,
+    "lng":-117.291531
+  },
+  {
+    "storeNumber":"3485",
+    "addr":"627 N Escondido Blvd",
+    "city":"Escondido",
+    "state":"CA",
+    "zip":"92025",
+    "phone":"(760)745-0995",
+    "lat":33.126769,
+    "lng":-117.089033
+  },
+  {
+    "storeNumber":"15",
+    "addr":"6104 University Ave",
+    "city":"San Diego",
+    "state":"CA",
+    "zip":"92115",
+    "phone":"(619)286-2756",
+    "lat":32.753245,
+    "lng":-117.064315
+  },
+  {
+    "storeNumber":"27300",
+    "addr":"25101 Dorris Ave",
+    "city":"Coalinga",
+    "state":"CA",
+    "zip":"93210",
+    "phone":"(559) 935-1177",
+    "lat":36.32373,
+    "lng":-120.716058
+  },
+  {
+    "storeNumber":"27301",
+    "addr":"27494 Dana Cir",
+    "city":"Kettleman City",
+    "state":"CA",
+    "zip":"93239",
+    "phone":"(559) 386-4314",
+    "lat":36.008286,
+    "lng":-119.9618
+  },
+  {
+    "storeNumber":"27247",
+    "addr":"3858 North Peck Rd",
+    "city":"El Monte",
+    "state":"CA",
+    "zip":"91732",
+    "phone":"(626)443-3101",
+    "lat":34.075727,
+    "lng":-118.021903
+  },
+  {
+    "storeNumber":"19247",
+    "addr":"1850 W Glenoaks",
+    "city":"Glendale",
+    "state":"CA",
+    "zip":"91201",
+    "phone":"(818)547-9040",
+    "lat":34.162991,
+    "lng":-118.293589
+  },
+  {
+    "storeNumber":"18454",
+    "addr":"14115 Ventura Blvd",
+    "city":"Sherman Oaks",
+    "state":"CA",
+    "zip":"91423",
+    "phone":"(818)907-7737",
+    "lat":34.149858,
+    "lng":-118.440578
+  },
+  {
+    "storeNumber":"17131",
+    "addr":"7856 Foothill Blvd",
+    "city":"Sunland",
+    "state":"CA",
+    "zip":"91040",
+    "phone":"(818)352-1759",
+    "lat":34.259551,
+    "lng":-118.304581
+  },
+  {
+    "storeNumber":"3670",
+    "addr":"9180 Whittier Blvd",
+    "city":"Pico Rivera",
+    "state":"CA",
+    "zip":"90660",
+    "phone":"(562)949-6300",
+    "lat":33.999874,
+    "lng":-118.081559
+  },
+  {
+    "storeNumber":"2905",
+    "addr":"733 E Huntington Dr",
+    "city":"Monrovia",
+    "state":"CA",
+    "zip":"91016",
+    "phone":"(626)357-1633",
+    "lat":34.140442,
+    "lng":-117.988478
+  },
+  {
+    "storeNumber":"90",
+    "addr":"2207 Lincoln Blvd",
+    "city":"Santa Monica",
+    "state":"CA",
+    "zip":"90405",
+    "phone":"(310)450-8379",
+    "lat":34.010231,
+    "lng":-118.480022
+  },
+  {
+    "storeNumber":"86",
+    "addr":"5958 Lankershim Blvd",
+    "city":"North Hollywood",
+    "state":"CA",
+    "zip":"91601",
+    "phone":"(818)769-9916",
+    "lat":34.179155,
+    "lng":-118.382896
+  },
+  {
+    "storeNumber":"71",
+    "addr":"1115 N San Fernando Blvd",
+    "city":"Burbank",
+    "state":"CA",
+    "zip":"91504",
+    "phone":"(818)842-1810",
+    "lat":34.188212,
+    "lng":-118.319113
+  },
+  {
+    "storeNumber":"29287",
+    "addr":"12900 Vanowen",
+    "city":"North Hollywood",
+    "state":"CA",
+    "zip":"91605",
+    "phone":"(818)764-2759",
+    "lat":34.208195,
+    "lng":-118.398784
+  },
+  {
+    "storeNumber":"29286",
+    "addr":"1734 W Colorado Blvd",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90041",
+    "phone":"(323)258-6586",
+    "lat":34.139104,
+    "lng":-118.204861
+  },
+  {
+    "storeNumber":"18286",
+    "addr":"14327 S Prairie Ave",
+    "city":"Lawndale",
+    "state":"CA",
+    "zip":"90260",
+    "phone":"(310)219-0820",
+    "lat":33.901231,
+    "lng":-118.344201
+  },
+  {
+    "storeNumber":"4634",
+    "addr":"4050 Marlton Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90008",
+    "phone":"(323)291-0148",
+    "lat":34.011216,
+    "lng":-118.338509
+  },
+  {
+    "storeNumber":"3074",
+    "addr":"7545 Fallbrook Ave",
+    "city":"Canoga Park",
+    "state":"CA",
+    "zip":"91307",
+    "phone":"(818)999-1186",
+    "lat":34.212444,
+    "lng":-118.684811
+  },
+  {
+    "storeNumber":"84",
+    "addr":"16901 Hawthorne Blvd",
+    "city":"Lawndale",
+    "state":"CA",
+    "zip":"90260",
+    "phone":"(310)542-2564",
+    "lat":33.877224,
+    "lng":-118.352949
+  },
+  {
+    "storeNumber":"27634",
+    "addr":"139 S Oswell St",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93307",
+    "phone":"(661)363-7455",
+    "lat":35.353527,
+    "lng":-118.949335
+  },
+  {
+    "storeNumber":"27505",
+    "addr":"4101 Campus Drive",
+    "city":"Irvine",
+    "state":"CA",
+    "zip":"92612",
+    "phone":"(949)725-8348",
+    "lat":33.650985,
+    "lng":-117.840919
+  },
+  {
+    "storeNumber":"26788",
+    "addr":"24656 Madison Ave",
+    "city":"Murrieta",
+    "state":"CA",
+    "zip":"92562",
+    "phone":"9516007395",
+    "lat":33.562874,
+    "lng":-117.206332
+  },
+  {
+    "storeNumber":"24402",
+    "addr":"3300 Buena Vista Rd - Bldg 1",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93311",
+    "phone":"(661)663-8131",
+    "lat":35.324739,
+    "lng":-119.127599
+  },
+  {
+    "storeNumber":"22691",
+    "addr":"39056 Winchester Rd",
+    "city":"Murrieta",
+    "state":"CA",
+    "zip":"92563",
+    "phone":"(951)894-4402",
+    "lat":33.552025,
+    "lng":-117.139092
+  },
+  {
+    "storeNumber":"22460",
+    "addr":"9640 Hageman Rd",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93312",
+    "phone":"(661)213-4574",
+    "lat":35.39843,
+    "lng":-119.109307
+  },
+  {
+    "storeNumber":"19744",
+    "addr":"10551 Carmenita Rd",
+    "city":"Santa Fe Springs",
+    "state":"CA",
+    "zip":"90670",
+    "phone":"(562)903-1283",
+    "lat":33.938857,
+    "lng":-118.046802
+  },
+  {
+    "storeNumber":"19532",
+    "addr":"30115 Antelope Rd",
+    "city":"Menifee",
+    "state":"CA",
+    "zip":"92584",
+    "phone":"(951)301-3747",
+    "lat":33.683529,
+    "lng":-117.167604
+  },
+  {
+    "storeNumber":"19515",
+    "addr":"41005 Winchester Rd",
+    "city":"Temecula",
+    "state":"CA",
+    "zip":"92591",
+    "phone":"(951)296-3937",
+    "lat":33.525094,
+    "lng":-117.160313
+  },
+  {
+    "storeNumber":"17984",
+    "addr":"31677 Hwy 79 S",
+    "city":"Temecula",
+    "state":"CA",
+    "zip":"92592",
+    "phone":"(951)303-0129",
+    "lat":33.479452,
+    "lng":-117.104176
+  },
+  {
+    "storeNumber":"16276",
+    "addr":"303 W Imperial Hwy",
+    "city":"Brea",
+    "state":"CA",
+    "zip":"92821",
+    "phone":"(714)990-3446",
+    "lat":33.917674,
+    "lng":-117.902499
+  },
+  {
+    "storeNumber":"5081",
+    "addr":"39557 Los Alamos Rd",
+    "city":"Murrieta",
+    "state":"CA",
+    "zip":"92563",
+    "phone":"(951)696-0442",
+    "lat":33.575011,
+    "lng":-117.178089
+  },
+  {
+    "storeNumber":"4356",
+    "addr":"7880 White Lane",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93309",
+    "phone":"(661)833-6185",
+    "lat":35.318575,
+    "lng":-119.089948
+  },
+  {
+    "storeNumber":"4168",
+    "addr":"6119 Niles St",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93306",
+    "phone":"(661)366-3179",
+    "lat":35.375737,
+    "lng":-118.935984
+  },
+  {
+    "storeNumber":"3904",
+    "addr":"2222 Barranca",
+    "city":"Irvine",
+    "state":"CA",
+    "zip":"92606",
+    "phone":"(949)756-8570",
+    "lat":33.699418,
+    "lng":-117.834989
+  },
+  {
+    "storeNumber":"3555",
+    "addr":"22300 Old Canal Rd",
+    "city":"Yorba Linda",
+    "state":"CA",
+    "zip":"92887",
+    "phone":"(714)283-3305",
+    "lat":33.872673,
+    "lng":-117.745735
+  },
+  {
+    "storeNumber":"2984",
+    "addr":"27770 Santa Margarita Pkwy",
+    "city":"Mission Viejo",
+    "state":"CA",
+    "zip":"92691",
+    "phone":"(949)586-8337",
+    "lat":33.65182,
+    "lng":-117.645663
+  },
+  {
+    "storeNumber":"26836",
+    "addr":"3707 Coffee Rd.",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93308",
+    "phone":"(661)587-4451",
+    "lat":35.393647,
+    "lng":-119.092832
+  },
+  {
+    "storeNumber":"21226",
+    "addr":"2433 N Chester Ave",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93308",
+    "phone":"(661)399-0915",
+    "lat":35.428191,
+    "lng":-119.021579
+  },
+  {
+    "storeNumber":"20578",
+    "addr":"15 S H St",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93304",
+    "phone":"(661)637-1032",
+    "lat":35.353353,
+    "lng":-119.021853
+  },
+  {
+    "storeNumber":"20190",
+    "addr":"3300 Panama Ln",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93313",
+    "phone":"(661)837-0360",
+    "lat":35.295984,
+    "lng":-119.039107
+  },
+  {
+    "storeNumber":"17751",
+    "addr":"5121 Olive Dr",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93308",
+    "phone":"(661)393-7718",
+    "lat":35.411995,
+    "lng":-119.058134
+  },
+  {
+    "storeNumber":"17471",
+    "addr":"14042 Redhill",
+    "city":"Tustin",
+    "state":"CA",
+    "zip":"92780",
+    "phone":"(714)508-0040",
+    "lat":33.732785,
+    "lng":-117.815557
+  },
+  {
+    "storeNumber":"17435",
+    "addr":"2676 Mt Vernon Ave",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93306",
+    "phone":"(661)871-1065",
+    "lat":35.395441,
+    "lng":-118.967933
+  },
+  {
+    "storeNumber":"15573",
+    "addr":"551 Weedpatch Hwy",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93307",
+    "phone":"(661)366-9455",
+    "lat":35.350253,
+    "lng":-118.913729
+  },
+  {
+    "storeNumber":"15455",
+    "addr":"3200 California Ave",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93304",
+    "phone":"(661)322-1835",
+    "lat":35.368982,
+    "lng":-119.039057
+  },
+  {
+    "storeNumber":"15362",
+    "addr":"1877 White Ln",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93304",
+    "phone":"(661)836-3897",
+    "lat":35.317416,
+    "lng":-119.023347
+  },
+  {
+    "storeNumber":"9489",
+    "addr":"3000 Yorba Linda Blvd",
+    "city":"Fullerton",
+    "state":"CA",
+    "zip":"92831",
+    "phone":"(714)961-8749",
+    "lat":33.888707,
+    "lng":-117.874401
+  },
+  {
+    "storeNumber":"9414",
+    "addr":"3010 El Camino Real Tustin Marketplace",
+    "city":"Tustin",
+    "state":"CA",
+    "zip":"92782",
+    "phone":"(714)832-1767",
+    "lat":33.726998,
+    "lng":-117.784371
+  },
+  {
+    "storeNumber":"5636",
+    "addr":"15006 S La Mirada",
+    "city":"La Mirada",
+    "state":"CA",
+    "zip":"90638",
+    "phone":"(714)522-1132",
+    "lat":33.895167,
+    "lng":-118.008777
+  },
+  {
+    "storeNumber":"4704",
+    "addr":"4101 Jamboree Rd",
+    "city":"Newport Beach",
+    "state":"CA",
+    "zip":"92660",
+    "phone":"(949)724-0133",
+    "lat":33.659704,
+    "lng":-117.861118
+  },
+  {
+    "storeNumber":"4578",
+    "addr":"3315 Union Ave",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93305",
+    "phone":"(661)323-8047",
+    "lat":35.389422,
+    "lng":-119.003219
+  },
+  {
+    "storeNumber":"4510",
+    "addr":"2300 H St",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93301",
+    "phone":"(661)326-1366",
+    "lat":35.380373,
+    "lng":-119.020825
+  },
+  {
+    "storeNumber":"4342",
+    "addr":"4200 Chino Hills Pkwy Ste 115",
+    "city":"Chino Hills",
+    "state":"CA",
+    "zip":"91709",
+    "phone":"(909)393-4607",
+    "lat":33.983151,
+    "lng":-117.711227
+  },
+  {
+    "storeNumber":"4054",
+    "addr":"4675 Ming Ave",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93309",
+    "phone":"(661)837-2250",
+    "lat":35.339271,
+    "lng":-119.054642
+  },
+  {
+    "storeNumber":"3420",
+    "addr":"3317 W Florida Ave",
+    "city":"Hemet",
+    "state":"CA",
+    "zip":"92545",
+    "phone":"(951)658-4172",
+    "lat":33.746981,
+    "lng":-117.007331
+  },
+  {
+    "storeNumber":"3222",
+    "addr":"2246 S Grand Ave",
+    "city":"Santa Ana",
+    "state":"CA",
+    "zip":"92705",
+    "phone":"(714)557-4844",
+    "lat":33.716324,
+    "lng":-117.85091
+  },
+  {
+    "storeNumber":"3207",
+    "addr":"3799 Rosedale Hwy",
+    "city":"Bakersfield",
+    "state":"CA",
+    "zip":"93308",
+    "phone":"(661)325-3862",
+    "lat":35.382861,
+    "lng":-119.050533
+  },
+  {
+    "storeNumber":"3196",
+    "addr":"23651 Rockfield Blvd",
+    "city":"Lake Forest",
+    "state":"CA",
+    "zip":"92630",
+    "phone":"(949)586-2974",
+    "lat":33.630561,
+    "lng":-117.717375
+  },
+  {
+    "storeNumber":"2700",
+    "addr":"131 E Orangethorpe Ave",
+    "city":"Fullerton",
+    "state":"CA",
+    "zip":"92832",
+    "phone":"(714)992-5700",
+    "lat":33.859784,
+    "lng":-117.923106
+  },
+  {
+    "storeNumber":"18682",
+    "addr":"900 N Ventura Rd",
+    "city":"Oxnard",
+    "state":"CA",
+    "zip":"93030",
+    "phone":"(805)983-7771",
+    "lat":34.210293,
+    "lng":-119.19454
+  },
+  {
+    "storeNumber":"953",
+    "addr":"1725 N Oxnard Blvd",
+    "city":"Oxnard",
+    "state":"CA",
+    "zip":"93030",
+    "phone":"(805)983-6409",
+    "lat":34.217738,
+    "lng":-119.17765
+  },
+  {
+    "storeNumber":"2192",
+    "addr":"1225 W Colton",
+    "city":"Redlands",
+    "state":"CA",
+    "zip":"92374",
+    "phone":"(909)792-6664",
+    "lat":34.062544,
+    "lng":-117.201021
+  },
+  {
+    "storeNumber":"3114",
+    "addr":"18100 Parthenia St",
+    "city":"Northridge",
+    "state":"CA",
+    "zip":"91325",
+    "phone":"(818)772-0413",
+    "lat":34.228421,
+    "lng":-118.527728
+  },
+  {
+    "storeNumber":"1020",
+    "addr":"6303 Platt Ave",
+    "city":"Woodland Hills",
+    "state":"CA",
+    "zip":"91367",
+    "phone":"(818)360-9205",
+    "lat":34.185804,
+    "lng":-118.642922
+  },
+  {
+    "storeNumber":"24661",
+    "addr":"8548 E Chapman Ave",
+    "city":"Orange",
+    "state":"CA",
+    "zip":"92869",
+    "phone":"(714)997-2160",
+    "lat":33.790626,
+    "lng":-117.76206
+  },
+  {
+    "storeNumber":"2482",
+    "addr":"4035 W Chapman",
+    "city":"Orange",
+    "state":"CA",
+    "zip":"92868",
+    "phone":"(714)634-8623",
+    "lat":33.789243,
+    "lng":-117.897195
+  },
+  {
+    "storeNumber":"4306",
+    "addr":"11291 Talbert",
+    "city":"Fountain Valley",
+    "state":"CA",
+    "zip":"92708",
+    "phone":"(714)540-8736",
+    "lat":33.70219,
+    "lng":-117.932988
+  },
+  {
+    "storeNumber":"3838",
+    "addr":"1990 Ostrems Way",
+    "city":"San Bernardino",
+    "state":"CA",
+    "zip":"92407",
+    "phone":"(909)880-4400",
+    "lat":34.162024,
+    "lng":-117.334283
+  },
+  {
+    "storeNumber":"3111",
+    "addr":"16252 Harbor Blvd",
+    "city":"Santa Ana",
+    "state":"CA",
+    "zip":"92704",
+    "phone":"(714)531-6878",
+    "lat":33.727169,
+    "lng":-117.919686
+  },
+  {
+    "storeNumber":"16640",
+    "addr":"535 W Harvard Blvd",
+    "city":"Santa Paula",
+    "state":"CA",
+    "zip":"93060",
+    "phone":"(805)525-4466",
+    "lat":34.344131,
+    "lng":-119.079252
+  },
+  {
+    "storeNumber":"16639",
+    "addr":"23275 Mulholland Dr",
+    "city":"Woodland Hills",
+    "state":"CA",
+    "zip":"91364",
+    "phone":"(818)591-7626",
+    "lat":34.155737,
+    "lng":-118.633412
+  },
+  {
+    "storeNumber":"16546",
+    "addr":"11850 Old Grade Rd",
+    "city":"Ojai",
+    "state":"CA",
+    "zip":"93023",
+    "phone":"(805)646-6715",
+    "lat":34.424339,
+    "lng":-119.288263
+  },
+  {
+    "storeNumber":"2450",
+    "addr":"800 Ventura St",
+    "city":"Fillmore",
+    "state":"CA",
+    "zip":"93015",
+    "phone":"(805)524-2891",
+    "lat":34.395535,
+    "lng":-118.920279
+  },
+  {
+    "storeNumber":"20443",
+    "addr":"1201 Santee St",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip":"90015",
+    "phone":"(213)765-4987",
+    "lat":34.036322,
+    "lng":-118.257586
+  },
+  {
+    "storeNumber":"29284",
+    "addr":"8256 Orion Ave",
+    "city":"Van Nuys",
+    "state":"CA",
+    "zip":"91406",
+    "phone":null,
+    "lat":34.220833,
+    "lng":-118.47195
+  },
+  {
+    "storeNumber":"3148",
+    "addr":"11007 Garvey Ave",
+    "city":"El Monte",
+    "state":"CA",
+    "zip":"91733",
+    "phone":null,
+    "lat":34.063137,
+    "lng":-118.035361
+  },
+  {
+    "storeNumber":"26639",
+    "addr":"1 Glen Bell Way",
+    "city":"Irvine",
+    "state":"CA",
+    "zip":"92618",
+    "phone":"(949)863-2237",
+    "lat":33.657126,
+    "lng":-117.746395
+  },
+  {
+    "storeNumber":"3631",
+    "addr":"375 S Lovekin Blvd",
+    "city":"Blythe",
+    "state":"CA",
+    "zip":"92225",
+    "phone":null,
+    "lat":33.605258,
+    "lng":-114.605824
+  }
+]

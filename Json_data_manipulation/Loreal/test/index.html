@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TWC</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel=StyleSheet HREF="http://creativepreview.wideout.com/TWC/TWC049/Working_V2/iphone-320x480/style_expand.css" type="text/css">
+    <!--<script src="http://maps.googleapis.com/maps/api/js?client=gme­theweatherchannel&sensor=false&v=3.15&channel=twc-ad-ASC-5376"></script>-->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyAq3hdbwphu-9_UIlZLtRzGBsJlkOtfWXk&sensor=false"></script>
+    <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-37923185-24', 'imwx.com');
+	ga('send','event','iPhone','pageview');
+    </script>
+</head>
+<body>
+    <div id="csAd">
+        <div id="standardContainer">
+        <img id="headerImg">
+	<img id="menu">
+	<!--<img id="guide">-->
+	<div id="listBtn" class="listBtn"></div>
+	<div id="mapBtn" class="mapBtn"></div>
+	<div id="listTab"></div>
+	<div id="mapTab"></div>
+    </div>
+    <script type="text/javascript">
+        var csAd = {},map,minimum,ctrItm=0,currentInfoWindow=null,noNear=false,dcAd = {};dcAd.isMobile = false,listBtn=document.getElementById("listBtn"),mapBtn=document.getElementById("mapBtn"),mapTab=document.getElementById("mapTab"),menu=document.getElementById("menu"),listTab=document.getElementById("listTab")/*,guide=document.getElementById("guide")*/,headerImg = document.getElementById("headerImg"),standardContainer = document.getElementById("standardContainer"), isMobile = {Android: function() {return navigator.userAgent.match(/Android/i);},BlackBerry: function() {return navigator.userAgent.match(/BlackBerry/i);},iOS: function() {return navigator.userAgent.match(/iPhone|iPad|iPod/i);},Opera: function() {return navigator.userAgent.match(/Opera Mini/i);},Windows: function() {return navigator.userAgent.match(/IEMobile/i);},any: function() {return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());}};
+        if(isMobile.any() != null){dcAd.isMobile = true;}else{dcAd.isMobile = false;}
+        function gaTracks(e,storeId){
+	    switch(e){
+		case"ListTap":ga('send','event','iPhone','click','List tab tap');break;
+		case"MapTap":ga('send','event','iPhone','click','Map tab tap');break;
+		case"List-StoreDial":ga('send','event','iPhone','click','List - Store dial',storeId);break;
+		case"Map-StoreInfo":ga('send','event','iPhone','click','Map - Store Info',storeId);break;
+		case"Map-StoreDial":ga('send','event','iPhone','click','Map - Store Dial',storeId);break;
+	    }
+	}
+	csAd.config = {
+            adId:"csAd",
+            width:320,
+            height:480,
+            dir:"http://creativepreview.wideout.com/TWC/TWC049/Working_V2/",/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>DIRECTORY OF FILES HERE*/
+            dfpClick:"%%CLICK_URL_UNESC%%",
+            isTest:false,
+            data: {},
+            phase:[{type:"features",method:"loadJQuery",isOn:false}, {type:"features",method:"getPixelRatio",isOn:true}, {type:"adapter",method:"init",isOn:false}, {type:"windowshade",method:"init",isOn:false}, {type:"mwexpand",method:"init",isOn:false}, {type:"app",method:"init",isOn:true}],
+	    adrsAry: [],
+	    ctyAry: [],
+	    stateAry: [],
+	    zipAry:[],
+	    phnAry:[],
+	    distAry:[],
+	    tpTnLw:[],
+	    latAry:[],
+	    lngAry:[],
+	    strNum:[]
+        }
+        csAd.d = {
+            imgWidth: csAd.config.width,
+            imgHeight: csAd.config.height,
+            offset: 0,
+            img: "backup",/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>ENTER THE NAME OF THE IMAGE HERE*/
+            alt: "Taco_Bell",
+            extUrl: "",
+            clickthruURL: "" /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>DEFAULT CLICK TRACKING HERE*/
+        }
+        csAd.tracking = {
+            pixel: "",			/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>NON-RETINA PIXEL TRACKING HERE*/
+            click: ""			/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>NON-RETINA CLICK TRACKING HERE*/
+        }
+        csAd.vars={clickTag:encodeURIComponent("[]")};
+	csAd.errors=[];
+        csAd.ad = {
+            methodCount: 0,
+            init: function() {csAd.ad.setUrl();csAd.ad.nextMethod();},
+            setUrl:function() {if(csAd.config.isTest){if(csAd.tracking.click!=""){csAd.d.clickthruURL=csAd.tracking.click}else{csAd.d.clickthruURL=csAd.d.extUrl}}else{if(csAd.tracking.click!=""){csAd.d.clickthruURL=csAd.config.dfpClick+csAd.tracking.click}else{csAd.d.clickthruURL=csAd.config.dfpClick+csAd.d.extUrl}}},
+            openUrl: function() {window.open(csAd.d.clickthruURL, '_blank');},
+            nextMethod: function(n) {
+                n = typeof n !== 'undefined' ? n : 0;
+                var mCount = csAd.ad.methodCount + n;
+                csAd.ad.methodCount = mCount
+                if(csAd.ad.methodCount < csAd.config.phase.length) {if(csAd.config.phase[mCount].isOn) {csAd[csAd.config.phase[mCount].type][csAd.config.phase[mCount].method]();}else{csAd.ad.nextMethod(1);}}else{csWriteCreative();}
+            },
+	    getLocation:function(){
+		csLoadData("34.1", "-118.41", "CA");
+	    }
+        }
+        csAd.features = {
+            timer: false,
+            jQuerySet: false,
+            pixelRatio: 1,
+            loadJQuery: function() {
+                if(typeof(jQuery) == 'undefined') {
+                    if(!csAd.features.jQuerySet) {
+                        var locSrc = 'http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js';
+                        var jquery = document.createElement('script');
+                        jquery.setAttribute('type', 'text/javascript');
+                        jquery.setAttribute('src', locSrc);
+                        document.body.appendChild(jquery);
+                        csAd.features.jQuerySet = true;
+                    }
+                    setTimeout(function() {csAd.features.loadJQuery();}, 50);
+                } else {csAd.ad.nextMethod(1);}
+            },
+            getPixelRatio: function() {
+                if(window.devicePixelRatio > 1) {
+                    csAd.config.pixelRatio = 2;
+                    csAd.d.imgWidth = (csAd.config.width * 2);
+                    csAd.d.imgHeight = (csAd.config.height * 2);
+                    csAd.tracking.pixel="";		/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RETINA PIXEL TRACKING HERE*/
+                    csAd.tracking.click="";		/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RETINA CLICK TRACKING HERE*/
+                    if(csAd.config.isMW == true) {csAd.d.offset = 10;}
+                    csAd.ad.setUrl();
+                }
+                csAd.ad.nextMethod(1);
+            },
+            exVars: [],
+            urlGET: function(q, s) {if(csAd.features.exVars.length < 1) {s = s ? s : window.location.search;s.replace(/[?&  ]+([^=&]+)=([^&]*)/gi, function(m, key, value) {csAd.features.exVars[key] = value;});}return decodeURIComponent(csAd.features.exVars[q]);}
+        }
+        csAd.app = {
+            init: function(){csAd.app.csSetVars();csAd.app.loadAdmob()},
+            loadAdmob:function(){
+                var b="http://media.admob.com/api/v1/google_mobile_app_ads.js";
+                var a=document.createElement("script");
+                a.setAttribute("type","text/javascript");
+                a.setAttribute("src",b);
+                document.body.appendChild(a);
+                csAd.app.initComplet()
+            },
+            initComplet:function(){/*csAd.ad.nextMethod(1)*/},
+            csSetVars: function() {
+                csAd.d.clickthruURL = csAd.features.urlGET('clickThru');
+		csAd.d.lat = csAd.features.urlGET('lat');
+		csAd.d.lng = csAd.features.urlGET('lng');
+		csAd.d.state = csAd.features.urlGET('state');
+                csAd.ad.nextMethod(1);csAd.ad.getLocation();
+            },
+            openUrl: function() {admob.opener.openUrl(csAd.d.clickthruURL);}
+        }
+	var tDiv = document.getElementById(csAd.config.adId)
+	function csLoadData(csLat, csLng, csState){
+	    var request,info,i,dist
+	    if(window.XMLHttpRequest){request=new XMLHttpRequest();}else{request = new ActiveXObject("Microsoft.XMLHTTP");}
+	    request.open('GET', 'http://deniscool.t15.org/archives/gmap/store_CA.json');
+	    request.send();
+	    request.onreadystatechange = function(){
+		if((request.status ===200) && (request.readyState === 4)){
+		    info = JSON.parse(request.responseText);
+		    for (i = 0; i < info.length; i++){
+			dist = getDistance(csLat,csLng,info[i]["lat"],info[i]["lng"]);
+			if(dist <= 15){
+			    csAd.config.strNum.push(info[i]["storeNumber"]);csAd.config.latAry.push(info[i]["lat"]);csAd.config.lngAry.push(info[i]["lng"]);csAd.config.adrsAry.push(info[i]["addr"]);csAd.config.ctyAry.push(info[i]["city"]);csAd.config.stateAry.push(info[i]["state"]);csAd.config.zipAry.push(info[i]["zip"]);csAd.config.phnAry.push(info[i]["phone"]);ctrItm++;
+			}
+			if(i == info.length-1){
+			    if(typeof csAd.config.adrsAry !== 'undefined' && csAd.config.adrsAry.length >0){noNear = false;}else{noNear = true;ctrItm=1;}dataBasesLoaded();
+			}
+		    }
+		}
+	    };
+	}
+	function degXrad(deg){rad=deg*Math.PI/180;return rad;}
+	function round(x){return Math.round(x*1000)/1000}
+	Array.min = function(array){return Math.min.apply( Math, array );};
+	function getDistance(lat1,lng1,lat2,lng2){
+	    var lt1,lt2,lg1,lg2,fnlLat,fnlLng,a,c,d,Rm=3961/*MILES*/,Rk=6373/*KILOMETER*/,m;
+	    lt1 = degXrad(lat1);lt2 = degXrad(lat2);
+	    lg1 = degXrad(lng1);lg2 = degXrad(lng2);
+	    fnlLat = lt2-lt1;
+	    fnlLng = lg2-lg1;
+	    a = Math.pow(Math.sin(fnlLat/2),2) + Math.cos(lt1) * Math.cos(lt2) * Math.pow(Math.sin(fnlLng/2),2);
+	    c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+	    d = c * Rm
+	    m = round(d);
+	    return Math.round(m);
+	}
+	function trace(msg){console.log(msg);}
+        function csWriteCreative() {
+            if(csAd.d.img != "") { /* Primary Container Style */
+                tDiv.style.width = csAd.config.width + "px";
+                tDiv.style.height = csAd.config.height + "px";
+                tDiv.style.cursor = "pointer";
+                tDiv.style.margin = "0px 0px 0px 0px";
+                tDiv.style.position = "relative";
+                tDiv.style.overflow = "hidden";
+                tDiv.style.display = "none";
+                tDiv.style.top = "0px";
+                tDiv.style.backgroundColor="#fff";
+                if(csAd.tracking.pixel != ""){
+                    var imgOneByOne = document.getElementById("imgOneByOne");
+                    imgOneByOne.src = csAd.tracking.pixel;
+                    imgOneByOne.style.position = "absolute";
+                    imgOneByOne.style.display = "none";
+                    imgOneByOne.border = 0;
+                }
+                var images = new Array( csAd.config.dir+"images/"+ csAd.d.imgWidth + "x" + csAd.d.imgHeight +"_expHeaderBg.jpg",
+				        csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_row.jpg",
+					csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_redBarList.png",
+					csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_redBarMap.png"
+                                   );
+                var loadedImage = 0;
+                for(var i=0; i<=images.length-1; i++) {imageObj = new Image();imageObj.src=images[i];imageObj.addEventListener("load",iLoad,false)}
+                function iLoad(){loadedImage++;if(images.length == loadedImage){imagesLoaded();}};
+		headerImg.src=csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_expHeaderBg.jpg";
+		headerImg.style.position="absolute";headerImg.width="320";headerImg.height="205";
+
+		menu.src=csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_redBarList.png";
+		menu.style.position="absolute";menu.width="320";menu.height="74";
+
+		//guide.src=csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_guide1.jpg";
+		//guide.style.position="absolute";guide.width="320";guide.height="568";
+            }
+        }
+	function csShowDefault(){console.log("SHOW_DEFAULT");}
+	function dataBasesLoaded(){
+	    var xCtr,contentString,rowBgTop=0,adrsTxtTop=31,ctyTxt=45,titleTxt=10,phoneNum;
+	    var fragment = document.createDocumentFragment();
+	    for(xCtr=0;xCtr<ctrItm;xCtr++){
+		if(!noNear){
+		    csAd["address"+xCtr]=document.createElement("p");csAd["city"+xCtr]=document.createElement("p");csAd["title"+xCtr]=document.createElement("p");csAd["bg"+xCtr]=document.createElement("div");csAd["clickToCall"+xCtr]=document.createElement("a");
+		    csAd["bg"+xCtr].setAttribute('id','bg'+xCtr);
+		    csAd["title"+xCtr].setAttribute('class','titleTxt');csAd["title"+xCtr].innerHTML = "Taco Bell"
+		    csAd["title"+xCtr].style.top=titleTxt+"px";csAd["title"+xCtr].style.left="17px";
+		    csAd["city"+xCtr].setAttribute('class','infoTxt')
+		    csAd["city"+xCtr].innerHTML = csAd.config.ctyAry[xCtr]+",&nbsp;"+csAd.config.stateAry[xCtr]+"&nbsp;"+csAd.config.zipAry[xCtr];
+		    csAd["city"+xCtr].style.top=(ctyTxt)+"px";csAd["city"+xCtr].style.left="18px";
+		    csAd["address"+xCtr].setAttribute('class','infoTxt');
+		    csAd["address"+xCtr].innerHTML = csAd.config.adrsAry[xCtr];
+		    csAd["address"+xCtr].style.top=(adrsTxtTop)+"px";csAd["address"+xCtr].style.left="18px";
+		    if(csAd.config.phnAry[xCtr] != null){csAd["bg"+xCtr].style.background= "url('"+csAd.config.dir+"images/"+ csAd.d.imgWidth + "x" + csAd.d.imgHeight +"_row.jpg')";}else{csAd["bg"+xCtr].style.background= "url('"+csAd.config.dir+"images/"+ csAd.d.imgWidth + "x" + csAd.d.imgHeight +"_rowNoArrow.jpg')";}
+		    csAd["bg"+xCtr].style.backgroundSize="320px 71px";csAd["bg"+xCtr].style.width = "320px";csAd["bg"+xCtr].style.height = "71px";csAd["bg"+xCtr].style.position="absolute";
+		    csAd["bg"+xCtr].style.opacity="1";csAd["bg"+xCtr].style.top=(rowBgTop)+"px";csAd["bg"+xCtr].style.zIndex = "998";
+		    if(csAd.config.phnAry[xCtr] != null){
+			phoneNum = csAd.config.phnAry[xCtr];
+			csAd["clickToCall"+xCtr].setAttribute("href","tel:"+phoneNum);
+			csAd["clickToCall"+xCtr].setAttribute("onclick","listClckEvent("+xCtr+");")
+		    }else{phoneNum = "0"}
+		    csAd["clickToCall"+xCtr].style.width = "320px";csAd["clickToCall"+xCtr].style.height = "71px";csAd["clickToCall"+xCtr].style.position="absolute";
+		    csAd["clickToCall"+xCtr].style.top=(rowBgTop)+"px";csAd["clickToCall"+xCtr].style.zIndex = "1000";
+		    rowBgTop=rowBgTop+71;titleTxt=titleTxt+71;adrsTxtTop=adrsTxtTop+71;ctyTxt=ctyTxt+71;
+		    listTab.appendChild(csAd["clickToCall"+xCtr]);
+		    listTab.appendChild(csAd["bg"+xCtr]);
+		    listTab.appendChild(csAd["address"+xCtr]);
+		    listTab.appendChild(csAd["city"+xCtr]);
+		    listTab.appendChild(csAd["title"+xCtr]);
+		    /*MAP_CONTENT*/
+		    contentString = '<div style="width:200px; font-family: \'ArielRound\';"><span style="font-size:14px;">Taco Bell</span><br>';
+		    contentString += '<span style="font-size:12px; color:#790f11;">';
+		    contentString += csAd.config.adrsAry[xCtr] + "<br>" + csAd.config.ctyAry[xCtr]+",&nbsp;"+csAd.config.stateAry[xCtr]+"&nbsp;"+csAd.config.zipAry[xCtr];
+		    if(csAd.config.phnAry[xCtr] != null){contentString += '<br><a style="width:100%;height:100%" onclick="mapClckEvent('+xCtr+');" href="tel:'+phoneNum+'">'+phoneNum+'</a>';}
+		    contentString += '</span>';
+		    addMarker(csAd.config.latAry[xCtr], csAd.config.lngAry[xCtr], contentString, csAd.config.strNum[xCtr]);
+		    if(xCtr == (ctrItm-1)){buttonFunction();}
+		}else{
+		    csAd["text"+xCtr]=document.createElement("p");
+		    csAd["text"+xCtr].setAttribute('class','noStoreTxt');
+		    csAd["text"+xCtr].style.position="absolute";
+		    csAd["text"+xCtr].style.top="130px";csAd["text"+xCtr].style.left="70px";
+		    csAd["text"+xCtr].innerHTML = "No stores available near you"
+		    listTab.appendChild(csAd["text"+xCtr]);
+		    buttonFunction();
+		}
+	    }
+	}
+	function listClckEvent(e){gaTracks("List-StoreDial",csAd.config.strNum[e]) }
+	function mapClckEvent(e){gaTracks("Map-StoreDial",csAd.config.strNum[e]) }
+	function initialize(){var mapOptions = {zoom: 10,center: new google.maps.LatLng(csAd.d.lat, csAd.d.lng)};map = new google.maps.Map(mapTab, mapOptions);}
+	function addMarker(marker_lat, marker_long, marker_desc, marker_number){
+	    var image = new google.maps.MarkerImage(csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_marker.png", null, null, new google.maps.Point(0, 32), new google.maps.Size(44, 48));
+	    var marker_latLong = new google.maps.LatLng(marker_lat, marker_long);
+	    var marker = new google.maps.Marker({map: map,position: marker_latLong,icon: image,title: "Taco Bell"});
+	    marker.setPosition(marker_latLong);
+	    var contentString = marker_desc;
+	    var marker_num = marker_number;
+	    var infowindow = new google.maps.InfoWindow({content: contentString,maxWidth:"200"});
+	    google.maps.event.addListener(marker, 'click', function() {
+		if (currentInfoWindow != null) { currentInfoWindow.close(); } gaTracks("Map-StoreInfo",marker_num);infowindow.open(map, marker);currentInfoWindow = infowindow;
+	    });
+	    map.setCenter(marker_latLong);
+	}
+        function imagesLoaded(){tDiv.style.display = "block";}
+	google.maps.event.addDomListener(window, 'load', initialize);
+	function buttonFunction(){
+	    listBtn.addEventListener('click',buttonHandler,false)
+	    mapBtn.addEventListener('click',buttonHandler,false)
+	    headerImg.addEventListener('click',buttonHandler,false)
+	    listTab.addEventListener('touches',function(e){e.preventDefault();},false)
+	}
+	function buttonHandler(e){
+	    var x=e.currentTarget;
+	    switch(x.id){
+		case"listBtn":
+		    menu.setAttribute('src',csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_redBarList.png");listTab.style.display="block";mapTab.style.display="none";gaTracks("ListTap");
+		break;
+		case"mapBtn":
+		    menu.setAttribute('src',csAd.config.dir+"images/"+csAd.d.imgWidth+"x"+csAd.d.imgHeight+"_redBarMap.png");listTab.style.display="none";mapTab.style.display="block";gaTracks("MapTap");
+		    google.maps.event.trigger(map, 'resize')
+		break;
+		case"headerImg":
+		    csAd.app.openUrl();
+		break;
+	    }
+	}
+	window.onload = function(){/*loadMap();*/csAd.ad.init();} /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INITIATE HERE*/
+    </script>
+</body>
+</html>

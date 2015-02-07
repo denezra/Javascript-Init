@@ -1,0 +1,12 @@
+html,body,p{margin: 0px;}
+@media screen {@font-face {font-family:'ArielRound';src:url('http://creativepreview.wideout.com/TWC/TWC049/Working_V2/fonts/ARLRDBD.ttf') format('truetype');}}
+p{position: absolute;font-family:'ArielRound';}
+.infoTxt{text-align: left;color:#a31e1f;font-size: 12px;z-index: 1999}
+.titleTxt{text-align: left;color:black;font-size: 14px;letter-spacing:0px;z-index: 1999}
+.noStoreTxt{text-align: left;color:black;font-size: 14px;letter-spacing:0px;z-index: 1999}
+#headerImg{top: 0px; left: 0px;}
+#listTab{overflow: scroll;position: absolute; width: 335px; height: 209px;top: 272px;}
+#mapTab{position: absolute; width: 320px; height: 209px; top: 272px; left: 0px; display: none;}
+#menu{top: 205px; left: 0px;z-index: 999;}
+/*#guide{opacity: 0; top: 0px; left: 0px;}*/
+#listBtn, #mapBtn{position: absolute; height: 29px; width: 119px;z-index: 1000;}.mapBtn{top: 211px;left: 41px;}.listBtn{top: 211px;left: 160px;}
