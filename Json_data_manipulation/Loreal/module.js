@@ -1,7 +1,16 @@
 // Variable Global
 var csAd = {};
-// JSONP data
-var storeData = [];
+// JSON data
+var storeData = [{
+                  "store_id": "store_two",
+                  "locations": { "latitude": 33.982539, "longitude": -118.091727 }
+                  }, {
+                  "store_id": "store_three",
+                  "locations": { "latitude": 40.733448, "longitude": -73.987837 }
+                  }, {
+                  "store_id": "store_one",
+                  "locations": { "latitude": 33.987318, "longitude": -118.47252 }
+                  }];
 
 // Window Load
 window.onload = function() {
@@ -36,6 +45,13 @@ function onPlayerReady(event) {}
 
 // Enabler Initialize Handler
 function enablerInitHandler() {
+	// Distance Array
+  	csAd.distance 	= new Array();
+  	// Index
+  	csAd.indexArray	= 0;
+  	// Gmaps Latitude and Longitude
+  	csAd.pingLat 	= 33.987318;
+  	csAd.pingLong	= -118.47252;
 	// This code loads the IFrame Player API code asynchronously.
 	var tag = document.createElement('script');
 
@@ -130,36 +146,50 @@ function enablerInitHandler() {
 
 	function geoLoc() {
 		// Geo-location code to track the user possition
-		navigator.geolocation.getCurrentPosition(function(position) {
-			// Allow user to get the position
-	    	csAd.user_lat = position.coords.latitude,
-	    	csAd.user_lon = position.coords.longitude;
-	    	availableText();
+	    navigator.geolocation.getCurrentPosition(function(position) {
+	    // Allow user to get the position
+	      csAd.user_lat = position.coords.latitude,
+	      csAd.user_lon = position.coords.longitude;
+	      for(var i = 0; i < storeData.length; i++){
+	        var result_test = getDistance(csAd.user_lat, csAd.user_lon, storeData[i].locations.latitude, storeData[i].locations.longitude);
+	        csAd.distance.push(result_test);
+	      }
+	    // Flag if Allow or Deny
+	      csAd.allowed = true;
+	      availableText();
 	    }, function() {
-	    	// Deny user to get the positon
-	    	availableText();
-	    }
-	    );
+	      // Deny user to get the positon
+	      // Flag if Allow or Deny
+	    	csAd.allowed = false;
+	      	availableText();
+	    });
 	}
 
 	function availableText() {
-		setTimeout(function() {
-    		csAd.text5_scene_col.className	+= " fade-in-text4_col-divide_col-tex5_col";
-    		csAd.text4_scene_col.className	+= " fade-in-text4_col-divide_col-tex5_col";
-    		csAd.divide_col.className		+= " fade-in-text4_col-divide_col-tex5_col";
-    		if (getDistance(csAd.user_lat, csAd.user_lon, 33.987318, -118.47252).length <=7 ){
-    			csAd.text5_scene_col.style.fontSize = '7px';
-    			csAd.text5_scene_col.style.top 		= '35.3px';
-    		}
-    		var result = getDistance(csAd.user_lat, csAd.user_lon, 33.987318, -118.47252);
-    		if (isNaN(result)){
-    			csAd.text5_scene_col.innerHTML = "No Available";
-    		} else {
-    			csAd.text5_scene_col.innerHTML = result + " Miles Away";
-    		}
-    	}, 500);
-	}
+    	setTimeout(function() {
+	        csAd.text5_scene_col.className  += " fade-in-text4_col-divide_col-tex5_col";
+	        csAd.text4_scene_col.className  += " fade-in-text4_col-divide_col-tex5_col";
+	        csAd.divide_col.className   += " fade-in-text4_col-divide_col-tex5_col";
+	        if (Math.min(csAd.distance).length <=7 ){
+	          	csAd.text5_scene_col.style.fontSize = '7px';
+	          	csAd.text5_scene_col.style.top    = '35.3px';
+	        }
+	        if (!csAd.allowed){
+	          	csAd.text5_scene_col.innerHTML = "No Available";
+	        } else {
+	          	csAd.text5_scene_col.innerHTML = Array.min(csAd.distance) + " Miles Away";
+	          	csAd.indexArray = indexOfSmallest(csAd.distance)
+	          	csAd.pingLat 	= storeData[csAd.indexArray].locations.latitude;
+  				csAd.pingLong	= storeData[csAd.indexArray].locations.longitude;
+	        }
+      }, 500);
+  }
 }
+// Array get smallest value
+Array.min = function(array){  return Math.min.apply( Math, array );  };
+// Index of the Smallest value
+function indexOfSmallest(array) { return array.indexOf(Array.min(array).toString()); }
+//
 // Degrees to Radius
 function degRad (deg) {
 	var rad = deg*Math.PI/180;
@@ -219,10 +249,10 @@ function expandHandler() {
 
 	// Initiation of Google Map
 	initialize();
-	
+
 	function initialize() {
 		// Setting the Latitude and Longitude
-		csAd.myLatLng   = new google.maps.LatLng(33.987318, -118.47252);
+		csAd.myLatLng   = new google.maps.LatLng(csAd.pingLat, csAd.pingLong);
 		// Google Map set-up
 		var map_options  = {
 	      center: csAd.myLatLng,
@@ -412,14 +442,14 @@ function expandHandler() {
 								csAd.shade_red.className 			 	+= " fade-in-logo_exp";
 								csAd.dot_frame2_exp.className		 	+= " fade-in-logo_exp";
 								addMarker();
-								var result = getDistance(csAd.user_lat, csAd.user_lon, 33.987318, -118.47252);
+								var result = getDistance(csAd.user_lat, csAd.user_lon, csAd.pingLat, csAd.pingLong);
 								if (result.length <=7 ){
 					    			csAd.text5_scene_frame2_exp.style.left = '208px';
 					    		}
-					    		if (isNaN(result)){
+					    		if (!csAd.allowed){
 					    			csAd.text5_scene_frame2_exp.innerHTML = "No Available";
 					    		} else {
-					    			csAd.text5_scene_frame2_exp.innerHTML = result + " Miles Away";
+					    			csAd.text5_scene_frame2_exp.innerHTML = Array.min(csAd.distance) + " Miles Away";
 					    		}
 							},700)
 						}, 100)
