@@ -2,11 +2,11 @@
 var csAd = {};
 // JSON data
 var storeData = [{
-                  "store_id": "store_two",
-                  "locations": { "latitude": 33.982539, "longitude": -118.091727 }
-                  }, {
                   "store_id": "store_three",
                   "locations": { "latitude": 40.733448, "longitude": -73.987837 }
+                  }, {
+                  "store_id": "store_two",
+                  "locations": { "latitude": 33.982539, "longitude": -118.091727 }
                   }, {
                   "store_id": "store_one",
                   "locations": { "latitude": 33.987318, "longitude": -118.47252 }
@@ -177,6 +177,7 @@ function enablerInitHandler() {
 	        if (!csAd.allowed){
 	          	csAd.text5_scene_col.innerHTML = "No Available";
 	        } else {
+	        	console.log(csAd.distance);
 	          	csAd.text5_scene_col.innerHTML = Array.min(csAd.distance) + " Miles Away";
 	          	csAd.indexArray = indexOfSmallest(csAd.distance)
 	          	csAd.pingLat 	= storeData[csAd.indexArray].locations.latitude;
