@@ -98,18 +98,30 @@ function enablerInitHandler() {
 	csAd.glow_col.style.backgroundSize		= "80px 80px";
 	csAd.glow_col.style.width 				= "80px";
 	csAd.glow_col.style.height			    = "80px";
-	// Preload Function
+	// Preload Function by MJ Espiritu
 	// Image Array
-	csAd.images_col = new Array()
-	function preload_col() {
-		for (i = 0; i < preload_col.arguments.length; i++) {
-			csAd.images_col[i] 		= new Image()
-			csAd.images_col[i].src 	= preload_col.arguments[i]
-		}
-		csAd.images_col[3].addEventListener('load', preloadedCollapse);
+	csAd.images_col = new Array(
+							"logo_col.png",
+							"product_col.png",
+							"shape_col.png",
+							"bg_col.jpg"
+							)
+	// Image counter
+	var loadedImage = 0;
+	for(var i=0; i <= csAd.images_col.length -1 ; i++) {
+		imageObj 			= new Image();
+		imageObj.src 		= csAd.images_col[i];
+		imageObj.addEventListener("load", iLoad);
 	}
-	// Putting all the argument and pass to the function
-	preload_col( "logo_col.png", "product_col.png", "shape_col.png", "bg_col.jpg" )
+	// Function that image is loaded
+	function iLoad(){
+		// Counter _plus one
+		loadedImage++;
+		// All image cached in completely
+		if(csAd.images_col.length == loadedImage){
+			preloadedCollapse();
+		}
+	}
 
 	function preloadedCollapse() {
 		csAd.collapse_container.style.display = "block";
@@ -338,15 +350,34 @@ function expandHandler() {
 	csAd.shine_exp.style.height 		 			= "64px";
 
 
-	// Preload Function
+	// Preload Function by MJ Espiritu
 	// Image Array
-	csAd.images_exp = new Array();
-	function preload_exp() {
-		for (i = 0; i < preload_exp.arguments.length; i++) {
-			csAd.images_exp[i] 		= new Image()
-			csAd.images_exp[i].src 	= preload_exp.arguments[i]
+	csAd.images_exp = new Array(
+							"glow.png",
+							"logo_exp.png",
+							"product_exp.png",
+							"shape_exp.png",
+							"logo_exp.png",
+							"dot_exp.png",
+							"loreal_bg_exp.jpg",
+							"vid_shine.png",
+							"product_shine.png"
+						)
+	// Image counter
+	var loadedImage = 0;
+	for(var i=0; i <= csAd.images_exp.length-1; i++) {
+		imageObj 			= new Image();
+		imageObj.src 		= csAd.images_exp[i];
+		imageObj.addEventListener("load", iLoad);
+	}
+	// Function that image is loaded
+	function iLoad(){
+		// Counter _plus one
+		loadedImage++;
+		// All image cached in completely
+		if(csAd.images_exp.length == loadedImage){
+			preloadedExpand();
 		}
-		csAd.images_exp[6].addEventListener('load', preloadedExpand);
 	}
 	// Putting all the argument and pass to the function
 	preload_exp( "glow.png", "logo_exp.png", "product_exp.png", "shape_exp.png",
